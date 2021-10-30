@@ -1,0 +1,1782 @@
+city,deliveryTime,foodType,price,restaurantName
+adoni,-- MINS,Biryani,₹250 FOR TWO,Masala Bowl Multicusine Restaurant
+adoni,-- MINS,Biryani,₹200 FOR TWO,Vihari Food Court
+adoni,-- MINS,"South Indian, North Indian",₹250 FOR TWO,Deepthi Veg and nonveg Restaurant
+adoni,-- MINS,"Desserts, Ice Cream",₹150 FOR TWO,Lassi Shop
+adoni,-- MINS,South Indian,₹150 FOR TWO,Hotel Madhavi
+adoni,-- MINS,"North Indian, Chinese",₹150 FOR TWO,Arya Hotel
+adoni,-- MINS,Biryani,₹250 FOR TWO,S Usha Star Restaurant
+adoni,-- MINS,South Indian,₹150 FOR TWO,Bheemas Pure veg Restaurant
+adoni,-- MINS,"Kebabs, Chinese",₹250 FOR TWO,Only Kabab's
+adoni,-- MINS,Desserts,₹100 FOR TWO,SLV cake house
+adoni,-- MINS,"South Indian, Biryani",₹250 FOR TWO,Guntur vari K K Restaurant
+adoni,-- MINS,"Biryani, South Indian, Chinese",₹250 FOR TWO,New Spicy Hut
+adoni,-- MINS,"Asian, Chinese",₹250 FOR TWO,chinese food world
+adoni,-- MINS,South Indian,₹200 FOR TWO,Ma Palle Ruchulu
+adoni,-- MINS,Chinese,₹250 FOR TWO,King Kabab Point
+ahmednagar,-- MINS,Maharashtrian,₹100 FOR TWO,Hotel Mauli Misal
+ahmednagar,-- MINS,"Indian, Seafood, Chinese",₹500 FOR TWO,Hotel Suvarnam Aradhya
+ahmednagar,-- MINS,"Mughlai, Seafood",₹500 FOR TWO,Hotel Nandanvan
+ahmednagar,-- MINS,"Fast Food, Italian, Indian",₹200 FOR TWO,Delicious Pizza & Sandwich
+ahmednagar,-- MINS,"Maharashtrian, Chinese",₹150 FOR TWO,Lokseva Pure Veg
+ahmednagar,-- MINS,"Desserts, Fast Food",₹200 FOR TWO,Royal Ice Cream and fast food Restaurant
+ahmednagar,-- MINS,"Chinese, Biryani, Mughlai, Maharashtrian",₹300 FOR TWO,Hotel Pingara
+ahmednagar,-- MINS,Sweets,₹200 FOR TWO,Batra Food Products
+ahmednagar,-- MINS,"Rajasthani, Gujarati",₹250 FOR TWO,Chhappan Bhog
+ahmednagar,-- MINS,Fast Food,₹150 FOR TWO,Hotel Trupti
+ahmednagar,-- MINS,"Biryani, Maharashtrian",₹300 FOR TWO,Only Chicken House
+ahmednagar,-- MINS,Biryani,₹200 FOR TWO,Mohsins Hyderabadi Dum Biryani House
+ahmednagar,-- MINS,"Fast Food, Mughlai",₹300 FOR TWO,Hotel Paradise
+ahmednagar,-- MINS,Fast Food,₹150 FOR TWO,Royal Ice cream and fast food
+ahmednagar,-- MINS,Chinese,₹200 FOR TWO,Love Chinese
+abohar,33 MINS,Beverages,₹100 FOR TWO,theka coffee desi
+abohar,26 MINS,North Indian,₹200 FOR TWO,Bihari da vaishno dhaba
+abohar,26 MINS,Fast Food,₹150 FOR TWO,Maruti Plaza
+abohar,25 MINS,Continental,₹200 FOR TWO,Sam Uncle
+abohar,30 MINS,"Sweets, Beverages",₹200 FOR TWO,chacha sweets house
+abohar,29 MINS,Snacks,₹100 FOR TWO,Jodhpuri Kachori
+abohar,26 MINS,North Indian,₹150 FOR TWO,shere punjab veg
+abohar,26 MINS,"Sweets, Desserts",₹100 FOR TWO,Sethi Milk Badam
+abohar,27 MINS,North Indian,₹200 FOR TWO,Swastik Dhaba
+abohar,33 MINS,"North Indian, Fast Food",₹150 FOR TWO,NIKKU VEG THALI
+abohar,25 MINS,Fast Food,₹100 FOR TWO,Real Fast Food
+abohar,31 MINS,North Indian,₹200 FOR TWO,Kurda Ram Satyanarayan
+abohar,25 MINS,"North Indian, Chinese",₹200 FOR TWO,wah ji waah veg and non veg corner
+abohar,46 MINS,North Indian,₹200 FOR TWO,Sahab Ji Chicken Center
+abohar,25 MINS,"North Indian, Fast Food",₹150 FOR TWO,Kashyap Fast Food And Bakery
+abohar,39 MINS,"Fast Food, Beverages",₹100 FOR TWO,Sonu Juice Bhandhar
+adityapur,41 MINS,"Indian, Chinese, Snacks, Biryani",₹250 FOR TWO,Junction Express
+adityapur,49 MINS,Biryani,₹200 FOR TWO,Ghar Ki Biryani
+adityapur,35 MINS,"American, Fast Food, Snacks",₹400 FOR TWO,KFC
+adityapur,37 MINS,South Indian,₹200 FOR TWO,Dosa Planet
+adityapur,43 MINS,"Fast Food, Pizzas",₹350 FOR TWO,Pizza Hut
+adityapur,48 MINS,"Biryani, Chinese, Indian",₹200 FOR TWO,FIRE & GRILL
+adityapur,45 MINS,"Indian, Chinese",₹249 FOR TWO,Junction Restaurant
+adityapur,38 MINS,South Indian,₹200 FOR TWO,NEW GANGOUR SWEETS (Adityapur)
+adityapur,42 MINS,"Chinese, Indian",₹200 FOR TWO,The Spicy Junction Restaurant
+adityapur,39 MINS,"Indian, Tandoor, Chinese, Continental",₹300 FOR TWO,Asian Inn
+adityapur,57 MINS,"Chinese, Indian",₹150 FOR TWO,All in One Restaurant
+adityapur,62 MINS,Indian,₹200 FOR TWO,HAPPIE ALL DAY
+adityapur,41 MINS,"Indian, Chinese, South Indian",₹200 FOR TWO,Dosa Hut
+adityapur,55 MINS,Indian,₹200 FOR TWO,Kaveri (Adityapur)
+adityapur,39 MINS,"Bengali, Chinese",₹300 FOR TWO,Milanee s Kitchen
+adityapur,41 MINS,Indian,₹250 FOR TWO,Veggie Corner( Hotel Nataraj)
+akot,-- MINS,"Fast Food, Pizzas, Snacks",₹250 FOR TWO,Raj Cakes & Fast Food Corner
+akot,-- MINS,"Fast Food, Italian",₹200 FOR TWO,Spy Coffee Cafe (Beyond Temptition)
+adilabad,25 MINS,"Indian, Chinese, Tandoor, Biryani",₹400 FOR TWO,Devi Family Restaurant
+adilabad,25 MINS,Biryani,₹200 FOR TWO,Hotel Radha Grand Family restaurant
+adilabad,25 MINS,Biryani,₹400 FOR TWO,Sri Sai Mom's Kitchen Restaurant
+adilabad,25 MINS,"Indian, Chinese, Tandoor, Biryani",₹400 FOR TWO,Food Court
+adilabad,26 MINS,Biryani,₹250 FOR TWO,Lotus Grand Family Restaurant
+adilabad,31 MINS,"European, Italian",₹150 FOR TWO,Hot N Chill Restaurant
+adilabad,37 MINS,American,₹400 FOR TWO,IFC Restaurant
+adilabad,26 MINS,"Chinese, Indian",₹250 FOR TWO,Tanishq Family Restaurant
+adilabad,31 MINS,South Indian,₹250 FOR TWO,Renuka Hotel
+adilabad,-- MINS,"Street Food, Chaat",₹100 FOR TWO,Fayeem mirchi centre
+adilabad,-- MINS,Chinese,₹100 FOR TWO,Ayappa Fast Food
+adilabad,-- MINS,"Street Food, Snacks, Indian",₹100 FOR TWO,Neelesh kichidi centre
+adilabad,-- MINS,Indian,₹100 FOR TWO,Savitha sweet centre
+adilabad,-- MINS,"Street Food, Indian",₹110 FOR TWO,Shaifan tiffin centre
+adilabad,-- MINS,South Indian,₹200 FOR TWO,Ayyappa Mess
+ajmer,42 MINS,"Italian, American, Continental, Beverages",₹200 FOR TWO,Social Animals Cafe
+ajmer,31 MINS,North Indian,₹200 FOR TWO,Cafe Ate Pm
+ajmer,27 MINS,North Indian,₹350 FOR TWO,Annapurna Veg Restaurant
+ajmer,47 MINS,North Indian,₹250 FOR TWO,Chamunda Restaurant 
+ajmer,35 MINS,North Indian,₹200 FOR TWO,Punjabi Bytes N Roll
+agartala,30 MINS,Indian,₹200 FOR TWO,Trinayani
+ajmer,32 MINS,North Indian,₹300 FOR TWO,Manoj Fast Food
+ajmer,33 MINS,North Indian,₹200 FOR TWO,Bhabhi ji ki rasoi
+ajmer,29 MINS,North Indian,₹200 FOR TWO,Rajdeep Family Restaurant
+ajmer,31 MINS,"Chinese, Fast Food, North Indian",₹250 FOR TWO,L R Venus Cafe
+agartala,32 MINS,"North Indian, Bakery, Desserts, Chinese",₹200 FOR TWO,Sherowali Sweets And Fast Foods
+agartala,30 MINS,"North Indian, Chinese",₹300 FOR TWO,Daya Hari Chatpata
+agartala,41 MINS,"Chinese, Asian, Korean, Beverages",₹250 FOR TWO,Momos N More
+agartala,29 MINS,Desserts,₹100 FOR TWO,Gopal Mistanna Bhandar
+ahmedabad,21 MINS,"North Indian, Punjabi",₹200 FOR TWO,The Swad
+ajmer,40 MINS,"Afghani, Chinese, North Indian",₹150 FOR TWO,The Food Farm
+ajmer,36 MINS,North Indian,₹200 FOR TWO,"Meera'""s Kitchen"
+ajmer,30 MINS,North Indian,₹300 FOR TWO,Manoj kake di hatti - Martin Bridge
+achalpur,-- MINS,Fast Food,₹200 FOR TWO,Khushi fast food
+agra,28 MINS,North Indian,₹200 FOR TWO,Awadhi Foods
+agartala,30 MINS,"Sweets, Desserts",₹150 FOR TWO,Sherowali Sweets
+agartala,35 MINS,Indian,₹175 FOR TWO,Abar Khabo
+agartala,31 MINS,"Indian, Chinese, Sweets",₹175 FOR TWO,Daya Hari Mithai
+agartala,32 MINS,"American, Fast Food, Snacks",₹450 FOR TWO,KFC
+ahmedabad,26 MINS,"North Indian, Chinese, Combo, Thalis, Punjabi, Indian, Beverages, Salads, Home F...",₹200 FOR TWO,Food On Way
+ahmedabad,23 MINS,"North Indian, Chinese, Gujarati, Thalis, Navratri Special, Biryani, Indian, Beve...",₹300 FOR TWO,Meal Express - a brand by The Healthy Stove
+ahmedabad,23 MINS,Indian,₹250 FOR TWO,Anjoy Late Night Meals
+ahmedabad,25 MINS,North Indian,₹650 FOR TWO,Jassi De Parathe
+ajmer,28 MINS,"North Indian, Desserts",₹200 FOR TWO,Shree Jodhpur Sweets
+ajmer,35 MINS,North Indian,₹200 FOR TWO,Swad Restaurant
+ajmer,49 MINS,North Indian,₹300 FOR TWO,Manoj Kake Di Hatti - station raod
+ajmer,34 MINS,"North Indian, Mughlai",₹300 FOR TWO,Dua's Tandoori Junction
+achalpur,-- MINS,North Indian,₹300 FOR TWO,Flavours of North Indian
+achalpur,-- MINS,Bakery,₹200 FOR TWO,sagar cake corner
+achalpur,-- MINS,"Fast Food, North Indian, Chinese",₹150 FOR TWO,Dilli Darbar
+agra,38 MINS,North Indian,₹200 FOR TWO,Desi Masala
+agra,28 MINS,"Chinese, South Indian, North Indian, Continental",₹400 FOR TWO,Pankhuri Restaurant
+agra,38 MINS,South Indian,₹300 FOR TWO,Tirupati's Dosa Factory
+agra,30 MINS,North Indian,₹600 FOR TWO,Labbaik Chicken Corner
+agra,33 MINS,"Chinese, Fast Food, North Indian, Mughlai, Street Food",₹200 FOR TWO,Mama Chicken Mama Franky House
+agartala,39 MINS,North Indian,₹300 FOR TWO,Heritage
+agartala,31 MINS,Indian,₹125 FOR TWO,Mrs. Banyan Resturant
+agartala,30 MINS,"Indian, Chinese, Continental, Snacks",₹200 FOR TWO,TryMe
+agartala,37 MINS,"Fast Food, North Indian",₹300 FOR TWO,The Fat Chicken
+agartala,29 MINS,North Indian,₹175 FOR TWO,Shyamasree Restaurant
+ahmedabad,28 MINS,"North Indian, Gujarati, Indian, Desserts",₹500 FOR TWO,Khichdi Etc
+ahmedabad,36 MINS,"American, Fast Food, Snacks",₹400 FOR TWO,KFC
+ahmedabad,35 MINS,"Desserts, Fast Food",₹600 FOR TWO,Cake Eggless
+ahmedabad,24 MINS,"Sweets, Fast Food, Snacks",₹250 FOR TWO,Gwalia Sweets & Fast Food
+allahabad,29 MINS,"Desserts, Ice Cream",₹300 FOR TWO,Kwality Walls Frozen Dessert & Ice Cream Shop
+achalpur,-- MINS,Fast Food,₹100 FOR TWO,Rasoi
+achalpur,-- MINS,"Maharashtrian, North Indian, Chinese",₹300 FOR TWO,Sanjay Bhojnalya
+achalpur,-- MINS,North Indian,₹350 FOR TWO,Damodar Bhojnalya
+agra,37 MINS,North Indian,₹300 FOR TWO,Amritsari Kulcha junction
+agra,38 MINS,Desserts,₹200 FOR TWO,FNP Cakes n More
+agra,32 MINS,"Street Food, Indian, Chinese",₹100 FOR TWO,Radha rani food corner
+agra,46 MINS,"North Indian, Mughlai",₹300 FOR TWO,Karchi
+agartala,31 MINS,North Indian,₹275 FOR TWO,Brewbakes Cafe Bistro
+agartala,41 MINS,"Indian, Chinese, Fast Food",₹200 FOR TWO,Bhoj On
+ahmedabad,43 MINS,Indian,₹200 FOR TWO,NANKING EXPRESS
+ahmedabad,27 MINS,Pizzas,₹400 FOR TWO,Round Slice
+ahmedabad,24 MINS,"Cafe, Pizzas, Beverages, Desserts, Ice Cream, Fast Food, Italian, Pastas",₹500 FOR TWO,Huber & Holly
+allahabad,25 MINS,"Indian, Chinese",₹250 FOR TWO,Gay Time Family Restaurant
+allahabad,37 MINS,Fast Food,₹400 FOR TWO,McDonald's
+agra,33 MINS,"Snacks, Sweets, Fast Food",₹200 FOR TWO,Pushpak Misthan Bhandar
+agra,38 MINS,"Desserts, Fast Food",₹300 FOR TWO,Deep Corner
+agra,42 MINS,Fast Food,₹400 FOR TWO,What the food
+agra,35 MINS,North Indian,₹400 FOR TWO,Shan-E-Hind
+agra,33 MINS,North Indian,₹200 FOR TWO,Papa Ji Da Dhaba
+ahmedabad,22 MINS,Indian,₹300 FOR TWO,JUGAADI ADDA
+ahmedabad,28 MINS,"North Indian, Italian, Lebanese, American, Mexican",₹1000 FOR TWO,Nini's Kitchen
+ahmedabad,26 MINS,"Fast Food, Combo, Snacks",₹200 FOR TWO,Faasos - Wraps & Rolls
+ahmedabad,30 MINS,Bakery,₹250 FOR TWO,Fresh N Fresh
+allahabad,44 MINS,"North Indian, Chinese",₹300 FOR TWO,Kailash Parbat
+allahabad,29 MINS,Biryani,₹150 FOR TWO,Bhaijaan Dum Biryani
+allahabad,25 MINS,"Mughlai, Biryani, Chinese",₹300 FOR TWO,Hyderabadi Biryani
+allahabad,33 MINS,"Pizzas, Pastas, Snacks, Beverages",₹200 FOR TWO,Mood Fresher
+agra,39 MINS,"Chinese, South Indian, North Indian",₹400 FOR TWO,Aahar
+allahabad,35 MINS,North Indian,₹150 FOR TWO,Thali Express
+allahabad,30 MINS,"North Indian, Chinese, Mughlai",₹250 FOR TWO,Meals on Wheels
+allahabad,32 MINS,"North Indian, Fast Food",₹250 FOR TWO,Pocket Meals
+allahabad,33 MINS,North Indian,₹250 FOR TWO,Jai Shree Shankar Bhojanalaya
+allahabad,37 MINS,"North Indian, South Indian",₹400 FOR TWO,Aryan Family's Delight
+allahabad,50 MINS,Pizzas,₹200 FOR TWO,Pizza palette
+allahabad,35 MINS,"Fast Food, Pizzas",₹350 FOR TWO,Pizza Hut
+allahabad,29 MINS,"North Indian, Street Food, Fast Food",₹300 FOR TWO,Bikanerwala
+allahabad,42 MINS,North Indian,₹200 FOR TWO,Rasoi Restaurant- Hotel Prayag
+aligarh,32 MINS,"Desserts, Ice Cream",₹300 FOR TWO,Kwality Walls Frozen Dessert & Ice Cream Shop
+aligarh,29 MINS,North Indian,₹200 FOR TWO,Gupta Veg Dhaba
+aligarh,30 MINS,Pizzas,₹400 FOR TWO,Domino's Pizza
+aligarh,38 MINS,"Mughlai, North Indian",₹250 FOR TWO,Tandoori Nites
+aligarh,30 MINS,"Fast Food, Italian, Chinese",₹150 FOR TWO,Hotwheelz
+aligarh,31 MINS,Fast Food,₹150 FOR TWO,Jassi's Breads & Bytes
+aligarh,31 MINS,"Pizzas, Snacks",₹350 FOR TWO,Pizza Hut
+aligarh,32 MINS,Sweets,₹300 FOR TWO,Deepak Sweets
+aligarh,32 MINS,Fast Food,₹400 FOR TWO,McDonald's
+aligarh,32 MINS,"Snacks, Sweets",₹150 FOR TWO,Brijwasi Lassi and Milk Badam
+aligarh,33 MINS,"Afghani, North Indian",₹300 FOR TWO,Spicy Bite
+aligarh,33 MINS,"Beverages, Snacks, Desserts",₹300 FOR TWO,Cafe Coffee Day
+aligarh,33 MINS,"Chinese, Bakery, Indian",₹400 FOR TWO,New milkbar bakery
+aligarh,34 MINS,"Mughlai, Tandoor",₹200 FOR TWO,Family Choice Restaurant
+aligarh,34 MINS,"American, Fast Food",₹250 FOR TWO,Burgers n Wings
+aligarh,34 MINS,Chinese,₹200 FOR TWO,Hot Wok
+alappuzha,26 MINS,"South Indian, North Indian",₹249 FOR TWO,Hotel Royale Park
+alappuzha,30 MINS,"Pizzas, Beverages",₹250 FOR TWO,Achayans Cafe
+alappuzha,22 MINS,Bakery,₹600 FOR TWO,Pastry Chef
+alappuzha,22 MINS,South Indian,₹250 FOR TWO,Brothers Restaurant
+alappuzha,27 MINS,"Kerala, Beverages",₹300 FOR TWO,Kream Korner
+alappuzha,34 MINS,"Beverages, Juices, Arabian, Pizzas, Chinese",₹200 FOR TWO,Arabian Shake Cafe(General Hops Jn)
+alappuzha,37 MINS,"South Indian, North Indian, Chinese, Arabian",₹300 FOR TWO,Aramana Restaurant
+alappuzha,47 MINS,"Cafe, Continental, Pizzas, Bakery",₹300 FOR TWO,Cafe Pumpkin
+alappuzha,25 MINS,"Kerala, South Indian",₹250 FOR TWO,Halal Food Court
+alappuzha,35 MINS,"Cafe, Continental",₹350 FOR TWO,Brews and Burgers Bistro
+alappuzha,28 MINS,Chinese,₹400 FOR TWO,Thaza Family Food Park
+alappuzha,23 MINS,"Chinese, South Indian",₹300 FOR TWO,Raja Kesavadasa Restaurant
+alappuzha,33 MINS,"Kerala, Chinese",₹200 FOR TWO,Chillies Restaurant
+alappuzha,26 MINS,Bakery,₹600 FOR TWO,Cutiepie Cakes
+alappuzha,32 MINS,"Combo, Fast Food",₹150 FOR TWO,THE KRISPY HOUSE
+alappuzha,29 MINS,Bakery,₹400 FOR TWO,Cakemellow
+akola,29 MINS,"Ice Cream, Desserts",₹300 FOR TWO,Kwality Walls Frozen Dessert & Ice Cream Shop
+akola,30 MINS,"Indian, Maharashtrian",₹300 FOR TWO,Hotel Mirch Masala
+akola,38 MINS,"Chinese, Indian, Maharashtrian, Pizzas, Snacks",₹250 FOR TWO,SANSKRUTI GARDEN RESTAURANT
+akola,36 MINS,Bakery,₹400 FOR TWO,Veera cake n bake
+akola,28 MINS,"Indian, Ice Cream",₹0 FOR TWO,Dinshaw's Magic
+akola,24 MINS,Beverages,₹200 FOR TWO,Guptaji Juice Centre
+akola,34 MINS,"Biryani, Chinese, Continental, Fast Food, Indian",₹300 FOR TWO,Hotel Venus International
+akola,36 MINS,"South Indian, Chinese",₹300 FOR TWO,Vaibhav Foods
+akola,34 MINS,"Punjabi, North Indian, Fast Food, Biryani, Beverages",₹300 FOR TWO,Veggie The Restro
+akola,36 MINS,Chinese,₹200 FOR TWO,Dine With Chinese
+akola,38 MINS,"Indian, Mughlai, Chinese",₹350 FOR TWO,Baba Jaan Restaurant
+akola,27 MINS,Fast Food,₹200 FOR TWO,vaibhav sweets
+akola,29 MINS,Chinese,₹0 FOR TWO,Chinese Hut
+akola,38 MINS,"Hyderabadi, Indian",₹200 FOR TWO,KHAN SAHAB KITCHEN
+akola,29 MINS,"North Indian, Desserts, Chinese, Beverages",₹300 FOR TWO,Shaukeen's Restaurant And Cafe
+akola,38 MINS,"Fast Food, North Indian",₹300 FOR TWO,Grill Inn
+alwar,28 MINS,"Chinese, South Indian, Desserts",₹150 FOR TWO,Praveen Sai Bakers & Fast Food
+alwar,30 MINS,North Indian,₹150 FOR TWO,Alwar Hotel
+alwar,27 MINS,Fast Food,₹100 FOR TWO,SP Selection Point
+alwar,25 MINS,Fast Food,₹100 FOR TWO,S.P Food Plaza ( A UNIT OF SELECTION POINT)
+alwar,30 MINS,Pizzas,₹400 FOR TWO,Domino's Pizza
+alwar,32 MINS,North Indian,₹150 FOR TWO,Mahaveer Dhaba
+alwar,31 MINS,North Indian,₹100 FOR TWO,Mr. Spoon
+alwar,27 MINS,Fast Food,₹100 FOR TWO,Kwality Fast food
+alwar,31 MINS,Mexican,₹150 FOR TWO,De''Pizza Planet
+alwar,25 MINS,"North Indian, Indian, South Indian",₹100 FOR TWO,ALWAR POHA CENTRE
+alwar,26 MINS,North Indian,₹150 FOR TWO,Khandelwal Pavitra Bhojanlaya
+alwar,27 MINS,North Indian,₹150 FOR TWO,Jai Durga Pavitra Bhojnalaya
+alwar,25 MINS,"Desserts, Fast Food",₹150 FOR TWO,Kwality Bakery
+alwar,30 MINS,"Beverages, Chinese, Desserts, Fast Food, Juices",₹150 FOR TWO,Tija 
+alwar,27 MINS,North Indian,₹100 FOR TWO,New Hindustani Pavitra bhojanalya
+alwar,31 MINS,"North Indian, Desserts",₹100 FOR TWO,Shivam Dhaba
+amalner,-- MINS,"North Indian, Maharashtrian, Chinese",₹200 FOR TWO,Hotel Guru veg
+ambikapur,70 MINS,"North Indian, Chinese, Beverages",₹200 FOR TWO,Maya Rasoi
+ambikapur,64 MINS,"North Indian, Chinese, Beverages",₹200 FOR TWO,Ambika Roll Plaza
+ambikapur,77 MINS,"North Indian, Chinese, Beverages, Ice Cream",₹200 FOR TWO,Snow Junkie
+ambikapur,60 MINS,"Bakery, Italian, Fast Food",₹100 FOR TWO,Ma Mahamaya Daily Needs
+ambikapur,61 MINS,"North Indian, South Indian, Chinese",₹250 FOR TWO,Cafe Chilli Flakes
+ambikapur,64 MINS,"North Indian, Chinese, Beverages",₹250 FOR TWO,Hotel The Hills
+ambikapur,57 MINS,"Beverages, Fast Food",₹200 FOR TWO,Juice Factory
+ambikapur,55 MINS,North Indian,₹150 FOR TWO,Hotel Nishant Inn
+ambikapur,64 MINS,Bakery,₹150 FOR TWO,Bitee Me
+ambikapur,55 MINS,"North Indian, Chinese, Beverages",₹200 FOR TWO,Eat & Meet
+ambikapur,63 MINS,"North Indian, Chinese, Beverages",₹200 FOR TWO,Hotel Kartik
+ambikapur,55 MINS,"North Indian, Chinese, Beverages",₹350 FOR TWO,Avalon Inn
+ambikapur,65 MINS,"North Indian, Chinese",₹200 FOR TWO,Hotel Punjab
+ambikapur,68 MINS,"Beverages, Chinese, Fast Food, Mughlai, North Indian",₹250 FOR TWO,Smokey Brew
+ambikapur,57 MINS,"Beverages, Chinese, Mughlai",₹200 FOR TWO,Biryani's Hub
+ambikapur,62 MINS,"Desserts, Ice Cream",₹300 FOR TWO,Baskin Robbins
+ambur,21 MINS,"Biryani, Indian, Chinese",₹300 FOR TWO,STAR BRIYANI SINCE 1890
+ambur,20 MINS,South Indian,₹200 FOR TWO,Hotel Amirdam
+ambur,20 MINS,"South Indian, Fast Food, North Indian",₹200 FOR TWO,New Caapsi Restaurant
+ambur,20 MINS,Fast Food,₹200 FOR TWO,A1 Briyani & Fast food
+ambur,20 MINS,Chinese,₹250 FOR TWO,STAR KABAB CORNER
+ambur,23 MINS,"Fast Food, Cafe, Beverages",₹350 FOR TWO,Meat & Eat
+ambur,20 MINS,"Arabian, Fast Food",₹300 FOR TWO,MZ Kitchen
+ambur,20 MINS,"Biryani, Arabian, Chinese",₹200 FOR TWO,Rahamaniya Briyani Hotel (M.C.Road Branch 2)
+ambur,26 MINS,South Indian,₹200 FOR TWO,STAR HOME
+ambur,24 MINS,Biryani,₹200 FOR TWO,Rahamaniya Briyani Hotel (Bazaar Branch)
+ambur,27 MINS,"Pizzas, Fast Food, Chaat, Beverages",₹250 FOR TWO,Royal Pizza Since 2015
+ambur,27 MINS,"Snacks, Pizzas, Beverages",₹300 FOR TWO,HELLY & CHILLY
+ambur,27 MINS,"Desserts, Beverages",₹150 FOR TWO,Muneer Sweets
+ambur,35 MINS,"North Indian, South Indian, Chinese, Biryani, Chettinad",₹500 FOR TWO,Dindigul Thalappakatti
+ambur,27 MINS,"Desserts, Beverages",₹300 FOR TWO,karuna sweets
+ambur,27 MINS,"Sweets, Snacks, Bakery",₹200 FOR TWO,chennai hot puff
+ankleshwar,35 MINS,"Biryani, Chinese, Fast Food, Mughlai, Punjabi",₹150 FOR TWO,Nice Non-Veg Food
+ankleshwar,35 MINS,"Desserts, Fast Food",₹200 FOR TWO,Real Sweets
+ankleshwar,35 MINS,"Punjabi, Indian, Chinese, Gujarati, North Indian",₹200 FOR TWO,Delhi Chole Bhature
+ankleshwar,36 MINS,"Chinese, Fast Food, North Indian, Punjabi, Gujarati, Biryani, Thalis",₹180 FOR TWO,Aashirwad Inn Fast Food
+ankleshwar,37 MINS,"Chinese, Fast Food, Italian, Combo, Pastas, Grill, Pizzas",₹200 FOR TWO,Bite Me Food Zone
+ankleshwar,38 MINS,"Chinese, Fast Food, North Indian, Punjabi, Gujarati, Biryani, Thalis",₹250 FOR TWO,Decent Fast And Food
+ankleshwar,39 MINS,"Punjabi, Rajasthani",₹200 FOR TWO,Kika Dal Bati And Punjabi Kitchen
+ankleshwar,39 MINS,"Desserts, Beverages",₹200 FOR TWO,The Belgian Waffle Co.
+ankleshwar,39 MINS,Pizzas,₹200 FOR TWO,Mark 24 Pizza
+ankleshwar,50 MINS,"Chinese, Fast Food",₹120 FOR TWO,It's My Cafe
+ankleshwar,55 MINS,"Chinese, Fast Food, North Indian, Punjabi, Biryani",₹100 FOR TWO,Frankie Zone
+ankleshwar,64 MINS,"Fast Food, Chinese, Pizzas",₹150 FOR TWO,Tandoori Chai And Fastfood
+ankleshwar,-- MINS,Continental,₹250 FOR TWO,A One Al Baik  Fast Food
+ankleshwar,-- MINS,"Indian, Chinese, Fast Food, Italian",₹200 FOR TWO,Happy Food Zone
+ankleshwar,-- MINS,Indian,₹250 FOR TWO,William John's Pizza
+amritsar,33 MINS,Fast Food,₹200 FOR TWO,Sip n Breww
+amritsar,33 MINS,"North Indian, Sweets, Snacks, South Indian, Continental",₹300 FOR TWO,Novelty Sweets
+amritsar,36 MINS,"North Indian, Chinese, South Indian, Snacks, Beverages, Desserts, Biryani",₹200 FOR TWO,Sanjha Chulha
+amritsar,71 MINS,"Bakery, Pizzas, Snacks, Fast Food, Combo",₹400 FOR TWO,Bariesto's Bakehouse (Breads & More)
+amritsar,32 MINS,"American, Fast Food",₹250 FOR TWO,Burger King
+amritsar,29 MINS,"Chaat, Snacks, Street Food, South Indian, Combo",₹100 FOR TWO,New Rajasthan chat bhandar(Lawrence road)
+amreli,25 MINS,"North Indian, Punjabi, Fast Food, Thalis",₹150 FOR TWO,Akshar Restaurant
+amreli,25 MINS,"Chinese, North Indian, Fast Food",₹200 FOR TWO,China Town
+amritsar,35 MINS,"North Indian, Tandoor, Biryani, Combo",₹400 FOR TWO,Chaman Family Restaurant
+amritsar,31 MINS,North Indian,₹150 FOR TWO,Sabri Bhathura Shop
+amritsar,43 MINS,"American, Fast Food, Snacks",₹500 FOR TWO,KFC
+amritsar,34 MINS,"Fast Food, Street Food, South Indian, Chinese",₹200 FOR TWO,Bombay Pav Bhaji (Original)
+amreli,26 MINS,"Gujarati, Thalis",₹250 FOR TWO,Ganesh Dining Hall
+amreli,29 MINS,"Chinese, South Indian, Desserts, Fast Food, Italian",₹100 FOR TWO,Food Plaza
+amreli,29 MINS,"Mughlai, Seafood",₹200 FOR TWO,Hotel Mono & Surti Omellete
+amreli,30 MINS,"Chinese, North Indian, Punjabi",₹200 FOR TWO,Surya Garden Restaurant
+amreli,36 MINS,Fast Food,₹100 FOR TWO,Bajarang Sandwich
+amreli,-- MINS,"Indian, Fast Food",₹250 FOR TWO,Hotel Ruhani
+amritsar,33 MINS,"Fast Food, Healthy Food, Salads, Snacks, Desserts, Beverages",₹350 FOR TWO,Subway
+amritsar,37 MINS,"Mughlai, Continental, Chinese, Italian, Combo, Biryani",₹600 FOR TWO,Crystal Restaurant Plaza
+amritsar,28 MINS,"Desserts, Ice Cream",₹250 FOR TWO,Giani
+amritsar,30 MINS,North Indian,₹250 FOR TWO,Vaishno Food Shop ( Pakode Wale)  
+amritsar,30 MINS,North Indian,₹250 FOR TWO,Chajju Da Dhaba
+amritsar,35 MINS,"Indian, Chinese, Continental",₹300 FOR TWO,Mehta Foods
+amreli,-- MINS,"Desserts, Fast Food",₹100 FOR TWO,Amal Bakery
+amreli,-- MINS,Fast Food,₹80 FOR TWO,Sadguru Sandwich
+amreli,-- MINS,"Beverages, Desserts, Pizzas",₹200 FOR TWO,Tawa Tadka The Cafe
+anand,37 MINS,"Fast Food, Beverages",₹200 FOR TWO,UFO Fries & Corn
+anand,33 MINS,"North Indian, Chinese, Fast Food, Beverages, Continental, Biryani",₹300 FOR TWO,Sahyog Restaurant
+anand,28 MINS,Fast Food,₹200 FOR TWO,Kapildev Fast food 
+anand,31 MINS,"Chinese, Fast Food, Ice Cream",₹200 FOR TWO,Mahalaxmi Chinese -Pavbhaji & Ice cream
+anand,29 MINS,"North Indian, Fast Food",₹200 FOR TWO,Maji Sainik Omlet Centre
+anand,30 MINS,"North Indian, Chinese, Punjabi, Continental, Beverages, Biryani",₹250 FOR TWO,Kabir Restaurant
+anand,39 MINS,"Cafe, Fast Food",₹250 FOR TWO,Gj23 Cafe
+anand,26 MINS,Fast Food,₹150 FOR TWO,Foodholic Cafe
+anand,39 MINS,"North Indian, Biryani, Mughlai, Chinese, Beverages",₹250 FOR TWO,Garam Masala
+anand,36 MINS,North Indian,₹250 FOR TWO,The Matla Pulav
+anand,33 MINS,Fast Food,₹150 FOR TWO,Taste Of Bombay Sandwich
+anand,29 MINS,"Pizzas, Fast Food, Beverages",₹200 FOR TWO,Cafe Shivaay
+anand,31 MINS,Pizzas,₹300 FOR TWO,Poptos
+anand,25 MINS,Cafe,₹100 FOR TWO,Welcome Tea Point
+anand,35 MINS,"Mughlai, Punjabi, Biryani",₹450 FOR TWO,Millennium Restaurant
+anand,32 MINS,"Fast Food, Snacks",₹150 FOR TWO,Harshy Fast Food
+anantapur,24 MINS,"North Indian, South Indian",₹150 FOR TWO,Naidu Hotel
+anantapur,25 MINS,"South Indian, North Indian, Chinese, Tandoor, Biryani",₹400 FOR TWO,SS PALACE (Old SS PARADISE) TOWER CLOCK
+anantapur,22 MINS,Biryani,₹300 FOR TWO,Lucky 9 Tadipatri Dum Biryani Center
+anantapur,37 MINS,"Biryani, North Indian, South Indian, Tandoor",₹300 FOR TWO,Garlica Multicuisine Family Restaurant
+anantapur,27 MINS,"Indian, Chinese",₹400 FOR TWO,Emerald Ruby NON VEG
+anantapur,21 MINS,"Indian, Home Food",₹150 FOR TWO,Raghavendra Hotel
+anantapur,26 MINS,Biryani,₹350 FOR TWO,Biryani zone
+anantapur,24 MINS,Biryani,₹180 FOR TWO,Lingamaiah Tadipatri Dum Biryani Center
+anantapur,27 MINS,"South Indian, North Indian",₹150 FOR TWO,Vijay Hotel
+anantapur,28 MINS,"Pizzas, Desserts, Cafe",₹300 FOR TWO,Hangout Cafe
+anantapur,26 MINS,Biryani,₹500 FOR TWO,Golden Taj Family Restaurant
+amroha,38 MINS,Indian,₹200 FOR TWO,Web Pizza
+anantapur,26 MINS,"South Indian, North Indian",₹350 FOR TWO,Sri Roopa Multicuisine Family Restaurant
+anantapur,26 MINS,Arabian,₹350 FOR TWO,Mehfil Arabic Restaurant
+anantapur,27 MINS,"Beverages, Juices",₹80 FOR TWO,Lassi Magic
+anantapur,28 MINS,"European, Italian",₹150 FOR TWO,Skyline Pizza
+anantapur,26 MINS,"Bakery, Use Code JUMBO30 to avail",₹200 FOR TWO,7th Heaven & Tasty Heaven
+amroha,40 MINS,"Beverages, Desserts",₹300 FOR TWO,Pizza House
+amroha,43 MINS,North Indian,₹200 FOR TWO,Shivani Sweets and Hotel
+amroha,-- MINS,"Beverages, Desserts",₹300 FOR TWO,Bhagwati sweets
+amroha,-- MINS,"Beverages, Desserts",₹300 FOR TWO,Le Heaven
+amroha,-- MINS,"North Indian, South Indian, Beverages, Desserts",₹500 FOR TWO,Chaudhary Fauji Restaurant
+amravati,26 MINS,"North Indian, Biryani, Maharashtrian",₹200 FOR TWO,Khamaz The House Of Biryani
+amroha,-- MINS,"North Indian, South Indian",₹300 FOR TWO,Bhagwati Bhojnalya
+amroha,-- MINS,Indian,₹150 FOR TWO,The Lazeez Chicken Point
+amroha,-- MINS,"North Indian, South Indian, Beverages, Desserts",₹300 FOR TWO,Neel Kanth Sweets & Restaurent
+amroha,-- MINS,"Beverages, Desserts",₹300 FOR TWO,Pizza Theater
+amroha,-- MINS,"Afghani, Tandoor",₹100 FOR TWO,The Chaap Point
+amravati,31 MINS,"Indian, Chinese",₹200 FOR TWO,HAMARA GHARONDA
+amravati,24 MINS,North Indian,₹300 FOR TWO,Urban Village Garden Restaurant
+amravati,32 MINS,"South Indian, North Indian",₹200 FOR TWO,MR IDLI
+amravati,29 MINS,"Chinese, Fast Food, Indian",₹400 FOR TWO,RUAA
+amravati,31 MINS,"North Indian, Pizzas, Fast Food",₹300 FOR TWO,Laziz Pizza
+amravati,26 MINS,"Desserts, Ice Cream",₹100 FOR TWO,Kwality Walls Frozen Dessert & Ice Cream Shop
+amravati,25 MINS,"Beverages, Snacks, Desserts",₹300 FOR TWO,Cafe Coffee Day
+amravati,61 MINS,"North Indian, Chinese",₹150 FOR TWO,RESTRO NIVALA
+amravati,25 MINS,"Maharashtrian, North Indian, Fast Food, Street Food",₹100 FOR TWO,Goli Vada Pav No- 1
+amravati,33 MINS,"North Indian, Chinese",₹300 FOR TWO,Pizza Street Cafe
+amravati,26 MINS,North Indian,₹300 FOR TWO,Beyond Temptation- Camp
+amravati,31 MINS,North Indian,₹300 FOR TWO,Nescafe
+amravati,27 MINS,North Indian,₹300 FOR TWO,Al Basheer Restaurant
+amravati,31 MINS,North Indian,₹300 FOR TWO,New Eagle Restaurant
+amravati,47 MINS,"Indian, Maharashtrian",₹150 FOR TWO,Laziz Dawat
+arrah,25 MINS,"Biryani, Chinese, North Indian",₹300 FOR TWO,kasturi kitchen
+arrah,27 MINS,Indian,₹250 FOR TWO,Mr. SAM's Bistro
+arrah,27 MINS,"Chinese, North Indian",₹200 FOR TWO,The Greasy Spoon
+arrah,28 MINS,"North Indian, South Indian, Chinese",₹300 FOR TWO,Sher E Punjab Sweets and Namkeen
+arrah,30 MINS,Pizzas,₹400 FOR TWO,Domino's Pizza
+arrah,32 MINS,Desserts,₹200 FOR TWO,Gopal G Sweets
+arrah,33 MINS,"Indian, Italian",₹150 FOR TWO,Sports Point (Snacks & Shakes)
+arrah,33 MINS,"Chinese, Snacks, Chaat, Beverages",₹150 FOR TWO,Chaat Lounge 
+arrah,35 MINS,Desserts,₹300 FOR TWO,Sweet Cake Palace
+arrah,35 MINS,"Indian, Tandoor, Chinese",₹250 FOR TWO,Rainbow cloud Kitchen
+arrah,36 MINS,Bakery,₹200 FOR TWO,Cake Supremo
+arrah,38 MINS,"North Indian, South Indian, Chinese",₹200 FOR TWO,Yadgar Biryani & Roll House
+arrah,41 MINS,"Indian, Chinese",₹300 FOR TWO,Bawarchi Restaurant
+arrah,41 MINS,"North Indian, South Indian, Chinese",₹200 FOR TWO,Shivans Smriti Food Plaza
+arrah,45 MINS,Biryani,₹200 FOR TWO,Kolkata Biryani Restaurant
+ashoknagar,29 MINS,Bakery,₹150 FOR TWO,Savariya Cake House
+ashoknagar,31 MINS,North Indian,₹200 FOR TWO,Hotel Mangal Residency Lazeez
+ashoknagar,-- MINS,Juices,₹100 FOR TWO,AL ARSHEEN JUICE POINT
+ashoknagar,-- MINS,North Indian,₹150 FOR TWO,Hotel Jain
+ashoknagar,-- MINS,Beverages,₹120 FOR TWO,Jain Juice And Cafe
+ashoknagar,-- MINS,North Indian,₹150 FOR TWO,Shree Jagdamba Bhojnalay
+ashoknagar,-- MINS,North Indian,₹150 FOR TWO,Jain Shree
+ashoknagar,-- MINS,Indian,₹300 FOR TWO,AK Veg And Non Veg
+asansol,36 MINS,"North Indian, Indian, Chinese",₹500 FOR TWO,Saffron Restaurant
+asansol,25 MINS,"Desserts, Ice Cream",₹250 FOR TWO,Baskin Robbins
+asansol,32 MINS,"Biryani, North Indian, Indian",₹200 FOR TWO,Kolkata Ashirwad Biryani
+asansol,26 MINS,Sweets,₹200 FOR TWO,Calcutta Sweets
+asansol,25 MINS,"Chinese, North Indian, Indian",₹300 FOR TWO,Lemon Grass
+asansol,35 MINS,"North Indian, Chinese",₹250 FOR TWO,Barrel House
+asansol,25 MINS,"Indian, Chinese",₹250 FOR TWO,Odyssey Club
+asansol,32 MINS,"Indian, Chinese",₹400 FOR TWO,Theque
+asansol,30 MINS,Pizzas,₹400 FOR TWO,Domino's Pizza
+asansol,25 MINS,"Indian, Chinese, Tandoor, North Indian",₹250 FOR TWO,Sasha Restaur
+asansol,42 MINS,"Chinese, Indian",₹200 FOR TWO,Copper Handi Restaurant
+asansol,37 MINS,"Indian, Chinese",₹300 FOR TWO,Chulha Chowka
+asansol,37 MINS,"Bihari, Chinese",₹130 FOR TWO,Foodiee Adda 
+asansol,35 MINS,"North Indian, Indian, Continental, Chinese, Biryani, Bengali",₹350 FOR TWO,Purbasha International Hotel
+asansol,35 MINS,Bengali,₹200 FOR TWO,Hapushhh Hupushhh
+asansol,32 MINS,"South Indian, Street Food",₹200 FOR TWO,Park Cafe
+aurangabad_bihar,25 MINS,"Desserts, Bakery",₹250 FOR TWO,Sansar Cake Shop
+aurangabad_bihar,25 MINS,Beverages,₹150 FOR TWO,Annapurna Street foods
+aurangabad_bihar,25 MINS,"Indian, Bakery",₹200 FOR TWO,Sansar Cakes & Bakes
+aurangabad_bihar,25 MINS,"Sweets, Snacks",₹200 FOR TWO,Annapurna Sweets
+aurangabad_bihar,29 MINS,"Indian, Tandoor, Chinese, Snacks",₹250 FOR TWO,Hotel Jhari Palace
+aurangabad_bihar,29 MINS,North Indian,₹300 FOR TWO,Annapurna Restaurant
+ambala,28 MINS,"Pizzas, Italian",₹300 FOR TWO,La Pino'z Pizza
+aurangabad_bihar,29 MINS,"Indian, Chinese",₹300 FOR TWO,Mrignainy Restaurant
+aurangabad_bihar,29 MINS,"Chinese, Indian",₹500 FOR TWO,Swad Restaurant Hotel Sky view
+aurangabad_bihar,30 MINS,"Indian, Snacks",₹300 FOR TWO,Zaika Restaurant
+aurangabad_bihar,31 MINS,"Italian, Chinese",₹200 FOR TWO,Ram's Pizza & Burger
+aurangabad_bihar,36 MINS,"Desserts, Pizzas",₹250 FOR TWO,Gupta Cake & Pastry
+aurangabad_bihar,36 MINS,"North Indian, Chinese, Snacks, Italian",₹300 FOR TWO,Gandhali Restaurant (Gargee Hotel's)
+aurangabad_bihar,37 MINS,"North Indian, Chinese, Snacks, Italian",₹300 FOR TWO,Galangal Dhaba (Gargee Hotels)
+ambala,28 MINS,"Pizzas, Italian, Fast Food, Beverages, Snacks, Pastas, Cafe, Desserts",₹250 FOR TWO,A Emporter
+ambala,23 MINS,"North Indian, Punjabi, Beverages",₹100 FOR TWO,Rawalpindi De Mashoor Chole Bhature - Since 1965
+ambala,25 MINS,"North Indian, Fast Food",₹200 FOR TWO,Sitaram
+ambala,28 MINS,Fast Food,₹400 FOR TWO,McDonald's
+ambala,28 MINS,"Pizzas, Italian, Fast Food",₹300 FOR TWO,Hungry Hub 2
+aurangabad_bihar,-- MINS,"Italian, Chinese",₹200 FOR TWO,Brijwasi Pizza
+ambala,30 MINS,"North Indian, Chinese, Salads, Healthy Food, Biryani, Thalis, Combo, Chaat",₹200 FOR TWO,Malik Regency
+ambala,31 MINS,"Snacks, Beverages, Pizzas, Fast Food, Pastas, Italian",₹200 FOR TWO,Hello Petuu
+ambala,26 MINS,North Indian,₹150 FOR TWO,Amritsari Kulcha Sardarji Ludhiana Waale
+ambala,38 MINS,North Indian,₹150 FOR TWO,Annapurna Canteen
+ambala,32 MINS,"Chinese, Fast Food, Combo, Tandoor",₹100 FOR TWO,Rajan Soya Chaap
+ambala,23 MINS,"Fast Food, Pizzas, Pastas, Snacks, Beverages",₹150 FOR TWO,Mithu Grilled Sector 7
+ambala,50 MINS,"North Indian, Fast Food, Chinese",₹250 FOR TWO,Rajan Indian Bites
+ambala,31 MINS,Chinese,₹150 FOR TWO,Chinese Tonic
+ambala,33 MINS,"North Indian, Chinese",₹100 FOR TWO,Ambala Rasoi
+ambala,30 MINS,"Fast Food, Chinese, Pastas, Beverages",₹200 FOR TWO,Burger Shurger
+aurangabad,33 MINS,"Rajasthani, Punjabi, Chinese, North Indian, Maharashtrian, Sweets",₹200 FOR TWO,Kakaji`s Veg Restaurant
+aurangabad,23 MINS,"Maharashtrian, Biryani, North Indian, Tandoor, Chinese",₹300 FOR TWO,Hotel VIP Maratha Connaught Cidco
+aurangabad,26 MINS,"Maharashtrian, North Indian, Chinese, Biryani",₹250 FOR TWO,Hotel Rana Veg Non Veg Restaurant
+aurangabad,40 MINS,"Fast Food, Combo",₹200 FOR TWO,The Ghost Kitchen
+aurangabad,27 MINS,"Bakery, Pizzas, Pastas, Fast Food, Grill, Cafe",₹150 FOR TWO,Cake N Bake
+aurangabad,23 MINS,"Bakery, Desserts",₹300 FOR TWO,Monginis - Cannought
+aurangabad,45 MINS,North Indian,₹200 FOR TWO,Udupi Shrikrishna Veg Restaurant
+aurangabad,22 MINS,Biryani,₹250 FOR TWO,Koyla Dum Biryanis & Kebabs
+aurangabad,27 MINS,"South Indian, Chinese, Fast Food",₹100 FOR TWO,Shri Deepali South Indian
+aurangabad,52 MINS,"North Indian, Snacks",₹200 FOR TWO,Suryavanshi Veg Restaurant
+aurangabad,31 MINS,Chinese,₹200 FOR TWO,20-20 Fast Food Chinese Corner
+aurangabad,27 MINS,"North Indian, Chinese, Biryani, Maharashtrian, Sweets, Tandoor, Juices",₹300 FOR TWO,Green Leaf
+aurangabad,28 MINS,"North Indian, Fast Food, Chinese, Italian",₹200 FOR TWO,Mauj
+aurangabad,25 MINS,South Indian,₹200 FOR TWO,Lokmanya's South Indian Cafe
+aurangabad,26 MINS,Fast Food,₹300 FOR TWO,Aawsum restaurant
+aurangabad,26 MINS,"Chinese, Sweets, Tandoor",₹300 FOR TWO,Green Leaf Chinese
+azamgarh,28 MINS,"Bakery, Sweets, Combo, Snacks, Ice Cream",₹150 FOR TWO,New Sai Sweets & Bakers
+azamgarh,30 MINS,"Italian-American, Chinese, North Indian, Beverages, Desserts",₹150 FOR TWO,Grill 2 Chill Cafe Lounge Restaurant
+azamgarh,31 MINS,"North Indian, Combo, Snacks, Italian-American",₹200 FOR TWO,The Chefs Table
+azamgarh,33 MINS,"North Indian, Chinese, Biryani, Combo, Indian",₹200 FOR TWO,Kalika Hotel
+azamgarh,34 MINS,"North Indian, Thalis, Chinese, Beverages, Biryani",₹200 FOR TWO,Hotel Green Palace
+azamgarh,34 MINS,"North Indian, Chinese, Biryani, Beverages, Thalis, Snacks",₹200 FOR TWO,Ujala Restaurant
+azamgarh,35 MINS,"Italian-American, Chinese, Beverages, Biryani",₹200 FOR TWO,Italiano Pizza
+azamgarh,38 MINS,"Combo, South Indian, North Indian, Chinese, Desserts, Italian-American, Tandoor",₹200 FOR TWO,Shri Sai Hotel & Restaurant
+azamgarh,41 MINS,"North Indian, South Indian, Combo, Beverages, Chinese, Desserts, Snacks, Tandoor...",₹250 FOR TWO,Hotel Deep Continental
+azamgarh,42 MINS,"North Indian, Chinese, Combo, Tandoor, Desserts, Continental, Biryani, South Ind...",₹300 FOR TWO,Hotel Golden Fortune
+azamgarh,42 MINS,"Italian-American, Combo",₹200 FOR TWO,Pizza King
+azamgarh,43 MINS,"North Indian, Chinese, Desserts, Biryani, Italian-American, Continental",₹150 FOR TWO,Hotel Grand S.R
+azamgarh,49 MINS,"North Indian, Chinese, Mughlai, Italian-American, Beverages",₹180 FOR TWO,Cafe Cue & Restaurant
+azamgarh,50 MINS,"North Indian, Snacks, Mughlai, Biryani, Chinese",₹200 FOR TWO,Diwan E Khas -Tarun INN
+azamgarh,-- MINS,"Chaat, Fast Food, Desserts, Combo",₹100 FOR TWO,Vishal Momos & Roll Corner
+baddi,32 MINS,"North Indian, Chinese, Beverages, Fast Food",₹250 FOR TWO,Kohinoor Food Services
+baddi,37 MINS,"Chinese, North Indian",₹300 FOR TWO,Tandoori Nights
+baddi,39 MINS,"Beverages, North Indian, South Indian",₹300 FOR TWO,Hotel Le Mariet
+baddi,43 MINS,"Chinese, Fast Food, North Indian, Sweets",₹350 FOR TWO,Deep Sweets & Restaurant
+baddi,47 MINS,Indian,₹250 FOR TWO,PUNJABI FOOD PLAZA
+baddi,47 MINS,"Fast Food, North Indian",₹250 FOR TWO,THE URBAN CANTEEN
+baddi,50 MINS,North Indian,₹200 FOR TWO,Ansh Food Services
+baddi,50 MINS,South Indian,₹200 FOR TWO,Ananda Bhavan
+baddi,50 MINS,"North Indian, Chinese, Desserts",₹250 FOR TWO,The Chef Food Court (Dhaba)
+baddi,52 MINS,"North Indian, Chinese",₹200 FOR TWO,MUMBAI DELITES
+baddi,61 MINS,"Fast Food, Italian",₹250 FOR TWO,Pizza Point & Tandoori Hub
+baddi,62 MINS,"Fast Food, North Indian",₹200 FOR TWO,Delhi Junction
+baddi,67 MINS,"North Indian, Chinese, Beverages",₹300 FOR TWO,Bikaner Bhojanalya
+baddi,56 MINS,"Home Food, Indian",₹250 FOR TWO,Creambell
+bagalkot,29 MINS,"South Indian, North Indian",₹250 FOR TWO,Same Place
+bagalkot,-- MINS,"Ice Cream, Pizzas, Snacks",₹200 FOR TWO,VIJAYALAXMI ICE CREAM PARLOUR
+bagalkot,-- MINS,Pizzas,₹250 FOR TWO,WOODDY'Z CAFE
+bagalkot,-- MINS,"North Indian, South Indian, Chinese, Biryani",₹250 FOR TWO,SURABHI RESTAURANT
+bagalkot,-- MINS,Indian,₹200 FOR TWO,VSR Andhra Restaurant(Navnagar)
+bagalkot,-- MINS,Snacks,₹150 FOR TWO,TASTY BITE (Chat Center)
+bagalkot,-- MINS,Indian,₹200 FOR TWO,Hotel Shree Panjurli
+bagalkot,-- MINS,Indian,₹200 FOR TWO,Hotel Panjurli
+bagalkot,-- MINS,"South Indian, North Indian",₹250 FOR TWO,Hotel New Surabhi
+bagalkot,-- MINS,Indian,₹200 FOR TWO, VSR Andhra Restaurant(Vidyagiri)
+bahraich,25 MINS,"Italian, Chinese",₹200 FOR TWO,Pizza Hub Express
+bahraich,27 MINS,"Italian, Chinese, South Indian",₹200 FOR TWO,Pizza Plaza
+bahraich,26 MINS,"Pizzas, Italian, Chinese, Fast Food",₹200 FOR TWO,Go69 Pizza
+bahraich,25 MINS,"Snacks, Tandoor",₹200 FOR TWO,Gupta Bhojanalaya
+bahraich,29 MINS,"North Indian, Chinese, South Indian",₹250 FOR TWO,A LOTUS The Food Plaza
+bahraich,25 MINS,"North Indian, Chinese",₹250 FOR TWO,Sanjha Chulha
+bahraich,29 MINS,Fast Food,₹200 FOR TWO,Albaik Chicken Corner
+bahraich,29 MINS,"Biryani, Ice Cream, Italian, Chinese, Pizzas",₹200 FOR TWO,Mr. Pizza & Cafe
+bahraich,31 MINS,"Chinese, Fast Food, South Indian, Indian",₹200 FOR TWO,Aashirwad Family Restaurant
+bahraich,31 MINS,"Indian, Chinese",₹150 FOR TWO,Kingdom of momos
+bahraich,33 MINS,"Desserts, Fast Food, Indian",₹200 FOR TWO,Tadka
+bahraich,25 MINS,Bakery,₹200 FOR TWO,Shankar Cake World
+bahraich,35 MINS,"Pizzas, Beverages, Combo, Desserts, Italian, Chinese",₹150 FOR TWO,Pizza Khalo
+bahraich,36 MINS,"Beverages, Chinese, Combo, Indian, Italian",₹200 FOR TWO,Pizza Shack Restaurant
+bahraich,29 MINS,"North Indian, Chinese, South Indian",₹300 FOR TWO,Bandhan Restaurant
+bahraich,40 MINS,North Indian,₹200 FOR TWO,Dayal Non Veg
+balrampur,26 MINS,"Chinese, North Indian, Arabian",₹200 FOR TWO,Taste Of Tongue
+balrampur,28 MINS,"Chinese, Fast Food, Italian",₹150 FOR TWO,Pizza Hub Xpress
+balrampur,27 MINS,"Italian, Fast Food",₹150 FOR TWO,Go 69 Pizza & Restaurant
+balrampur,34 MINS,"Chinese, North Indian",₹300 FOR TWO,Annapurna Restaurent - Hotel Aaditya Inn
+balrampur,32 MINS,Fast Food,₹200 FOR TWO,Al Baik - The Trend
+balrampur,25 MINS,North Indian,₹250 FOR TWO,SHREE KITCHEN
+balrampur,32 MINS,"North Indian, Chinese, Arabian",₹200 FOR TWO,Family Dhaba
+balrampur,25 MINS,"Street Food, Indian",₹200 FOR TWO,VSR FOOD HUB
+balrampur,42 MINS,"Chinese, Indian, South Indian",₹200 FOR TWO,Apni Rasoi
+balrampur,37 MINS,"North Indian, Chinese, South Indian, Tandoor, Salads",₹250 FOR TWO,Lavya International-Hotel and Restaurant
+balrampur,-- MINS,"Chinese, North Indian",₹150 FOR TWO,Foodies Love
+balrampur,-- MINS,North Indian,₹250 FOR TWO,Jai Palace - Zayka Resaturant
+balrampur,-- MINS,North Indian,₹149 FOR TWO,Srivastava Food point
+bagdogra,25 MINS,"Beverages, Biryani, Fast Food",₹100 FOR TWO,Cake Bake & Beans
+bagdogra,26 MINS,"North Indian, Chinese, South Indian, Biryani, Continental",₹200 FOR TWO,Gour Nitai Veg Restaurent
+bagdogra,28 MINS,"North Indian, Chinese, Snacks, Beverages",₹200 FOR TWO,Sinora Food Corner
+bagdogra,29 MINS,"Indian, Biryani, Chinese, Tandoor, Snacks",₹250 FOR TWO,Masala Twist
+bagdogra,30 MINS,"Fast Food, Chinese, Combo, Beverages",₹200 FOR TWO,MR . Bean Chicken Chunks 
+bagdogra,31 MINS,"Tandoor, Chinese",₹300 FOR TWO,Tandoor Express 
+bagdogra,34 MINS,Biryani,₹200 FOR TWO,Haji Biryani
+bagdogra,35 MINS,"North Indian, Chinese, Bengali",₹160 FOR TWO,Tandoori House
+bagdogra,36 MINS,"South Indian, Biryani",₹200 FOR TWO,Dosa Junction
+bagdogra,37 MINS,Biryani,₹200 FOR TWO,A1-Haji Biryani
+bagdogra,38 MINS,"Beverages, Cafe, Desserts, Italian, Juices, Ice Cream, Fast Food",₹300 FOR TWO,Coffee 99
+bagdogra,41 MINS,"North Indian, Thalis",₹300 FOR TWO,16 Bengali Street
+bagdogra,42 MINS,"Bengali, Combo, North Indian, South Indian",₹300 FOR TWO,Eazee Food
+bagdogra,52 MINS,North Indian,₹200 FOR TWO,Varanasi Home Kitchen
+bagdogra,56 MINS,Biryani,₹200 FOR TWO,Super Haji Biryani
+bagdogra,57 MINS,"Beverages, Desserts, Snacks",₹150 FOR TWO,Tea Junction
+bajpe,35 MINS,"Chinese, South Indian, North Indian, Seafood",₹300 FOR TWO,Mayur Restaurant
+bajpe,31 MINS,"Chinese, Fast Food, North Indian, South Indian",₹250 FOR TWO,Shetty's Kitchen 
+bajpe,32 MINS,Pizzas,₹300 FOR TWO,Laziz pizza
+bajpe,49 MINS,"Chinese, North Indian, Beverages, Mughlai, Hyderabadi, Malaysian, Thai",₹300 FOR TWO,Oh My Bowl
+bajpe,32 MINS,"Chinese, South Indian, North Indian, Fast Food, Mughlai, Seafood",₹200 FOR TWO,Shetty's food Court
+bajpe,37 MINS,"Biryani, Seafood",₹300 FOR TWO,SHETTYS BALE ELE OOTA
+bajpe,47 MINS,Fast Food,₹150 FOR TWO,Indiana Burgers
+bajpe,29 MINS,"Chinese, Fast Food",₹400 FOR TWO,Shettys fast food
+bahadurgarh,30 MINS,"Fast Food, Healthy Food, Salads, Snacks, Desserts, Beverages",₹350 FOR TWO,Subway
+ballari,28 MINS,"South Indian, North Indian, Chinese",₹350 FOR TWO,Hotel Nisaraga
+bajpe,28 MINS,"South Indian, North Indian",₹150 FOR TWO,Hotel Coriander
+bajpe,50 MINS,Fast Food,₹150 FOR TWO,Kaati Zone Rolls and Wraps
+bajpe,38 MINS,Indian,₹200 FOR TWO,MASTER BAKER
+bahadurgarh,35 MINS,North Indian,₹350 FOR TWO,Chawlas 2
+bahadurgarh,45 MINS,"Beverages, Snacks, Desserts",₹300 FOR TWO,Cafe Coffee Day
+bahadurgarh,53 MINS,North Indian,₹250 FOR TWO,Uttam's Buffet & Restaurant
+bahadurgarh,35 MINS,Pizzas,₹250 FOR TWO,La Pino'z Pizza
+bahadurgarh,34 MINS,Fast Food,₹200 FOR TWO,Roll Express (Urban Estate)
+ballari,27 MINS,Desserts,₹200 FOR TWO,Lassi Shop
+ballari,27 MINS,South Indian,₹250 FOR TWO,Suvarna andra hotel
+ballari,40 MINS,Beverages,₹150 FOR TWO,Mahadev Sweet Home
+ballari,42 MINS,"North Indian, South Indian",₹300 FOR TWO,Chola Chat and Chine's Restaurant
+ballari,34 MINS,"South Indian, North Indian, Chinese",₹350 FOR TWO,Hotel Bala Regency
+ballari,30 MINS,Pizzas,₹400 FOR TWO,Domino's Pizza
+bajpe,32 MINS,"Chinese, South Indian, North Indian, Continental, Desserts, Italian, Mughlai, Se...",₹500 FOR TWO,Trishna Hotels
+bajpe,34 MINS,"Chinese, South Indian, North Indian, Continental, Fast Food, Kerala, Beverages, ...",₹200 FOR TWO,Hotel Halli Mane
+bajpe,28 MINS,"Chinese, South Indian, North Indian, Desserts",₹400 FOR TWO,Palmgrove Restaurant (Hotel BMS)
+bajpe,30 MINS,Indian,₹300 FOR TWO,Shri Shankara Bhavana
+bajpe,42 MINS,South Indian,₹200 FOR TWO,KA12- The Coorg Kitchenette
+bahadurgarh,33 MINS,Fast Food,₹200 FOR TWO,City Fussion
+bahadurgarh,32 MINS,Fast Food,₹400 FOR TWO,Proboscis
+bahadurgarh,40 MINS,"North Indian, Mughlai, Seafood, Biryani, Desserts, Kebabs",₹300 FOR TWO,UBQ by Barbeque Nation
+bahadurgarh,43 MINS,"North Indian, Mughlai, Seafood, Biryani, Desserts, Kebabs",₹600 FOR TWO,Barbeque Nation
+ballari,35 MINS,"American, Fast Food, Snacks",₹400 FOR TWO,KFC
+ballari,35 MINS,"Chinese, South Indian, North Indian, Fast Food",₹300 FOR TWO,Amma  food court
+ballari,37 MINS,"South Indian, North Indian",₹300 FOR TWO,Pola OASIS Non veg
+ballari,36 MINS,"South Indian, North Indian, Snacks, Beverages",₹100 FOR TWO,Renuka kitchen
+ballari,37 MINS,"North Indian, Chinese, South Indian",₹300 FOR TWO,The Hot Bread
+balaghat,27 MINS,North Indian,₹150 FOR TWO,Sai prasadm family restaurant
+balurghat,31 MINS,"Ice Cream, Juices, Snacks, Sweets",₹200 FOR TWO,Nirala's Pure Veg Zone
+bahadurgarh,39 MINS,Fast Food,₹250 FOR TWO,Grill Masters
+bahadurgarh,37 MINS,"Chinese, North Indian",₹300 FOR TWO,Hot Meals
+bahadurgarh,35 MINS,American,₹400 FOR TWO,Super Donuts- An American eatery and bakery
+bahadurgarh,32 MINS,"North Indian, South Indian, Chinese, Sweets, Combo, Beverages, Thalis",₹350 FOR TWO,Gopal's
+bahadurgarh,53 MINS,North Indian,₹200 FOR TWO,Chadha Prantha Junction
+bahadurgarh,34 MINS,Fast Food,₹200 FOR TWO,Sizzling Grill
+ballari,43 MINS,North Indian,₹150 FOR TWO,Punjabi Paratha
+ballari,39 MINS,"Beverages, Snacks, Juices, Fast Food",₹200 FOR TWO,Ice N Spice
+ballari,37 MINS,Pizzas,₹350 FOR TWO,Pizza Hut
+ballari,50 MINS,Beverages,₹200 FOR TWO,Gateau Bakery
+balaghat,29 MINS,Juices,₹100 FOR TWO,Juice factory
+balaghat,29 MINS,Fast Food,₹100 FOR TWO,Manoj Sandwich
+balaghat,30 MINS,"Gujarati, South Indian, Indian",₹150 FOR TWO,Sarru Ki Rasoi
+balaghat,35 MINS,Bakery,₹100 FOR TWO,Cake Hub
+balurghat,31 MINS,Biryani,₹200 FOR TWO,Biryani Hub
+balurghat,31 MINS,"Chinese, North Indian",₹200 FOR TWO,The New Nirala AC Restaurant
+balurghat,31 MINS,Chinese,₹200 FOR TWO,Quick Bite
+balurghat,31 MINS,Ice Cream,₹300 FOR TWO,Kwality Walls Frozen Dessert and Ice Cream Shop
+balaghat,-- MINS,"Fast Food, Italian, Pizzas",₹200 FOR TWO,The Chocolate Story
+balaghat,-- MINS,Chinese,₹150 FOR TWO,Kasturi Restaurant And Chaat Center
+balaghat,-- MINS,"Fast Food, Cafe, Chinese, Italian",₹200 FOR TWO,Classroom cafe
+balaghat,-- MINS,"Desserts, Bakery",₹100 FOR TWO,Gondia Jain Bakers
+balurghat,31 MINS,"Indian, Chinese",₹150 FOR TWO,Basanti Cabin Hotel Cum Restaurant
+balurghat,31 MINS,"Indian, Chinese",₹200 FOR TWO,Cafe Mithai
+balurghat,31 MINS,"Chinese, Fast Food",₹200 FOR TWO,Cafe Biryani
+balurghat,31 MINS,Bakery,₹290 FOR TWO,Royal Bake House
+balurghat,32 MINS,South Indian,₹250 FOR TWO,Mr. & Mrs.Idly
+balurghat,33 MINS,Fast Food,₹100 FOR TWO,The New Nirala Roll Corner
+balaghat,-- MINS,"Fast Food, Chinese",₹200 FOR TWO,NATURAL BAKES AND CAFE
+balaghat,-- MINS,"Chinese, Fast Food, Italian, Beverages",₹200 FOR TWO,Moms Kitchen
+balaghat,-- MINS,"South Indian, Desserts, Chinese, Beverages",₹150 FOR TWO,India Coffee House
+balaghat,-- MINS,"Asian, Biryani, Cafe, Chinese, Desserts, Fast Food, Italian",₹250 FOR TWO,Dwarika the rooftop restaurant
+balurghat,34 MINS,"South Indian, Chinese, Indian",₹300 FOR TWO,U & Me Pure Veg Restaurant
+balurghat,34 MINS,"Fast Food, Biryani",₹150 FOR TWO,Balurghat Fast Food Point
+balurghat,35 MINS,"Chinese, Fast Food",₹100 FOR TWO,Disha Restaurant
+balurghat,38 MINS,"Chinese, Indian",₹200 FOR TWO,Foodie's Heaven
+balurghat,39 MINS,North Indian,₹200 FOR TWO,"""Cafe Downtown"""
+balaghat,-- MINS,Bakery,₹150 FOR TWO,Maa Bakery And Daily Needs
+ballarpur,-- MINS,"Indian, North Indian",₹150 FOR TWO,Apna Kitchen
+ballarpur,-- MINS,"Fast Food, Chinese",₹150 FOR TWO,Hotel M & D
+ballarpur,-- MINS,"Biryani, Kebabs, Tandoor",₹200 FOR TWO,TANISHKA HOTEL
+ballarpur,-- MINS,"Fast Food, Beverages, North Indian",₹100 FOR TWO,Patel Dabeli
+banswara,48 MINS,North Indian,₹300 FOR TWO,bhai ji ke parathe
+banswara,49 MINS,Beverages,₹100 FOR TWO,Hakimi Cafe
+banswara,46 MINS,Chinese,₹250 FOR TWO,Z.A.S.H. Kitchen - by Chef Shirin
+banswara,46 MINS,"Chinese, Fast Food",₹200 FOR TWO,Tastebuds
+banswara,44 MINS,Beverages,₹100 FOR TWO,novelty juice centre
+banswara,50 MINS,"Chinese, Fast Food",₹250 FOR TWO,foodway restaurant
+banswara,61 MINS,"North Indian, Desserts, Fast Food",₹350 FOR TWO,purnima dining hall
+banswara,52 MINS,Fast Food,₹200 FOR TWO,chatkazz-kaniska fast food corner
+banswara,-- MINS,Desserts,₹300 FOR TWO,jodhpur misthan bhandar
+banswara,-- MINS,"North Indian, Fast Food",₹200 FOR TWO,wrapstick
+banswara,-- MINS,"Fast Food, Street Food",₹150 FOR TWO,Pandit Pav Bhaji
+bapatlachirala,-- MINS,"Bakery, Beverages, Desserts, Sweets",₹100 FOR TWO,Ravi Sweets & Cool Drinks
+bapatlachirala,-- MINS,Andhra,₹100 FOR TWO,Dattatreya Food Court
+bapatlachirala,-- MINS,"Desserts, Sweets, Beverages",₹100 FOR TWO,Guru Krupa Bakery
+bapatlachirala,-- MINS,"Andhra, Beverages, Desserts",₹300 FOR TWO,Snow World
+bapatlachirala,-- MINS,"Fast Food, Biryani",₹200 FOR TWO,Orange Family Restaurant
+bapatlachirala,-- MINS,"European, Italian",₹200 FOR TWO,Pizza Point
+bapatlachirala,-- MINS,"Ice Cream, Beverages",₹200 FOR TWO,Bheemas Ice creams
+bapatlachirala,-- MINS,Biryani,₹200 FOR TWO,Aashiq Restaurant
+bapatlachirala,-- MINS,"Beverages, Desserts, Pizzas",₹200 FOR TWO,Bon Pizza
+baramati,30 MINS,Pizzas,₹400 FOR TWO,Domino's Pizza
+baramati,-- MINS,Ice Cream,₹300 FOR TWO,Kwality Walls Frozen Dessert and Ice Cream Shop
+bantwal,-- MINS,"Biryani, Arabian, Seafood, Chinese, North Indian, South Indian",₹200 FOR TWO,Aania Darbar
+bantwal,-- MINS,"North Indian, South Indian",₹200 FOR TWO,Silver Family Restaurant
+bantwal,-- MINS,"North Indian, South Indian, Chinese",₹200 FOR TWO,Dakshin Court
+bantwal,-- MINS,"North Indian, South Indian",₹200 FOR TWO,Sanman Bar and Restaurant
+bantwal,-- MINS,"North Indian, South Indian",₹150 FOR TWO,Sky Mexico
+bantwal,-- MINS,"Beverages, Desserts",₹100 FOR TWO,Padmashree Ice Parlour
+bantwal,-- MINS,"Beverages, Desserts",₹100 FOR TWO,New Vijay Iyengar Bakery
+bantwal,-- MINS,"Fast Food, North Indian",₹200 FOR TWO,Hotel Mathsya Sagar
+bantwal,-- MINS,"South Indian, North Indian, Desserts, Beverages",₹200 FOR TWO,Hotel Rangoli
+bantwal,-- MINS,Indian,₹200 FOR TWO,Chikori Bar and Restaurant
+bantwal,-- MINS,"North Indian, South Indian, Beverages",₹200 FOR TWO,Krishnima Veg
+bantwal,-- MINS,"North Indian, South Indian, Fast Food",₹150 FOR TWO,Hotel New Sarathi
+bantwal,-- MINS,"Desserts, Juices, Pizzas",₹200 FOR TWO,Le Loft Cafe
+bantwal,-- MINS,North Indian,₹200 FOR TWO,Hotel Good Luck
+bardhaman,25 MINS,"Biryani, Indian",₹150 FOR TWO,First Choice Biryani
+bardhaman,25 MINS,Biryani,₹150 FOR TWO,Lucky Biryani
+bardhaman,25 MINS,"Indian, Tandoor, Chinese, Fast Food, Biryani",₹300 FOR TWO,Canteen C1
+bardhaman,25 MINS,Biryani,₹200 FOR TWO,Celebration Biryani
+bardhaman,25 MINS,"Biryani, Indian",₹200 FOR TWO,Badsahi Biriyani
+bardhaman,25 MINS,"Indian, Chinese, Tandoor",₹250 FOR TWO,C3
+bardhaman,25 MINS,Bakery,₹100 FOR TWO,Paramount's Cake Shop
+bardhaman,25 MINS,"Biryani, Indian",₹150 FOR TWO,Hydrabadi Biryani
+bardhaman,25 MINS,"North Indian, Chinese, Tandoor, Fast Food",₹200 FOR TWO,The Grub Club
+bardhaman,25 MINS,"Desserts, Fast Food",₹150 FOR TWO,Shree Krishna - The Heritage.
+bardhaman,25 MINS,"Fast Food, Chinese",₹250 FOR TWO,Yumient Restaurant
+bardhaman,25 MINS,Biryani,₹150 FOR TWO,Badsahi Biryani
+bardhaman,26 MINS,"North Indian, Chinese, Fast Food, Tandoor",₹350 FOR TWO,New Red Chilly
+bardhaman,25 MINS,"North Indian, Tandoor, Chinese, Thai",₹250 FOR TWO,Rubi Restaurant & Hotel
+bardhaman,25 MINS,"Biryani, Combo",₹300 FOR TWO,Azmat 
+bardhaman,25 MINS,"Biryani, Indian",₹200 FOR TWO,Biriyani Bangla
+basirhat,25 MINS,"Indian, Chinese, Biryani, Tandoor",₹300 FOR TWO,Chill Out Restaurant
+basirhat,25 MINS,"Biryani, Chinese, Indian",₹200 FOR TWO,New Kitchen King II
+basirhat,25 MINS,Indian,₹350 FOR TWO,HOICHOI Cafe & Restaurant
+basirhat,33 MINS,"Fast Food, Snacks",₹200 FOR TWO,Dining Divas Cafe
+basirhat,-- MINS,Fast Food,₹100 FOR TWO,New QFC
+basirhat,-- MINS,Biryani,₹200 FOR TWO,Kitchen King Restaurant
+basirhat,-- MINS,Fast Food,₹100 FOR TWO,Basirhat cafe
+basirhat,-- MINS,Mughlai,₹200 FOR TWO,Aman Haji Biryani House
+basirhat,-- MINS,"Chinese, Indian",₹100 FOR TWO,Only Momo
+basirhat,-- MINS,Indian,₹200 FOR TWO,SFC Fast Food Center
+basirhat,-- MINS,Mughlai,₹200 FOR TWO,A-1 Haji Biryani
+baraut,30 MINS,Pizzas,₹400 FOR TWO,Domino's Pizza
+baraut,-- MINS,Ice Cream,₹300 FOR TWO,Kwality Walls Frozen Dessert and Ice Cream Shop
+basti,29 MINS,"Chinese, North Indian, Beverages",₹200 FOR TWO,The Dragon King Restaurant
+basti,32 MINS,"Bakery, Desserts, Snacks, Combo",₹200 FOR TWO,Good Bakery
+basti,32 MINS,"Italian-American, Chinese, Beverages",₹200 FOR TWO,JJ Pizza N Caffe
+basti,37 MINS,"Chinese, Combo, Desserts, North Indian",₹100 FOR TWO,Lunch Box
+basti,42 MINS,"Bakery, Italian-American, Desserts, Beverages",₹80 FOR TWO,Baker's Treat
+basti,45 MINS,"North Indian, South Indian, Sweets, Beverages, Italian-American",₹100 FOR TWO,New Vijay Balla Sweets & Restaurant
+basti,-- MINS,"Italian-American, Combo, North Indian",₹100 FOR TWO,Right Away Fast Food
+basti,-- MINS,"Combo, Chaat, Chinese, Desserts, Beverages, Snacks",₹100 FOR TWO,Tikki Wala
+basti,-- MINS,"Chinese, North Indian, Italian-American, Combo, Beverages",₹200 FOR TWO,Just For You Chattar Patter
+basti,-- MINS,"South Indian, Bakery, Chinese, Beverages, Desserts, Italian-American",₹100 FOR TWO,New Madhur Sweets & Restaurant
+basti,-- MINS,"Chinese, North Indian, Biryani, Mughlai, Snacks, Beverages",₹200 FOR TWO,Just For You Restaurant
+basti,-- MINS,"North Indian, Chinese, South Indian, Desserts, Italian-American",₹150 FOR TWO,JJ Pizza @99
+bareilly,33 MINS,"Indian, Mughlai",₹200 FOR TWO,Mobile Fish Parlour
+bareilly,31 MINS,"North Indian, Chinese",₹300 FOR TWO,Dhaba Santa Banta
+bareilly,29 MINS,"Biryani, Mughlai",₹150 FOR TWO,Al Nawab Chicken Biryani
+bareilly,28 MINS,Snacks,₹100 FOR TWO,Mumbai Vada Pav No.1
+bareilly,32 MINS,Pizzas,₹350 FOR TWO,Pizza Hut
+bareilly,25 MINS,"Mughlai, Indian",₹150 FOR TWO,Shahi Saqlaini Moradabadi Biryani
+bareilly,32 MINS,"Chinese, Mughlai, Indian, Continental",₹400 FOR TWO,Krishnaz Restaurant
+barnala,35 MINS,"Fast Food, Beverages",₹80 FOR TWO,Delight Food Cafe
+bardoli,30 MINS,Pizzas,₹400 FOR TWO,Domino's Pizza
+bareilly,31 MINS,North Indian,₹250 FOR TWO,Atithi Express
+bareilly,28 MINS,"Bakery, Desserts",₹100 FOR TWO,Bakewell
+bareilly,52 MINS,Chinese,₹300 FOR TWO,Rolling Panda
+bareilly,27 MINS,"North Indian, Combo, Healthy Food",₹250 FOR TWO,Bite
+bareilly,30 MINS,"North Indian, South Indian, Chinese, Mughlai",₹150 FOR TWO,Swad Restaurant
+bareilly,38 MINS,"Bakery, Cafe, Continental",₹500 FOR TWO,Boston-Bakery and Cafe
+barnala,35 MINS,Pizzas,₹200 FOR TWO,JOKER PIZZA
+barnala,35 MINS,North Indian,₹300 FOR TWO,Patiala Chicken
+barnala,27 MINS,"Italian, Continental, Beverages",₹90 FOR TWO,Burger Bar
+barnala,36 MINS,"North Indian, Chinese, Snacks, Desserts, Beverages",₹250 FOR TWO,Visit Restaurant
+barnala,38 MINS,"Chinese, Snacks",₹60 FOR TWO,Ram Fast Food
+barnala,32 MINS,Continental,₹250 FOR TWO,Burger13
+bardoli,34 MINS,"Fast Food, Snacks",₹200 FOR TWO,Chamunda Pavbhaji and Pulao
+bardoli,34 MINS,Desserts,₹200 FOR TWO,Shree Rajasthan Sweets and Farsan
+bardoli,34 MINS,"Fast Food, Italian",₹250 FOR TWO,Shree Kesariya Juice and Fast Food
+bareilly,30 MINS,"Afghani, Biryani, Hyderabadi, Mughlai, North Indian",₹150 FOR TWO,Bawarchi Express
+bareilly,31 MINS,"Desserts, Fast Food, North Indian",₹150 FOR TWO,Dinesh Kachori Sweets Pack & Go
+barnala,40 MINS,"Fast Food, North Indian",₹200 FOR TWO,Dimple chicken
+barnala,37 MINS,Italian,₹200 FOR TWO,Club Pizzeria
+barnala,36 MINS,Chinese,₹100 FOR TWO,Rams Fast Food
+barnala,35 MINS,"Fast Food, Beverages, Desserts",₹80 FOR TWO,Friends Fast Food
+barnala,33 MINS,"Chinese, Indian",₹150 FOR TWO,SARBAT RASSOI
+bardoli,37 MINS,"Chinese, Fast Food, Gujarati, Punjabi",₹300 FOR TWO,Vrundavan restaurant
+bardoli,38 MINS,Fast Food,₹200 FOR TWO,Vaggie Treat Fast Food
+bardoli,-- MINS,"Fast Food, Snacks",₹50 FOR TWO,Jay jalaram aloopuri dabeli
+bardoli,-- MINS,"American, Biryani, Mughlai",₹200 FOR TWO,Kebab King
+bardoli,-- MINS,South Indian,₹200 FOR TWO,Raj Pav Bhaji and  Fancy Dosa Corner
+bareilly,33 MINS,"Bakery, Continental",₹300 FOR TWO,Creams & Dreams(Bakery & Cafe)
+barnala,33 MINS,Ice Cream,₹150 FOR TWO,Havmor ice cream
+barnala,34 MINS,"Fast Food, Mexican, Beverages",₹100 FOR TWO,Hello Food
+barnala,35 MINS,Indian,₹99 FOR TWO,RadhaRaman Amritsari Restaurant
+barnala,41 MINS,"Italian, Continental, Fast Food, Snacks, Beverages, Desserts",₹100 FOR TWO,Dream Cafe
+bardoli,-- MINS,North Indian,₹300 FOR TWO,Shree Khodiyar Kathiyawadi Dhaba
+beawar,39 MINS,"Chinese, North Indian, Fast Food",₹200 FOR TWO,The Hungry Owl
+beawar,30 MINS,North Indian,₹200 FOR TWO,Lumbji Ka Dhaba
+beawar,30 MINS,"Bakery, Desserts",₹100 FOR TWO,Lucky Bakery
+beawar,33 MINS,"Chinese, South Indian, North Indian, Continental, Desserts, Fast Food, Italian, ...",₹250 FOR TWO,Ramada Inn
+beawar,32 MINS,"Chinese, North Indian, Fast Food, Italian, Beverages",₹250 FOR TWO,Royal Pizza Club
+beawar,33 MINS,"Chinese, South Indian, North Indian, Continental, Fast Food, Italian",₹250 FOR TWO,Hotel Shree Tamanna Restaurant
+beawar,36 MINS,"Chinese, South Indian, North Indian, Continental, Fast Food, Italian, Beverages",₹250 FOR TWO,Kapil Restaurent
+beawar,35 MINS,"Fast Food, Beverages",₹150 FOR TWO,Sip of Tea Cafe
+beawar,30 MINS,North Indian,₹70 FOR TWO,Kailash Pan Bhandar
+beawar,33 MINS,"Chinese, Fast Food, Juices, Snacks",₹250 FOR TWO,SHREE RAM RESTAURANT AND CAFE
+beawar,-- MINS,"North Indian, Fast Food",₹250 FOR TWO,King's Haweli Cafe and Restaurant
+beawar,-- MINS,Fast Food,₹200 FOR TWO,Roll Wale
+beawar,-- MINS,"Beverages, Chinese, Continental, Fast Food",₹120 FOR TWO,Film City Mocktail Bar
+beawar,-- MINS,"Fast Food, North Indian",₹150 FOR TWO,Shahi Darbar
+bangalore,26 MINS,"South Indian, Biryani, Kerala, North Indian, Chinese",₹300 FOR TWO,Thalassery Restaurant
+bangalore,30 MINS,Biryani,₹300 FOR TWO,Donne Biriyani House
+bangalore,23 MINS,"Biryani, Andhra, South Indian, North Indian, Chinese, Seafood",₹500 FOR TWO,Meghana Foods
+bangalore,27 MINS,"Andhra, Biryani, Indian",₹500 FOR TWO,Nandhini Deluxe
+bangalore,36 MINS,Biryani,₹400 FOR TWO,Mani's Dum Biryani
+bangalore,25 MINS,South Indian,₹300 FOR TWO,Donne Biriyani House
+bangalore,21 MINS,"Biryani, Combo, Andhra, South Indian, Desserts, Biryani - Shivaji Military Hotel...",₹100 FOR TWO,Donne Biryani
+bangalore,43 MINS,"North Indian, Punjabi, Chinese, Indian, Biryani",₹200 FOR TWO,Punjabi Dhaba
+bangalore,53 MINS,Home Food,₹250 FOR TWO,Khichadi Club
+bangalore,26 MINS,"Kerala, Chinese",₹300 FOR TWO,Kannur Food Point
+bangalore,31 MINS,"South Indian, Thalis, Snacks, Biryani, Fast Food, Indian, Chinese, Desserts, Bev...",₹100 FOR TWO,Namaste
+bangalore,23 MINS,"Biryani, South Indian, Kebabs, Combo",₹350 FOR TWO,RNR Biryani - Taste of 1953
+bangalore,24 MINS,"Chinese, South Indian, North Indian, Fast Food, Mexican, Kerala",₹300 FOR TWO,Kabab magic
+bangalore,26 MINS,"American, Fast Food",₹350 FOR TWO,Burger King
+bangalore,27 MINS,"Chettinad, Thalis, Biryani, Chinese, Tandoor",₹600 FOR TWO,Anjappar
+bangalore,21 MINS,"Andhra, South Indian",₹600 FOR TWO,Nagarjuna
+batala,30 MINS,Pizzas,₹400 FOR TWO,Domino's Pizza
+batala,-- MINS,"North Indian, South Indian",₹150 FOR TWO,BIRYANI DARBAR
+batala,-- MINS,North Indian,₹200 FOR TWO,chandan dhaba
+batala,-- MINS,North Indian,₹150 FOR TWO,Mother's Mess
+batala,-- MINS,North Indian,₹250 FOR TWO,Sant vaishno Dhaba
+batala,-- MINS,"North Indian, South Indian, Chinese, Italian",₹200 FOR TWO,Laziz Hotel & Restaurant
+batala,-- MINS,North Indian,₹150 FOR TWO,pind punjabi
+batala,-- MINS,"North Indian, Fast Food, Chinese",₹250 FOR TWO,Shubh Foodz
+batala,-- MINS,North Indian,₹250 FOR TWO,Kitchen 24/7
+batala,-- MINS,Fast Food,₹99 FOR TWO,Foodies 
+batala,-- MINS,"North Indian, Chinese, Mughlai",₹300 FOR TWO,First Bite
+batala,-- MINS,"Fast Food, Italian",₹150 FOR TWO,hunger jacks pizzera
+batala,-- MINS,"North Indian, Fast Food, Italian",₹200 FOR TWO,x burger house
+beed,-- MINS,"Biryani, Indian",₹200 FOR TWO,Biriyani Palace
+beed,-- MINS,"Biryani, Chinese",₹150 FOR TWO,MADINA CHINEESE
+beed,-- MINS,"Punjabi, Maharashtrian",₹200 FOR TWO,HOTEL VIKRAM VEG AND NONVEG
+beed,-- MINS,"Pizzas, Cafe",₹200 FOR TWO,Shrimant Happy Crust Cafe
+beed,-- MINS,"Fast Food, Chinese",₹0 FOR TWO,Sagar Chinese  Chicken
+beed,-- MINS,Fast Food,₹60 FOR TWO,No 1 Puneri Special Shabudana Wada
+beed,-- MINS,"Cafe, Pizzas, Beverages, Ice Cream",₹200 FOR TWO,Pizza Planet
+beed,-- MINS,"Biryani, Maharashtrian, Punjabi",₹150 FOR TWO,HOTEL RAJGAD DHABA
+beed,-- MINS,"North Indian, Maharashtrian, Punjabi",₹250 FOR TWO,Maithili Resto Park
+beed,-- MINS,Indian,₹250 FOR TWO,Dosa Plaza Punjabi Dishe's
+beed,-- MINS,"Desserts, Bakery",₹299 FOR TWO,MYN'S CAKE VALLEY
+beed,-- MINS,"North Indian, Punjabi, Maharashtrian, Chinese, Gujarati, Fast Food",₹0 FOR TWO,Hotel Maithili
+beed,-- MINS,"Sweets, Snacks",₹150 FOR TWO,Chetana Sweets & Namkeen
+beed,-- MINS,"North Indian, South Indian, Chinese",₹0 FOR TWO,Hotel Sagar Executive
+beed,-- MINS,"Fast Food, Chaat",₹0 FOR TWO,Shantiraj Bhel Pakodi Center
+barshi,24 MINS,"North Indian, Chinese",₹300 FOR TWO,Hotel Amar Veg- Non- Veg Family Restaurant
+barshi,29 MINS,"Continental, Chinese, North Indian, Italian",₹200 FOR TWO,Sheetal Food Mall
+barshi,30 MINS,"North Indian, Chinese, Tandoor, Beverages",₹400 FOR TWO,Hotel RamKrishan Executive
+barshi,26 MINS,"Beverages, Ice Cream, Juices",₹100 FOR TWO,DILSHAD ICE CREAM AND MASTANI
+barshi,36 MINS,Pizzas,₹300 FOR TWO,Laziz Pizza
+barshi,32 MINS,"American, Fast Food",₹150 FOR TWO,"Burger And Roll's House,"
+barshi,22 MINS,Bakery,₹500 FOR TWO,Cake and Celebration Bhagwant Bakers
+barshi,31 MINS,"Fast Food, Snacks",₹60 FOR TWO,Gayatri Snacks Center ( joshi bandu )
+barshi,40 MINS,"North Indian, South Indian, Punjabi",₹200 FOR TWO,Hotel Pooja
+barshi,-- MINS,"Fast Food, Chinese",₹100 FOR TWO,Goli Vadapv Center
+barshi,-- MINS,Fast Food,₹70 FOR TWO,shree datta bhel
+barshi,-- MINS,"Punjabi, Chinese, Tandoor, South Indian",₹150 FOR TWO,Nikita Veg Food Carnival
+barshi,-- MINS,"North Indian, Punjabi, Thalis",₹180 FOR TWO,Hotel Rupali
+barshi,-- MINS,Snacks,₹70 FOR TWO,Ganesh Hotel
+behror,-- MINS,"North Indian, Fast Food",₹150 FOR TWO,Om Hotel
+behror,-- MINS,Fast Food,₹100 FOR TWO,China Town Fast Food
+bathinda,31 MINS,"Pizzas, Snacks",₹150 FOR TWO,Pizza Pizza Cafe
+bathinda,26 MINS,North Indian,₹150 FOR TWO,Harman Amritsari Kulcha
+bathinda,31 MINS,Fast Food,₹100 FOR TWO,Station Kulcha Bar
+bathinda,26 MINS,North Indian,₹150 FOR TWO,Amrik Dhaba
+bathinda,25 MINS,Fast Food,₹150 FOR TWO,Ansari Fast Food
+bathinda,25 MINS,"Sweets, Bakery, Desserts, Rajasthani, Snacks, Fast Food",₹200 FOR TWO,Rajasthan Mishthan Bhandar
+bathinda,24 MINS,"Chaat, Fast Food",₹100 FOR TWO,Shri Ram Paw Bhaji
+bathinda,26 MINS,Beverages,₹150 FOR TWO,Harman Food Hub- By Harman Amritsari Kulcha
+bathinda,24 MINS,Fast Food,₹150 FOR TWO,Roll Express
+bathinda,30 MINS,North Indian,₹300 FOR TWO,Moti Mahal
+bathinda,30 MINS,"North Indian, Punjabi, Mughlai, Tandoor, Kebabs, Salads",₹300 FOR TWO,Kammus Kitchen
+bathinda,26 MINS,"North Indian, Snacks",₹120 FOR TWO,Mani Dhaba (Ajit Road)
+bathinda,24 MINS,"Chinese, Fast Food",₹150 FOR TWO,Kapoor Chinese Corner
+bathinda,26 MINS,North Indian,₹150 FOR TWO,Bawarchi Dhaba
+bathinda,30 MINS,"Beverages, Combo, Desserts, North Indian, Thalis",₹150 FOR TWO,Mani Dhaba - Mehna Chowk
+bathinda,30 MINS,"North Indian, Punjabi",₹150 FOR TWO,Honey Dhaba (Ajit Singh Road)
+belgaum,42 MINS,North Indian,₹500 FOR TWO,EEFA - Appetite Fine Dine Restaurant
+belgaum,33 MINS,"North Indian, Chinese, Mughlai",₹300 FOR TWO,Hotel Al - Bahar
+belgaum,30 MINS,"Chinese, Indian, Tandoor",₹250 FOR TWO,Kareem s Kitchen
+belgaum,30 MINS,"South Indian, North Indian, Chinese",₹270 FOR TWO,Hotel Panchamruth
+belgaum,35 MINS,"Chinese, North Indian",₹350 FOR TWO,"Niyaaz, Tilakwadi"
+belgaum,37 MINS,"North Indian, Chinese",₹500 FOR TWO,Zaika
+belgaum,34 MINS,"North Indian, South Indian",₹300 FOR TWO,Hotel New Welcome
+belgaum,29 MINS,"North Indian, Chinese",₹500 FOR TWO,"Saffron Vegetarian,Tilakwadi"
+belgaum,39 MINS,"North Indian, South Indian",₹200 FOR TWO,Hotel Suvarn Mandir
+belgaum,32 MINS,"South Indian, Chinese",₹200 FOR TWO,Hotel Uday Bhuvan
+belgaum,34 MINS,"Italian, Continental, Pizzas, Mexican",₹300 FOR TWO,The Hidden Door
+belgaum,39 MINS,Seafood,₹250 FOR TWO,Pai's Only Fish
+belgaum,43 MINS,"Indian, Continental",₹300 FOR TWO,Heritage Kitchen
+belgaum,35 MINS,"Chinese, Continental, North Indian",₹400 FOR TWO,MUNCH Cafe & Resto
+belgaum,36 MINS,"Fast Food, Italian",₹200 FOR TWO,Pizza Corner
+belgaum,43 MINS,Healthy Food,₹200 FOR TWO,Slim Fit Food Suppliment
+begusarai,31 MINS,North Indian,₹150 FOR TWO,Maa Marwari Basa
+begusarai,30 MINS,South Indian,₹200 FOR TWO,Grand South Street
+begusarai,30 MINS,North Indian,₹200 FOR TWO,Shri Munna Hotel
+begusarai,30 MINS,Pizzas,₹400 FOR TWO,Domino's Pizza
+begusarai,30 MINS,Bakery,₹300 FOR TWO,Cake Club
+begusarai,31 MINS,Sweets,₹200 FOR TWO,Adarsh Misthan Bhandar
+begusarai,31 MINS,Bakery,₹300 FOR TWO,Chill Out
+begusarai,33 MINS,Sweets,₹300 FOR TWO,Anupam Sweets
+begusarai,34 MINS,"Chinese, Biryani",₹300 FOR TWO,KATHI JUNCTION (Biryani & Rolls)
+begusarai,35 MINS,Indian,₹200 FOR TWO,THE SECOND WIFE FAST FOOD
+begusarai,35 MINS,Italian,₹300 FOR TWO,Chill Out
+begusarai,35 MINS,North Indian,₹300 FOR TWO,Anupam Family Restaurant
+begusarai,35 MINS,Sweets,₹200 FOR TWO,Madhuwan Sweets
+begusarai,36 MINS,"Bakery, Desserts",₹200 FOR TWO,Gautam Bakery
+begusarai,37 MINS,Chinese,₹200 FOR TWO,Green Biryani House
+begusarai,37 MINS,"Chinese, Indian, Kashmiri, Continental",₹300 FOR TWO,colonelkebab
+bettiah,32 MINS,"Fast Food, Chinese, Italian",₹200 FOR TWO,Food Junction
+bettiah,38 MINS,"South Indian, North Indian, Chinese, Continental",₹200 FOR TWO,Barbeque Nation Fine Dine Restaurant
+bettiah,34 MINS,Indian,₹200 FOR TWO,The Park Biryani House
+bettiah,28 MINS,North Indian,₹300 FOR TWO,R.K.Line Hotel
+bettiah,29 MINS,Indian,₹200 FOR TWO,Champaran Handi Kabab
+bettiah,27 MINS,North Indian,₹300 FOR TWO,Champaran Biryani House
+bettiah,33 MINS,"Biryani, Indian",₹200 FOR TWO,Lazij Biryani House And Family Restaurant
+bettiah,28 MINS,Indian,₹250 FOR TWO,Hotel Soniya Sapna
+bettiah,25 MINS,"Fast Food, Desserts, Chinese",₹300 FOR TWO,Cake Palace
+bettiah,27 MINS,Desserts,₹150 FOR TWO,Cheery Cake
+bettiah,33 MINS,"North Indian, South Indian, Chinese, Fast Food, Desserts",₹200 FOR TWO,Hotel Bharat Jalpan
+bettiah,30 MINS,Pizzas,₹400 FOR TWO,Domino's Pizza
+bettiah,25 MINS,"Desserts, Fast Food",₹200 FOR TWO,Sweets Home
+bettiah,-- MINS,Indian,₹200 FOR TWO,Hotel Dana Pani
+bettiah,-- MINS,"North Indian, Chinese, Fast Food",₹200 FOR TWO,New Hyderabadi Biryani
+betul,36 MINS,"Desserts, Sweets",₹180 FOR TWO,Kunal Sweets
+betul,36 MINS,North Indian,₹250 FOR TWO,Danapani Restaurant
+betul,38 MINS,"Chinese, North Indian, South Indian",₹200 FOR TWO,Panchwati Restaurant
+betul,38 MINS,"Mughlai, North Indian",₹200 FOR TWO,Taj Chicken Biryani Center
+betul,38 MINS,Bakery,₹250 FOR TWO,Zaika The Bakery
+betul,38 MINS,"Mughlai, North Indian",₹220 FOR TWO,Hotel Mahfil
+betul,33 MINS,"Italian, Chinese, Fast Food, Beverages",₹200 FOR TWO,Cafe Licious
+betul,55 MINS,"Italian, Fast Food, Chinese",₹200 FOR TWO,Shamby's Pizza Cafe
+betul,36 MINS,"Biryani, Mughlai",₹200 FOR TWO,Hyderabadi Biryani Center
+betul,33 MINS,"North Indian, South Indian, Chinese",₹200 FOR TWO,AB Restaurant
+betul,38 MINS,Bakery,₹400 FOR TWO,Choco Beans chocolate
+betul,38 MINS,"Desserts, Ice Cream",₹300 FOR TWO,Kwality Walls Frozen Dessert and Ice Cream Shop
+betul,-- MINS,Fast Food,₹150 FOR TWO,Taj Eggroll Center
+bhadravati,-- MINS,"South Indian, North Indian",₹200 FOR TWO,Vijaya Canteen
+bhadravati,-- MINS,"South Indian, North Indian, Tandoor, Beverages, Ice Cream",₹200 FOR TWO,Nammaru Cafe
+bhadravati,-- MINS,"South Indian, North Indian",₹250 FOR TWO,Hotel Minar
+bhadravati,-- MINS,"South Indian, North Indian",₹250 FOR TWO,Kanchana Icecafe
+berhampore,33 MINS,"Indian, Biryani, Beverages",₹250 FOR TWO,GO GREEN (Pure- Veg)
+berhampore,32 MINS,"Indian, Chinese, Tandoor, Biryani, Fast Food",₹250 FOR TWO,The Chef House
+berhampore,29 MINS,"Chinese, Indian, Tandoor, Continental, South Indian, Beverages, Desserts",₹250 FOR TWO,Khao Piyo Jiyo
+berhampore,29 MINS,"Indian, Bengali",₹250 FOR TWO,Mondal's Restaurant
+berhampore,29 MINS,Biryani,₹250 FOR TWO,Kolkata Haji Biryani
+berhampore,33 MINS,"Chinese, Indian, Tandoor",₹400 FOR TWO,Roxy Restaurant
+berhampore,29 MINS,"Chinese, Indian, Tandoor",₹250 FOR TWO,Hotel Sunshine
+berhampore,39 MINS,"Indian, North Indian",₹350 FOR TWO,Hotel Nandini
+berhampore,36 MINS,"Biryani, Chinese, Snacks",₹250 FOR TWO,Petuk food Corner
+berhampore,36 MINS,"Biryani, Chinese",₹250 FOR TWO,Apex Hotel
+berhampore,29 MINS,"Chinese, Fast Food, Snacks, Ice Cream, Beverages",₹200 FOR TWO,WoW Darjeeling Restaurant
+berhampore,29 MINS,Biryani,₹250 FOR TWO,Kolkata Haji Biryani
+berhampore,29 MINS,"Snacks, Chinese, Italian",₹250 FOR TWO,Foodies.com
+bhadrachalam,36 MINS,"Asian, Chinese",₹45 FOR TWO,Usha Fast Food's & Ice Creams
+berhampore,32 MINS,Biryani,₹400 FOR TWO,Roxy Biryani House
+berhampore,29 MINS,"North Indian, Asian",₹250 FOR TWO,Sohini Restaurant
+berhampore,29 MINS,"Indian, Italian, Continental",₹200 FOR TWO,Amul Prochesta Cafe
+bhadrachalam,43 MINS,Biryani,₹90 FOR TWO,Sri Durga Biryani Center
+bhadrachalam,43 MINS,Biryani,₹300 FOR TWO,Athidi Family Restaurant
+bhadrachalam,-- MINS,Biryani,₹160 FOR TWO,Anil Family Restaurant
+bhadrachalam,-- MINS,Biryani,₹300 FOR TWO,Ramya Sri Spicy Restaurant
+bhadrachalam,-- MINS,Biryani,₹200 FOR TWO,MNR Family Dhaba
+bhadrachalam,-- MINS,Indian,₹150 FOR TWO,TEA TYPES
+bhadrachalam,-- MINS,Biryani,₹250 FOR TWO,Gowthami Spice Restaurant
+bhadrachalam,-- MINS,Biryani,₹300 FOR TWO,Geethanjali Restaurant
+bhadrachalam,-- MINS,American,₹150 FOR TWO,Vicky Donalds
+bhadrachalam,-- MINS,Snacks,₹40 FOR TWO,A.M.P.M Hotel
+berhampur,28 MINS,"Biryani, Chinese, North Indian",₹180 FOR TWO,New Biryani Centre
+berhampur,30 MINS,"Chinese, North Indian, South Indian",₹300 FOR TWO,Hotel Bhubaneswari Classic
+berhampur,35 MINS,"Biryani, Chinese, Continental",₹300 FOR TWO,O' Kareem Family Restaurant
+berhampur,29 MINS,"Chinese, South Indian",₹200 FOR TWO,New Merrydine Restaurant
+berhampur,26 MINS,"Biryani, Chinese, North Indian",₹200 FOR TWO,Hotel Sri Durga
+berhampur,35 MINS,"Desserts, Beverages",₹150 FOR TWO,7th Heaven
+berhampur,34 MINS,"Biryani, Chinese, South Indian, North Indian, Beverages",₹200 FOR TWO,Atithi Inn
+berhampur,27 MINS,"Chinese, South Indian",₹100 FOR TWO,HOTEL BHUBANESWARI PALACE
+berhampur,32 MINS,"Biryani, Chinese, Fast Food",₹200 FOR TWO,Ismail Kabab Korner
+berhampur,31 MINS,"Chinese, Fast Food",₹200 FOR TWO,M/S Kesariya Kitchen
+berhampur,28 MINS,"South Indian, North Indian",₹150 FOR TWO,M/S HOTEL SAI NANDAN
+berhampur,38 MINS,"American, Italian, Beverages",₹150 FOR TWO,Fresh Bakery
+berhampur,30 MINS,"Chinese, North Indian",₹150 FOR TWO,Food Bees
+berhampur,27 MINS,"Biryani, Chinese, North Indian, Beverages",₹200 FOR TWO,Hyderabad Dum Biriyani
+berhampur,25 MINS,Sweets,₹200 FOR TWO,NEW GANGURAM MISTAN
+berhampur,34 MINS,"Chinese, Indian",₹200 FOR TWO,M/s Kick Restaurant
+bharabanki,34 MINS,North Indian,₹200 FOR TWO,New Shere Punjab
+bharabanki,37 MINS,"Pizzas, Italian, Beverages",₹149 FOR TWO,PIZZA CAVE
+bharabanki,32 MINS,North Indian,₹149 FOR TWO,New Shere punjab (Front of stadium)
+bharabanki,37 MINS,Chinese,₹199 FOR TWO,Common Room Cafe
+bharabanki,43 MINS,"Chinese, Snacks, Beverages",₹149 FOR TWO,Burger Point
+bharabanki,26 MINS,North Indian,₹149 FOR TWO,Nukkad cafe
+bharabanki,35 MINS,"North Indian, Chinese",₹250 FOR TWO,Desiaan
+bharabanki,32 MINS,North Indian,₹149 FOR TWO,SARDAR JI CHAP WALE
+bharabanki,35 MINS,Bakery,₹200 FOR TWO,Tandon Bakery Store
+bharabanki,36 MINS,"Desserts, Ice Cream",₹100 FOR TWO,Kwality Walls Frozen Dessert & Ice Cream Shop
+bharabanki,26 MINS,"Chinese, North Indian",₹149 FOR TWO,Mr. Vansh
+bharabanki,35 MINS,"North Indian, Chinese",₹200 FOR TWO,Food Junction
+bharabanki,26 MINS,"North Indian, Chinese",₹250 FOR TWO,Food Zest
+bharabanki,42 MINS,"North Indian, Chinese, Tandoor",₹149 FOR TWO,Indian food junction
+bharabanki,32 MINS,North Indian,₹200 FOR TWO,Punjabi Dhaba
+bharabanki,26 MINS,Bakery,₹149 FOR TWO,Best shop
+bhagalpur,33 MINS,"Pizzas, Fast Food",₹100 FOR TWO,USPFC
+bhagalpur,37 MINS,"Italian, Continental, Chinese, Bakery",₹250 FOR TWO,7th Heaven [khalifabag]
+bhagalpur,37 MINS,"North Indian, Chinese",₹200 FOR TWO,TFC (Tejashwi Food Club)
+bhagalpur,37 MINS,South Indian,₹100 FOR TWO,The Madras Cafe
+bhagalpur,36 MINS,"Italian, Snacks, Desserts",₹150 FOR TWO,Grill Inn
+bhagalpur,34 MINS,"North Indian, Chinese",₹100 FOR TWO,Food Villa
+bhagalpur,36 MINS,North Indian,₹200 FOR TWO,Siyanand Dhaba
+bhagalpur,32 MINS,Bakery,₹200 FOR TWO,7Th Heaven Cake Shop
+bhagalpur,32 MINS,"Bakery, Chinese, Italian",₹100 FOR TWO,Bake Club  & Big Bite Rolls
+bhagalpur,37 MINS,"Indian, Chinese",₹100 FOR TWO,Metro Mirchi
+bhagalpur,30 MINS,Desserts,₹200 FOR TWO,Hangout Cafe Cake Shop
+bhagalpur,30 MINS,North Indian,₹50 FOR TWO,Maa Annapurna Hotel
+bhagalpur,40 MINS,"North Indian, Chinese",₹200 FOR TWO,Chahat The Dhaba
+bhagalpur,30 MINS,"Chinese, South Indian, Sweets",₹100 FOR TWO,Devendra Jalpan
+bhagalpur,30 MINS,"Chinese, North Indian",₹100 FOR TWO,Yummy Tummy
+bhagalpur,36 MINS,"Chinese, North Indian",₹200 FOR TWO,FFC (Fast Food Corner)
+bharatpur,29 MINS,"Fast Food, Indian, Pizzas",₹200 FOR TWO,The Treat
+bharatpur,30 MINS,Indian,₹0 FOR TWO,Yaduvanshi Milk Dairy
+bharatpur,30 MINS,Bakery,₹100 FOR TWO,Vinayak Confectionery
+bharatpur,31 MINS,North Indian,₹100 FOR TWO,Hotel Om Sai and Restaurant
+bharatpur,32 MINS,"Fast Food, Chinese, Beverages",₹100 FOR TWO,Vandey's
+bharatpur,34 MINS,"North Indian, Mughlai, Biryani, Beverages",₹100 FOR TWO,Dev Hotel
+bharatpur,35 MINS,"North Indian, Beverages, Ice Cream",₹100 FOR TWO,Dev Hotel And Restaurant (Pure Veg)
+bharatpur,38 MINS,Pizzas,₹200 FOR TWO,Frandie Cafe
+bharatpur,38 MINS,Indian,₹150 FOR TWO,VRANDAVAN TIFFINS
+bharatpur,39 MINS,Bakery,₹100 FOR TWO,Swastik Confectionery
+bharatpur,55 MINS,North Indian,₹100 FOR TWO,Flavour Food (A food processor)
+bharatpur,55 MINS,Juices,₹100 FOR TWO,Sunil Juice Center
+bharatpur,-- MINS,Indian,₹200 FOR TWO,Xotic khichdi food
+bharatpur,-- MINS,South Indian,₹150 FOR TWO,RUCHI KABAB
+bhatapara,-- MINS,"North Indian, Mughlai",₹150 FOR TWO,Gagandeep Hotel
+bhandara,32 MINS,Fast Food,₹100 FOR TWO,RANA FOOD PLANET
+bhandara,44 MINS,Punjabi,₹50 FOR TWO,The Paratha Shop
+bhandara,49 MINS,"Cafe, Chinese, Fast Food",₹150 FOR TWO,CAFE TALAP AND RESTRO
+bhandara,51 MINS,"Fast Food, Beverages",₹100 FOR TWO,Crunchmill Western Food
+bhandara,-- MINS,Chinese,₹100 FOR TWO,ANAND CHINESE CORNER
+bhandara,-- MINS,"Indian, Maharashtrian",₹150 FOR TWO,Sachin Family Restaurant
+bhandara,-- MINS,Biryani,₹150 FOR TWO,Hotel AL Rizwan
+bhandara,-- MINS,Desserts,₹100 FOR TWO,Maa Bhavani Sweet Mart & Namkeen House
+bhandara,-- MINS,"Chinese, Fast Food",₹150 FOR TWO,Walter's Cafe
+bhilai,38 MINS,"Pizzas, South Indian, Chinese, Cafe, Fast Food, Snacks, Italian, North Eastern, ...",₹200 FOR TWO,CAD M CAD B
+bhilai,30 MINS,"Biryani, Kebabs, Combo, Chinese, Tandoor, Snacks, Salads, Ramzan Special, Mughla...",₹250 FOR TWO,Hotel Ansari
+bhilai,25 MINS,"Desserts, Ice Cream",₹100 FOR TWO,Kwality Walls
+bhilai,44 MINS,"North Indian, Indian, Biryani, Beverages, Tandoor, Combo, Thalis, Grill",₹300 FOR TWO,MADHURISHA FAMILY RESTAURANT
+bhilai,30 MINS,"Beverages, Ice Cream, Desserts, Healthy Food",₹300 FOR TWO,Keventers - Milkshakes & Ice Cream
+bhilai,45 MINS,"Thalis, North Indian, Snacks, Fast Food, Street Food",₹150 FOR TWO,Shree Mangalam-Paratha House
+bhilai,34 MINS,Desserts,₹200 FOR TWO,SATYAM BAKERS AND SWEETS
+bhilai,29 MINS,"Continental, Beverages",₹200 FOR TWO,NANHE	 TEA & SNACK'S
+bhilai,33 MINS,"Pizzas, Snacks, Desserts, Ice Cream, Beverages",₹250 FOR TWO,Krazy Kool
+bhilai,43 MINS,"Juices, Healthy Food, Snacks, Beverages",₹150 FOR TWO,Juice Factory
+bhilai,41 MINS,"Fast Food, Desserts, Italian-American",₹250 FOR TWO,Wafflez - Civic Centre
+bhilai,36 MINS,"North Indian, South Indian, Chinese, Pizzas, Snacks, Continental",₹200 FOR TWO,Tadka Pure Veg
+bhilai,30 MINS,"Biryani, North Indian, Chinese, Tandoor, Kebabs, Salads, Mughlai, Indian",₹200 FOR TWO,AL Lazeez Biryani
+bhilai,54 MINS,South Indian,₹200 FOR TWO,MADRASI TADKA
+bhilai,32 MINS,"Bakery, Fast Food",₹150 FOR TWO,The Mad Bakers
+bhilai,29 MINS,"Biryani, Chinese, North Indian, Indian, Tandoor",₹200 FOR TWO,Hotel Zam Zam
+bhilwara,36 MINS,"Cafe, Italian, Pizzas",₹200 FOR TWO,Hot Pizza
+bhilwara,35 MINS,North Indian,₹300 FOR TWO,Mirchi Restaurant
+bhilwara,25 MINS,"Indian, Rajasthani",₹200 FOR TWO,Shree Sanwariya Bhojnalaya
+bhilwara,27 MINS,"North Indian, Desserts",₹200 FOR TWO,Delhi Thali Restaurant
+bhimavaram,-- MINS,American,₹200 FOR TWO,YFC
+bhilwara,33 MINS,"North Indian, Desserts",₹200 FOR TWO,Mahalaxmi Bakers
+bhilwara,33 MINS,"North Indian, Rajasthani",₹200 FOR TWO,Shree Sanwariya Restaurant
+bhilwara,40 MINS,"Fast Food, Pizzas",₹200 FOR TWO,Sonu Patties
+bhilwara,39 MINS,"Mughlai, Punjabi",₹300 FOR TWO,Chawla Chicken
+bhimavaram,-- MINS,Biryani,₹300 FOR TWO,Chandrika Biriyani Family Point
+bhimavaram,-- MINS,Biryani,₹200 FOR TWO,Treats Kathies
+bhimavaram,-- MINS,Biryani,₹300 FOR TWO,Sri Abhiruchi Restaurant
+bhimavaram,-- MINS,"Continental, Pizzas, Juices",₹200 FOR TWO,Lassi n Shakes
+bhimavaram,-- MINS,"Desserts, Sweets, Beverages",₹250 FOR TWO,Sri Dip & Go
+bhilwara,25 MINS,"Continental, North Indian",₹200 FOR TWO,Burp It - Serving Authentic Indian Delicacies
+bhilwara,31 MINS,Fast Food,₹200 FOR TWO,Bholenath Pizza Centre
+bhilwara,25 MINS,Sweets,₹150 FOR TWO,Pyare Lal Ghewar Chand( Beawar Wala Halwai)
+bhilwara,27 MINS,"Indian, Snacks",₹200 FOR TWO,Mathuralal Namkeen Bhandar
+bhilwara,33 MINS,Desserts,₹250 FOR TWO,Baskin Robbins
+bhilwara,39 MINS,North Indian,₹300 FOR TWO,Sip & Gossip Cafe
+bhilwara,40 MINS,Continental,₹200 FOR TWO,Love bird pizza
+bhimavaram,-- MINS,"Chinese, Indian, Tandoor",₹300 FOR TWO,Taj Restaurant
+bhimavaram,-- MINS,"South Indian, Biryani",₹300 FOR TWO,Abhiruchi Veg and Non Veg Restaurant
+bhimavaram,-- MINS,"European, Italian",₹250 FOR TWO,Roasters Fried Chicken
+bhimavaram,-- MINS,"Asian, Chinese",₹200 FOR TWO,Cafe Brew & Bake
+bhimavaram,-- MINS,"Biryani, Fast Food, North Indian, Chinese",₹300 FOR TWO,Almas Restaurant
+bhimavaram,-- MINS,Biryani,₹300 FOR TWO,Vindhu - Hotel Falcon's Nest
+bhimavaram,-- MINS,"Biryani, North Indian, Chinese",₹300 FOR TWO,Adurs Restaurant
+bhimavaram,-- MINS,Arabian,₹300 FOR TWO,Barkaas Arabic Restaurant
+bhilwara,26 MINS,North Indian,₹200 FOR TWO,Harichhaya Garden restaurant
+bhimavaram,-- MINS,American,₹200 FOR TWO,BFC
+bharuch,30 MINS,Pizzas,₹400 FOR TWO,Domino's Pizza
+bharuch,43 MINS,"Biryani, Beverages, Continental",₹200 FOR TWO,Albaik India
+bharuch,48 MINS,Fast Food,₹200 FOR TWO,Food Kart
+bharuch,35 MINS,"Fast Food, Italian",₹200 FOR TWO,The Olive's Kitchen
+bharuch,36 MINS,Fast Food,₹200 FOR TWO,Express Kitchen
+bharuch,40 MINS,"Afghani, Biryani",₹200 FOR TWO,A1 Chicken Biryani
+bharuch,38 MINS,"South Indian, Biryani",₹150 FOR TWO,New Thakor Restaurant
+bhatkal,33 MINS,"Chinese, Desserts, Pizzas",₹200 FOR TWO,Cafe down town
+bhatkal,30 MINS,"South Indian, North Indian, Chinese",₹250 FOR TWO,Hotel Olive
+bharuch,40 MINS,"North Indian, Chinese, Biryani, Beverages",₹150 FOR TWO,New Greenery Restaurant
+bharuch,38 MINS,"Fast Food, Snacks, Pizzas, Grill",₹150 FOR TWO,Natural Oasis
+bharuch,35 MINS,"Chinese, Fast Food",₹200 FOR TWO,Roll's N Bun's
+bharuch,41 MINS,"Fast Food, Italian",₹200 FOR TWO,Real Paprika
+bharuch,34 MINS,"Chinese, North Indian, Punjabi, Snacks, Biryani, Beverages, Thalis",₹250 FOR TWO,Hotel Corona
+bharuch,35 MINS,"Desserts, Beverages",₹100 FOR TWO,New Silver Sona
+bharuch,44 MINS,"Chinese, Fast Food, North Indian, Punjabi, Biryani, Mughlai, Thalis",₹200 FOR TWO,Rajdhani Restaurant
+bharuch,49 MINS,Fast Food,₹100 FOR TWO,Lalabhai Sev Usal Wala
+bhatkal,29 MINS,"Ice Cream, South Indian",₹200 FOR TWO,Summer Ice-Creams & Veg Restaurant
+bhatkal,-- MINS,"South Indian, North Indian, Chinese",₹300 FOR TWO,TFC Inn
+bhatkal,-- MINS,"Biryani, North Indian, South Indian",₹250 FOR TWO,riha's kitchen
+bhatkal,-- MINS,"South Indian, North Indian, Chinese",₹300 FOR TWO,Hotel 4 Seezon
+bhatkal,-- MINS,"South Indian, North Indian, Chinese",₹150 FOR TWO,Hotel Royal Athitya
+bhatkal,-- MINS,"North Indian, Biryani, Beverages, Ice Cream",₹250 FOR TWO,Shahi Darbar Veg restaurant
+bhatkal,-- MINS,"Biryani, Arabian, Tandoor",₹100 FOR TWO,Chillies Family Restaurant
+bhatkal,-- MINS,Fast Food,₹200 FOR TWO,Five Star Chicken
+bhatkal,-- MINS,"North Indian, South Indian",₹200 FOR TWO,simran kitchen bkl
+bhatkal,-- MINS,"Biryani, South Indian, North Indian, Chinese, Seafood",₹150 FOR TWO,Hotel karavali
+bhind,26 MINS,"Chinese, Italian, South Indian, Fast Food",₹150 FOR TWO,MP Fast Food Restaurant
+bhind,31 MINS,Desserts,₹250 FOR TWO,Mama Bhanja mishthan bhandar
+bhind,30 MINS,North Indian,₹150 FOR TWO,Upadhyay Bhojanalay
+bhind,26 MINS,"Italian, Fast Food",₹200 FOR TWO,Pizza Hub
+bhind,31 MINS,Desserts,₹200 FOR TWO,Popy Bareya Cake King
+bhind,33 MINS,"North Indian, Chinese, Italian, South Indian",₹200 FOR TWO,Shri Balaji Palace & Family Restaurant
+bhind,26 MINS,Desserts,₹250 FOR TWO,bangali sweets & dry fruits
+bhind,26 MINS,"North Indian, Chinese",₹180 FOR TWO,Drashya Cafateriya
+bhind,28 MINS,North Indian,₹150 FOR TWO,Apna Singh Dhava
+bhind,31 MINS,"Chinese, Italian, Fast Food",₹200 FOR TWO,Rathore Fast Foods
+bhind,-- MINS,"North Indian, Chinese",₹200 FOR TWO,Maa Sheetla Restaurant
+bhind,-- MINS,"North Indian, Fast Food, Chinese",₹250 FOR TWO,NH-92 FOOD ZONE
+bhind,-- MINS,North Indian,₹250 FOR TWO,INDIAN DHAVA
+bhiwadi,35 MINS,North Indian,₹250 FOR TWO,Meal Bazaar
+bhiwadi,31 MINS,North Indian,₹100 FOR TWO,Sneha Foods Service and Tiffin Service
+bhiwadi,31 MINS,North Indian,₹150 FOR TWO,Jai Baba Family Restaurant
+bhiwadi,43 MINS,North Indian,₹250 FOR TWO,Delhi Tadka
+bhiwadi,29 MINS,Indian,₹100 FOR TWO,Kanha Shyaam Food Store
+bhiwadi,31 MINS,Fast Food,₹150 FOR TWO,Sai Fast Food Corner
+bhiwadi,25 MINS,"American, Fast Food",₹350 FOR TWO,Burger King
+bhiwadi,33 MINS,North Indian,₹100 FOR TWO,Radhe Krishna Family Restaurant
+bhiwadi,28 MINS,"North Indian, Continental, Desserts, Fast Food, Beverages",₹200 FOR TWO,Harish Bakery
+bhiwadi,31 MINS,North Indian,₹150 FOR TWO,Ram Family Restaurant
+bhiwadi,35 MINS,Fast Food,₹100 FOR TWO,The Chinese Delight
+bhiwadi,25 MINS,Pizzas,₹100 FOR TWO,Mama Mia Pizza
+bhiwadi,26 MINS,South Indian,₹150 FOR TWO,Dosa Wala
+bhiwadi,25 MINS,"Chinese, Desserts, Fast Food, Beverages",₹100 FOR TWO,Bikaner Misthan Bhandar.
+bhiwadi,30 MINS,Pizzas,₹400 FOR TWO,Domino's Pizza
+bhiwadi,25 MINS,Fast Food,₹400 FOR TWO,McDonald's
+bhavnagar,27 MINS,Pizzas,₹250 FOR TWO,Drizzle's Pizza
+bhavnagar,30 MINS,"North Indian, Desserts, Beverages, Fast Food, Chinese, South Indian",₹200 FOR TWO,Crave Eatables
+bhavnagar,32 MINS,"Continental, Desserts, Fast Food, Italian, Mexican, Beverages",₹200 FOR TWO,The Coffee Cafe
+bhavnagar,35 MINS,"Fast Food, Italian",₹100 FOR TWO,Chatkazz - spice Up!
+bhavnagar,32 MINS,"Desserts, Sweets",₹150 FOR TWO,Amrut bakers & cake shop
+bhavnagar,28 MINS,Pizzas,₹600 FOR TWO,Pizza Hut
+bhavnagar,25 MINS,"Desserts, Fast Food, Sweets",₹200 FOR TWO,Bachubhai Dudhwala CRAVE EATABLES
+bhavnagar,33 MINS,"North Indian, Fast Food, Punjabi, Chinese, South Indian",₹200 FOR TWO,Hotel Blue Hill
+bhavnagar,37 MINS,"Biryani, Fast Food",₹300 FOR TWO,Egg Smart
+bhavnagar,41 MINS,North Indian,₹230 FOR TWO,Biryani Zone
+bhavnagar,28 MINS,"Beverages, Chinese, Desserts, North Indian",₹400 FOR TWO,HONEST WAGHAWADI
+bhavnagar,22 MINS,"Desserts, Sweets",₹100 FOR TWO,Laxmi Farsan & Sweet - Girdharilal Mithaiwala
+bhavnagar,29 MINS,"Fast Food, South Indian, North Indian, Desserts, Chaat",₹250 FOR TWO,Dimple Fast Food
+bhavnagar,21 MINS,"Beverages, Juices",₹200 FOR TWO,AMRUT PARLOUR
+bhavnagar,26 MINS,"Sweets, Snacks, Bakery, Desserts",₹200 FOR TWO,Rasmalai sweet & Namkeen
+bhavnagar,26 MINS,"Chinese, American, Fast Food, Italian",₹200 FOR TWO,The Cafe Bistro
+bhiwani,30 MINS,North Indian,₹200 FOR TWO,Jagdambe Shudh Vaishano Bhojanalaya
+bhiwani,26 MINS,"Bakery, Fast Food",₹150 FOR TWO,Asain Bakery & Snacks
+bhiwani,32 MINS,"Pizzas, Pastas",₹200 FOR TWO,Pizza Choice
+bhiwani,30 MINS,"Chaat, Chinese, Continental, South Indian, Indian",₹200 FOR TWO,Chatori Gali
+bhiwani,32 MINS,Fast Food,₹150 FOR TWO,Pizza Hub
+bhiwani,29 MINS,"Sweets, Snacks, Fast Food",₹200 FOR TWO,Rakheja Burfi wala & Namkeen
+bhiwani,30 MINS,Fast Food,₹150 FOR TWO,Burger Bell
+bhiwani,27 MINS,"Bakery, Fast Food",₹200 FOR TWO,Kaka Bakery
+bhiwani,26 MINS,"Fast Food, Pizzas, Chinese, South Indian",₹200 FOR TWO,Sweet Fast Food Caf
+bhiwani,31 MINS,"Pizzas, Pastas, Beverages",₹200 FOR TWO,My Shop
+bhiwani,29 MINS,"North Indian, Chinese, Pastas",₹250 FOR TWO,Shaam E Khaas
+bhiwani,23 MINS,"Snacks, Beverages",₹250 FOR TWO,Diet Cheat repeat
+bhiwani,35 MINS,North Indian,₹200 FOR TWO,Om Shudh Bhojnalye
+bhiwani,32 MINS,"Pizzas, Pastas, Beverages",₹200 FOR TWO,Pizza Treats
+bhiwani,23 MINS,"Fast Food, Pastas, Snacks, Beverages, Ice Cream",₹200 FOR TWO,Apple Cafe & Restaurant
+bhiwani,23 MINS,"North Indian, Indian",₹200 FOR TWO,Royal Darbar
+bhubaneswar,28 MINS,"Indian, Biryani, Thalis, Oriya, Seafood, Combo",₹250 FOR TWO,HOTEL WELCOME
+bhubaneswar,31 MINS,"Oriya, North Indian, Biryani",₹100 FOR TWO,Food Darbar
+bhubaneswar,31 MINS,"Fast Food, Chinese, Tandoor, Biryani",₹200 FOR TWO,Green Chillyz
+bhubaneswar,27 MINS,"Indian, Biryani, Chinese, Seafood",₹200 FOR TWO,CHANCELLOR PREMIUM
+bhubaneswar,29 MINS,"Biryani, Kebabs, Fast Food, Indian, Desserts",₹300 FOR TWO,Biriyani Box
+bhubaneswar,37 MINS,"Indian, Chinese, Biryani, Oriya",₹200 FOR TWO,Bhaina Hotel And Fast Food
+bhubaneswar,51 MINS,"Fast Food, Pizzas",₹350 FOR TWO,Pizza Hut
+bhubaneswar,34 MINS,"Indian, Chinese, Biryani",₹300 FOR TWO,Tawaa Tandoor
+bhubaneswar,32 MINS,"Indian, Biryani, Chinese",₹300 FOR TWO,Food Factory
+bhubaneswar,51 MINS,"Indian, Tandoor, Biryani, North Indian, Asian, Chinese",₹250 FOR TWO,HOMIE-THE HYGIENE KITCHEN
+bhubaneswar,29 MINS,Bakery,₹200 FOR TWO,Firangi Mithai
+bhubaneswar,35 MINS,"Fast Food, American, Cafe",₹300 FOR TWO,Biggies Burger 'n' More
+bhubaneswar,41 MINS,"Indian, Chinese",₹300 FOR TWO,Foodzo
+bhubaneswar,29 MINS,Indian,₹150 FOR TWO,Hotel Maa Santoshi
+bhubaneswar,35 MINS,"Biryani, Indian",₹200 FOR TWO,EATARIE
+bhubaneswar,52 MINS,"Chinese, Indian",₹200 FOR TWO,ROSHAN ARABIAN
+bhusawal,-- MINS,Chinese,₹150 FOR TWO,Om Chinese 
+bhusawal,-- MINS,Snacks,₹150 FOR TWO,Shree's Cafe
+bhusawal,-- MINS,Chinese,₹150 FOR TWO,Chaska Chainese
+bhusawal,-- MINS,"Chinese, Fast Food",₹150 FOR TWO,Fatema Chinese & Fast Food Center
+bhusawal,-- MINS,"Fast Food, Sweets",₹50 FOR TWO,Garg Mistan Bhandar
+bhusawal,-- MINS,"Fast Food, North Indian, Chinese, Indian",₹100 FOR TWO,Mirch Masala
+bhusawal,-- MINS,"Chinese, South Indian, Maharashtrian, Indian",₹150 FOR TWO,Hotel Malhar
+bhusawal,-- MINS,Bakery,₹150 FOR TWO,Shree Sai Sweet & Bakery
+bhusawal,-- MINS,Chinese,₹150 FOR TWO,Little Chinaa
+bhopal,-- MINS,Indian,₹200 FOR TWO,BREAD & BETTER
+bhopal,-- MINS,"Street Food, Indian, Snacks",₹200 FOR TWO,Balaji ki kripa
+bhopal,-- MINS,"Street Food, Indian, Snacks",₹100 FOR TWO,MURENA KAY PRASIDDH BEDMI
+bhopal,-- MINS,Healthy Food,₹200 FOR TWO,Aesthetics Nutrition
+bhopal,-- MINS,"North Indian, Fast Food",₹200 FOR TWO,READY MEALZ
+bhopal,-- MINS,"North Indian, Fast Food, Chinese, Continental",₹300 FOR TWO,Food Craft Restaurant
+bhopal,-- MINS,"Street Food, Indian, Chinese",₹100 FOR TWO,VIKASH  NON VEG FAST FOOD
+bhopal,-- MINS,"Street Food, Snacks, Beverages, Indian",₹100 FOR TWO,DADA KI CHAI
+bhopal,-- MINS,"Street Food, Beverages, Paan",₹100 FOR TWO,Mishra Tea Stall
+bhopal,-- MINS,"Street Food, South Indian, Snacks, Indian",₹200 FOR TWO,Antra pav bhaji
+bhopal,-- MINS,"Street Food, North Indian, Snacks",₹100 FOR TWO,CHANDRABHAN NASTA GHAR
+bhopal,-- MINS,"Street Food, Indian, Snacks",₹100 FOR TWO,Mukh swad nasta ghar
+bhopal,-- MINS,"Indian, Fast Food, Snacks, Continental, Pizzas",₹250 FOR TWO,Grills & More
+bhopal,-- MINS,Fast Food,₹150 FOR TWO,Loli Mumbai Vada Pav
+bhopal,-- MINS,"Street Food, Indian, Thalis",₹100 FOR TWO,BHAGWATI TIFFIN CENTRE
+bijapur,37 MINS,"Beverages, Cafe, Desserts",₹250 FOR TWO,Cafe Tree
+bijapur,-- MINS,"Beverages, Desserts, Sweets",₹150 FOR TWO,Maharaja Sweets and General Store
+bijapur,-- MINS,"North Indian, South Indian, Chaat, Beverages",₹250 FOR TWO,Agarwal Live chaats sweet and savouries
+bijapur,-- MINS,"Indian, Biryani",₹200 FOR TWO,Biryani House
+bijapur,-- MINS,"Beverages, South Indian",₹200 FOR TWO,FIVE STAR CHICKEN (LINGAD GUDI ROAD)
+bijapur,-- MINS,"South Indian, North Indian",₹200 FOR TWO,Halli mane
+bijapur,-- MINS,"South Indian, North Indian",₹200 FOR TWO,Anna Idli
+bijapur,-- MINS,"Biryani, Chinese, Mughlai, South Indian",₹150 FOR TWO,Bagmare Chicken Corner
+bijapur,-- MINS,"South Indian, North Indian",₹200 FOR TWO,Yadiyur siddalingeshwar Bhojanalaya ganesh nagar
+bijapur,-- MINS,"North Indian, South Indian",₹150 FOR TWO,Rajwada The Restaurants
+bijapur,-- MINS,Indian,₹200 FOR TWO,MH12 PAV BHAJI
+bhuj,30 MINS,Pizzas,₹400 FOR TWO,Domino's Pizza
+bhuj,54 MINS,"Chinese, South Indian, North Indian, Continental, Fast Food, Italian, Punjabi",₹400 FOR TWO,Ten11 Lounge
+bhuj,57 MINS,"Beverages, Chinese, Mughlai, Biryani, Combo",₹250 FOR TWO,AL-Momin Restaurant
+bhuj,30 MINS,"Fast Food, Italian, Pizzas",₹200 FOR TWO,Chatkazz
+bhuj,35 MINS,"Chinese, North Indian, Mughlai, Punjabi",₹400 FOR TWO,Farzana Restaurant
+bhuj,31 MINS,"Punjabi, Gujarati, Chinese, South Indian",₹400 FOR TWO,Ambar Restaurant
+bilaspur,37 MINS,Indian,₹600 FOR TWO,RHYTHM RESTAURANT
+bhuj,29 MINS,"Fast Food, Italian, Beverages, Pizzas, Snacks",₹200 FOR TWO,2 Amigos Fast Food
+bhuj,34 MINS,"Chinese, South Indian, North Indian, Fast Food, Italian, Punjabi, Hyderabadi",₹400 FOR TWO,Flavors Restaurant
+bhuj,40 MINS,"Desserts, Ice Cream, Beverages",₹150 FOR TWO,Vinayak Gola Parlour
+bhuj,32 MINS,"North Indian, Punjabi",₹200 FOR TWO,Hotel Noorani Mahal
+bhuj,31 MINS,"Chinese, South Indian, North Indian, Mughlai, Punjabi",₹400 FOR TWO,Amiri Restaurant
+bilaspur,32 MINS,North Indian,₹200 FOR TWO,Sanjha Chulha
+bilaspur,33 MINS,"North Indian, Biryani, Seafood, Tandoor, Snacks",₹150 FOR TWO,Nagpur Biryani
+bilaspur,39 MINS,"Indian, Chinese, Biryani",₹200 FOR TWO,TEMPTATION RESTAURANT
+bilaspur,34 MINS,"Pizzas, Pastas, Combo, Fast Food, Beverages",₹99 FOR TWO,Giza (Main Branch)
+bilaspur,35 MINS,"Fast Food, Chinese",₹99 FOR TWO,Momos House
+bhuj,45 MINS,"Chinese, Fast Food, Italian, Mughlai, Seafood",₹400 FOR TWO,Faizz Restaurant
+bhuj,35 MINS,"Chinese, North Indian, Continental, Fast Food, Italian, Mughlai, Punjabi, Hydera...",₹400 FOR TWO,Lucky Restaurant
+bhuj,-- MINS,Paan,₹100 FOR TWO,Banarasi Paan
+bilaspur,38 MINS,"Fast Food, Healthy Food, Salads, Snacks, Desserts, Beverages",₹350 FOR TWO,SUBWAY
+bilaspur,34 MINS,"Thalis, Sweets, South Indian, Combo, Chinese",₹149 FOR TWO,Maosaji-Shrikant verma marg
+bilaspur,36 MINS,"Indian, Pizzas",₹300 FOR TWO,PIZZA BOI
+bilaspur,32 MINS,"Continental, Beverages",₹300 FOR TWO,BFC
+bilaspur,38 MINS,"North Indian, South Indian",₹149 FOR TWO,Paratha House
+biharsharif,30 MINS,Chinese,₹150 FOR TWO,Hot Kathmandu Momo & Food Plaza
+bilaspur,39 MINS,"Beverages, Chinese, Combo, Fast Food, Italian, Mexican, North Indian, Snacks, So...",₹200 FOR TWO,THE KITCHEN GARDEN
+bilaspur,39 MINS,"American, Fast Food, Snacks",₹400 FOR TWO,KFC
+bilaspur,41 MINS,"Rajasthani, Indian",₹200 FOR TWO,Marwadi Bhojnalay & Restaurant
+bilaspur,37 MINS,"Pizzas, North Indian, Indian, Chinese, Fast Food, Biryani, Snacks",₹200 FOR TWO,Box Office- The Urban Dhaba
+bilaspur,32 MINS,"Bakery, Pizzas, Pastas, Beverages",₹149 FOR TWO,CAFFINO
+biharsharif,30 MINS,"Snacks, Desserts",₹200 FOR TWO,Cake Shop
+biharsharif,30 MINS,"Indian, North Indian, Chinese, Snacks",₹300 FOR TWO,Green Chilly Restaurant
+biharsharif,30 MINS,"Desserts, Fast Food",₹200 FOR TWO,Bittu's
+biharsharif,30 MINS,"Indian, Chinese, Italian",₹250 FOR TWO,Hiralal & Sons Restaurant
+biharsharif,30 MINS,"North Indian, Chinese, Tandoor",₹300 FOR TWO,Elite Briyani Restaurant
+bidar,34 MINS,"South Indian, North Indian, Chinese",₹200 FOR TWO,Punjabi Tadka
+biharsharif,30 MINS,"Sweets, Snacks",₹100 FOR TWO,New Nalanda Mishthan Bhandar
+biharsharif,30 MINS,"Chinese, South Indian, Indian, Sweets",₹200 FOR TWO,Sheetal Chhaya
+biharsharif,31 MINS,"Chinese, Indian",₹250 FOR TWO,Food Street
+biharsharif,32 MINS,Italian,₹200 FOR TWO,Pizza Ghar
+bidar,35 MINS,"South Indian, North Indian",₹150 FOR TWO,Khan Chacha Family Restaurant
+bidar,28 MINS,"South Indian, North Indian",₹200 FOR TWO,Veggies Nation
+bidar,42 MINS,"Italian, Fast Food",₹200 FOR TWO,Laziz Pizza
+bidar,43 MINS,"South Indian, North Indian",₹150 FOR TWO,Rinku Punjabi Restaurant
+bidar,39 MINS,"South Indian, North Indian",₹150 FOR TWO,Honey Punjabi Restaurant
+bidar,39 MINS,"South Indian, North Indian",₹200 FOR TWO,Shree Siddhi Vinayaka Darhini Udupi Hotel
+bidar,35 MINS,Beverages,₹200 FOR TWO,Lassi Stop
+bidar,-- MINS,Desserts,₹150 FOR TWO,Kasturi Pan shop
+biharsharif,32 MINS,Italian,₹100 FOR TWO,Laziz Pizza
+biharsharif,33 MINS,Indian,₹300 FOR TWO,GFC
+biharsharif,33 MINS,"Indian, North Indian, Chinese, Snacks, Tandoor",₹200 FOR TWO,Chaska Restaurant
+biharsharif,33 MINS,"Fast Food, Indian, Beverages, Pizzas",₹100 FOR TWO,IFC (Indian Fried Chicken)
+biharsharif,33 MINS,"Italian, Snacks",₹200 FOR TWO,The Pizza Central
+biharsharif,40 MINS,"Indian, Chinese",₹200 FOR TWO,Shagun Family Ac Restaurant
+bidar,-- MINS,"South Indian, North Indian",₹250 FOR TWO,Moorthy Darhini udupi Hotel
+bidar,-- MINS,"South Indian, North Indian",₹150 FOR TWO,tillu Chatakdar
+bidar,-- MINS,Indian,₹250 FOR TWO,Cool Crush Shawarma House
+bidar,-- MINS,Desserts,₹200 FOR TWO,Royal Paan Parlour
+bidar,-- MINS,"African, Indian",₹150 FOR TWO,Moniginis cakes
+bidar,-- MINS,American,₹250 FOR TWO,Monginis
+bikaner,29 MINS,"American, Fast Food",₹400 FOR TWO,Wendy's
+bikaner,34 MINS,"North Indian, Chinese, Sweets",₹200 FOR TWO,Aggarwal Sweets & Restaurant
+bikaner,39 MINS,"North Indian, Sweets",₹150 FOR TWO,Food Expresso
+bikaner,50 MINS,"Biryani, Mughlai, North Indian, Kebabs, Hyderabadi, Lucknowi, Andhra, South Indi...",₹400 FOR TWO,Biryani Queen
+bikaner,30 MINS,"American, Fast Food",₹350 FOR TWO,Burger King
+bikaner,40 MINS,"Sweets, North Indian, Fast Food, South Indian, Chinese, Snacks, Desserts, Bakery",₹500 FOR TWO,Om Sweets & Snacks
+bijnor,25 MINS,North Indian,₹200 FOR TWO,Gappu Gol (Thali)
+bijnor,25 MINS,Chinese,₹140 FOR TWO,99 - Ninety  Nine
+bikaner,37 MINS,"Mughlai, North Indian, Chinese",₹400 FOR TWO,Handi Xpress (DLF Phase 3)
+bikaner,56 MINS,North Indian,₹200 FOR TWO,Ramesh Dhaba & Chinar Sweets
+bikaner,32 MINS,"North Indian, Chinese, Snacks, Tandoor, Biryani",₹400 FOR TWO,Swaad Kitchen
+bikaner,34 MINS,"Chinese, North Indian, Tandoor",₹300 FOR TWO,prince ki choice
+bikaner,58 MINS,Indian,₹200 FOR TWO,Jagdish Vaishno Dhaba
+bikaner,23 MINS,"North Indian, Home Food, Indian, Desserts",₹200 FOR TWO,Khichdi Aroma
+bikaner,41 MINS,South Indian,₹300 FOR TWO,Thalassery Restaurant
+bikaner,56 MINS,"North Indian, Chinese, Continental, Italian",₹350 FOR TWO,HR-26 Zaika
+bijnor,28 MINS,"North Indian, South Indian, Chinese",₹200 FOR TWO,Avyan's Restaurant
+bijnor,28 MINS,Chinese,₹150 FOR TWO,China Town
+bijnor,30 MINS,Pizzas,₹400 FOR TWO,Domino's Pizza
+bijnor,30 MINS,North Indian,₹200 FOR TWO,Chaudhary Bhojnalaya
+bijnor,30 MINS,"Chinese, Mughlai",₹150 FOR TWO,Impression Chaap & Momos (M/s - Impression Restaur
+bijnor,34 MINS,Chinese,₹250 FOR TWO,ZAYAKA FOOD
+bikaner,28 MINS,"Chinese, Asian, Street Food, Tibetan",₹250 FOR TWO,Syder
+bikaner,33 MINS,"North Indian, Chinese, Desserts, Fast Food, South Indian, Sweets",₹450 FOR TWO,Bikanervala
+bijnor,34 MINS,"North Indian, South Indian, Chinese",₹200 FOR TWO,Salt N Pepper Family Restaurant
+bijnor,34 MINS,"North Indian, Fast Food",₹200 FOR TWO,Impression Restaurant
+bijnor,34 MINS,"Desserts, Bakery",₹100 FOR TWO,Unik Cake Bakers
+bijnor,35 MINS,"Fast Food, Italian",₹200 FOR TWO,Gappu Gol
+bijnor,36 MINS,Pizzas,₹200 FOR TWO,Italian Pizza House
+bijnor,38 MINS,Mughlai,₹200 FOR TWO,Al - Baik.com
+bijnor,-- MINS,Fast Food,₹100 FOR TWO,Darjeeling Fast Food
+bodhan-rural,26 MINS,Biryani,₹200 FOR TWO,T-grill Family Restaurant
+bodhan-rural,28 MINS,Biryani,₹200 FOR TWO,Arooma Curries and Biryani Point
+bodhan-rural,28 MINS,Fast Food,₹50 FOR TWO,Shiv Foods
+bodhan-rural,30 MINS,Biryani,₹250 FOR TWO,New Hi-Tech Restaurant
+bodhan-rural,25 MINS,South Indian,₹150 FOR TWO,Jaya Sai Tiffins
+bodhan-rural,-- MINS,"Asian, Chinese",₹250 FOR TWO,Asian Bakery & Fast Food Corner
+bodhan-rural,-- MINS,South Indian,₹100 FOR TWO,Gayathri Tiffen Center
+bodhan-rural,-- MINS,"Indian, Chinese",₹100 FOR TWO,VEDA FAST FOOD Spot
+bodhan-rural,-- MINS,"South Indian, Beverages",₹100 FOR TWO,Dolphins Hotel
+bodhan-rural,-- MINS,Afghani,₹250 FOR TWO,Nisha Food Corner & Family Restaurant
+bodhan-rural,-- MINS,"Arabian, Fast Food, Beverages",₹200 FOR TWO,SNACK N SHAKE
+bodhan-rural,-- MINS,Chinese,₹200 FOR TWO,Choice Fast Food
+bodhan-rural,-- MINS,Biryani,₹300 FOR TWO,Dhawath Family Restaurant
+bokaro,37 MINS,South Indian,₹200 FOR TWO,Mani's Cafe
+bokaro,22 MINS,"Indian, Seafood",₹150 FOR TWO,Bharat Hindu Hotel
+bokaro,33 MINS,"Indian, Chinese, Tandoor, Biryani",₹200 FOR TWO,Apple Restaurant
+bokaro,45 MINS,"Indian, North Indian",₹300 FOR TWO,The Yellow Chilli
+bokaro,32 MINS,"Indian, Chinese",₹200 FOR TWO,Aroti Restaurant
+bokaro,32 MINS,"Indian, Chinese",₹200 FOR TWO,Shekhar's Restaurant
+bokaro,35 MINS,"Sweets, South Indian, North Indian",₹200 FOR TWO,Gopal's
+bokaro,38 MINS,"Biryani, North Indian",₹200 FOR TWO,Shahi Darbar - ISM 
+bokaro,40 MINS,"Biryani, Chinese, Indian",₹200 FOR TWO,Biryani Street
+bokaro,34 MINS,"Indian, Chinese, Pizzas, Continental",₹250 FOR TWO,La - Piazza Restaurant
+bokaro,34 MINS,"Beverages, Fast Food, Continental, Pastas, Pizzas",₹200 FOR TWO,Go69 Pizza
+bokaro,34 MINS,"Indian, Chinese, Tandoor, Biryani, Fast Food",₹200 FOR TWO,Bhukkad By Punjabi Weds Paratha
+bokaro,43 MINS,"Indian, Chinese",₹150 FOR TWO,Yele Foods
+bokaro,34 MINS,"Home Food, Healthy Food, Indian",₹150 FOR TWO,Anki_Creations
+bokaro,35 MINS,"Biryani, Chinese",₹150 FOR TWO,S K Kolkata Biryani
+bokaro,50 MINS,"Chinese, Indian, Beverages, Snacks, Tandoor",₹200 FOR TWO,Thikana Garden Restaurant
+bina,25 MINS,Bakery,₹200 FOR TWO,S K Bakery
+bina,-- MINS,"Beverages, Indian, Italian",₹250 FOR TWO,Tasse Tee
+botad,30 MINS,"North Indian, Gujarati, South Indian",₹150 FOR TWO,Real Taste Restaurant
+botad,25 MINS,Fast Food,₹100 FOR TWO,Iskon Restaurant 
+botad,-- MINS,Fast Food,₹100 FOR TWO,Pizza Point
+bolpur,31 MINS,"Bengali, Chinese, Indian, Tandoor",₹250 FOR TWO,Hotel Rangamati
+bolpur,37 MINS,"Biryani, North Indian",₹200 FOR TWO,Kolkata Royal Biryani
+bolpur,41 MINS,"Chinese, Indian, Mughlai, Tandoor",₹300 FOR TWO,Flavours Restaurant-Club Central
+bolpur,42 MINS,Mughlai,₹150 FOR TWO,Kasturi Biryani
+bolpur,-- MINS,"Chinese, Indian",₹200 FOR TWO,Rangamati Garden 
+bolpur,-- MINS,North Indian,₹250 FOR TWO,Mache Bhate Bangali
+bolpur,-- MINS,North Indian,₹380 FOR TWO,Santiniketan Tourist Lodge
+bolpur,-- MINS,"Chinese, Indian, Mughlai, Tandoor",₹300 FOR TWO,Hotel Royal Bengal (Sonajhuri)
+bolpur,-- MINS,Bakery,₹150 FOR TWO,The Sugarr & Spice _Bandhgora
+bolpur,-- MINS,"Chinese, Indian, Tandoor",₹250 FOR TWO,Lalmati Restaurant
+bolpur,-- MINS,"Indian, South Indian",₹200 FOR TWO,The Tamarind
+bolpur,-- MINS,Mughlai,₹150 FOR TWO,Kolkata Arsalan Biryani House
+bolpur,-- MINS,"Chinese, Indian, South Indian, Tandoor",₹250 FOR TWO,9X9 Restaurant
+bolpur,-- MINS,"Biryani, Indian, Salads",₹200 FOR TWO,Kolkata Famous Haji Biryani
+bongaigaon,23 MINS,Sweets,₹100 FOR TWO,Moni's Sweets
+bongaigaon,24 MINS,"Indian, Chinese",₹300 FOR TWO,Moni's Restaurant
+bongaigaon,25 MINS,"Pizzas, American",₹350 FOR TWO,Laziz Pizza
+bongaigaon,26 MINS,"Chinese, Indian, Continental",₹300 FOR TWO,Delish Restaurant
+bongaigaon,27 MINS,"Beverages, Chinese, Indian",₹150 FOR TWO,CAKE HEAVEN
+bongaigaon,27 MINS,"Indian, Italian, Chinese",₹300 FOR TWO,NH-27 KITCHEN
+bongaigaon,28 MINS,Indian,₹300 FOR TWO,Jahnabee Regency
+bongaigaon,29 MINS,"Chinese, North Indian",₹250 FOR TWO,Hotel Subham
+bongaigaon,29 MINS,"Chinese, Mughlai, North Indian",₹300 FOR TWO,Gunjan Restaurant
+bongaigaon,31 MINS,"American, Biryani, Indian",₹300 FOR TWO,CHICK BLAST
+bongaigaon,33 MINS,"Cafe, Chinese, Continental",₹300 FOR TWO,BREWBAKES CAFE & BISTRO
+bongaigaon,33 MINS,"Chinese, Indian",₹140 FOR TWO,DEKA SANG
+bongaigaon,33 MINS,"Chinese, North Indian",₹150 FOR TWO,Big Bites
+bongaigaon,33 MINS,"Snacks, Sweets",₹20 FOR TWO,ABHIRUCHI SWEETS
+bongaigaon,34 MINS,"Biryani, Indian",₹200 FOR TWO,M/S LOLLYWAY
+bongaigaon,36 MINS,"Biryani, Chinese, Fast Food, Indian",₹140 FOR TWO,DIKSHAS
+budaun,25 MINS,"Fast Food, Italian",₹150 FOR TWO,Pizzafactory (World's Favourite Taste)
+budaun,25 MINS,"North Indian, Fast Food, Chinese, Snacks, Beverages, Indian, South Indian, Itali...",₹200 FOR TWO,Chatore
+budaun,25 MINS,"Pizzas, Fast Food, Snacks",₹199 FOR TWO,DOMS PIZZERIA AND PASTA
+budaun,30 MINS,"North Indian, Fast Food",₹150 FOR TWO,Dawat Restaurant
+budaun,25 MINS,"Bakery, Fast Food",₹150 FOR TWO,Bake & Bite
+budaun,25 MINS,"North Indian, Indian",₹100 FOR TWO,Shakahari Pavitra Bhojnalaya (Chandrabhan Pandit ji Hotel)
+budaun,25 MINS,"North Indian, Arabian",₹150 FOR TWO,The Kohinoor Hotel
+budaun,25 MINS,"Italian, Snacks",₹300 FOR TWO,La Pino'Z Pizza
+budaun,25 MINS,North Indian,₹100 FOR TWO,Gupta Ji Hotel
+budaun,25 MINS,"North Indian, Arabian, Biryani",₹250 FOR TWO,Hotel Shalimar
+budaun,25 MINS,"Ice Cream, Desserts",₹300 FOR TWO,Giani
+budaun,25 MINS,"Afghani, Mughlai",₹110 FOR TWO,Makhdoomi Hotel
+budaun,31 MINS,Mughlai,₹100 FOR TWO,Dehli '6 Foods
+budaun,25 MINS,"Italian, Bakery, Fast Food",₹160 FOR TWO,Make My Cake
+budaun,28 MINS,Indian,₹110 FOR TWO,New Lawela Restaurant
+bongaon,26 MINS,"Indian, Chinese, Biryani",₹250 FOR TWO,Sampriti Hotel And Restaurant
+bongaon,26 MINS,"Chinese, Biryani, Indian",₹100 FOR TWO,Rannaghar
+bongaon,30 MINS,"Chinese, Mughlai, Biryani",₹200 FOR TWO,Subha Restaurant
+bongaon,25 MINS,"Indian, Chinese, Biryani, Mughlai",₹150 FOR TWO,Aviruchi
+bongaon,-- MINS,Biryani,₹50 FOR TWO,Golden Arsalan Biryani Point
+bongaon,-- MINS,"Bengali, Chinese",₹200 FOR TWO,Cook Love Cheers
+bongaon,-- MINS,"Indian, Chinese, Mughlai, Fast Food",₹200 FOR TWO,Sujay Snacks & Hotel
+bongaon,-- MINS,Biryani,₹200 FOR TWO,Nibedita Biryani House
+bongaon,-- MINS,Fast Food,₹150 FOR TWO,Nibedita Snacks And Restaurant
+buldana,-- MINS,"Pizzas, Fast Food",₹200 FOR TWO,MyMate
+buldana,-- MINS,Indian,₹300 FOR TWO,Hotel Nangara
+buldana,-- MINS,Biryani,₹150 FOR TWO,Om Chicken Biryani Center
+buldana,-- MINS,"Snacks, Italian, Fast Food, Cafe",₹200 FOR TWO,Taste N Twist
+buldana,-- MINS,"Chinese, Indian, Maharashtrian, Punjabi, South Indian",₹200 FOR TWO,Buldana Urban Residency Club
+buldana,-- MINS,"Cafe, Snacks",₹300 FOR TWO,Young Mugs Cafeteria
+buldana,-- MINS,"Indian, Biryani",₹400 FOR TWO,Hotel Dawat
+buldana,-- MINS,"Chinese, Indian, Maharashtrian, Punjabi",₹250 FOR TWO,Suryoday Dhaba
+buldana,-- MINS,"Chinese, Maharashtrian, North Indian, Punjabi",₹250 FOR TWO,Hotel BULDANA  GYMKHANA CLUB 
+buldana,-- MINS,Indian,₹200 FOR TWO,Gajanan Refreshments
+buldana,-- MINS,"Chinese, Indian, Punjabi",₹300 FOR TWO,Hotel Vijay Garden Restaurant
+buldana,-- MINS,"Snacks, Bakery, Desserts",₹400 FOR TWO,Maa-Jagdamba-Bikaner-Sweets
+buldana,-- MINS,"Cafe, Snacks",₹250 FOR TWO,The Coffee House and Cafe
+buldana,-- MINS,Cafe,₹100 FOR TWO,Shri Cafeteria (Beyond Temptation)
+buldana,-- MINS,"Chinese, Fast Food",₹300 FOR TWO,Goodluck Chinese
+bundi,29 MINS,"Beverages, Fast Food, Snacks",₹200 FOR TWO,Shakes Affair
+bundi,31 MINS,"Beverages, Chinese, Desserts, Fast Food, Italian, North Indian",₹200 FOR TWO,Food Haus
+bundi,-- MINS,"Beverages, Chinese, Desserts, Italian, North Indian, South Indian",₹150 FOR TWO,Shiv Shakti Restaurant
+bundi,-- MINS,Italian,₹120 FOR TWO,Nakoda Fresh Corner
+bundi,-- MINS,"Beverages, Desserts, Fast Food",₹150 FOR TWO,Tapri House
+bundi,-- MINS,"Beverages, Cafe, Fast Food, North Indian",₹200 FOR TWO,Meetup Corner
+budhwal,35 MINS,North Indian,₹0 FOR TWO,Test_Swiggy Cloud_Menu Faasos
+budhwal,35 MINS,Fast Food,₹0 FOR TWO,Test_swiggy Cloud Menu Testing
+budhwal,35 MINS,North Indian,₹0 FOR TWO,Test Restaurant 11(MFP)
+budhwal,35 MINS,North Indian,₹200 FOR TWO,Spectrum Test Integration VMS(101068)
+budhwal,35 MINS,North Indian,₹0 FOR TWO,Swiggy_Test_Cloud_Menu chaayos_Restaurant
+budhwal,35 MINS,North Indian,₹0 FOR TWO,Test Restaurant 5(SF-IOS)
+budhwal,37 MINS,North Indian,₹0 FOR TWO,Test Restaurant 9(RNG)
+budhwal,40 MINS,"Chinese, North Indian, Goan, Andhra",₹110 FOR TWO,Test Restaurant 10(RNG)
+budhwal,45 MINS,South Indian,₹500 FOR TWO,Test Restaurant 1(Vendor)
+budhwal,-- MINS,"Bengali, Fast Food",₹200 FOR TWO,Cozypos integration VMS
+budhwal,-- MINS,"South Indian, North Indian, Nepalese",₹200 FOR TWO,Golivadapav  integration VMS (101073)
+budhwal,-- MINS,"Bengali, Fast Food",₹200 FOR TWO,Inresto integration VMS
+budhwal,-- MINS,Chinese,₹200 FOR TWO,Urbanpiper integration VMS (Test)
+central-goa,30 MINS,Indian,₹400 FOR TWO,Basseraa
+central-goa,26 MINS,"Indian, Beverages",₹400 FOR TWO,Navtara Veg Restaurant- Panaji Market
+central-goa,26 MINS,Goan,₹400 FOR TWO,The Royal Ruchik- Panaji
+central-goa,33 MINS,Indian,₹300 FOR TWO,Rasoi Ghar
+central-goa,25 MINS,Indian,₹900 FOR TWO,Sanyog
+buxar,25 MINS,"Sweets, Chinese, North Indian",₹200 FOR TWO,Banarashi Sweets & Restaurant
+central-goa,42 MINS,"Cafe, Goan",₹300 FOR TWO,Maya Flora
+central-goa,33 MINS,Biryani,₹400 FOR TWO,Mehzan Biryani
+central-goa,31 MINS,"Snacks, Continental, Beverages",₹200 FOR TWO,MANNPASAND - Taste of Old Delhi
+central-goa,23 MINS,"Pizzas, Italian-American, Desserts, Italian, Bakery",₹400 FOR TWO,Cremeux Cafe & Bistro
+central-goa,34 MINS,Chinese,₹400 FOR TWO,Chinese Adda
+central-goa,26 MINS,"Tibetan, Fast Food, Chinese, Snacks, Continental, Desserts",₹300 FOR TWO,Wow! Momo
+buxar,26 MINS,North Indian,₹200 FOR TWO,Kolkata Royal Biryani House
+buxar,27 MINS,"Indian, Italian, Chinese",₹220 FOR TWO,Dhaba Cafe
+buxar,30 MINS,Fast Food,₹200 FOR TWO,Laziz Pizza
+buxar,30 MINS,"Indian, Chinese, South Indian",₹200 FOR TWO,Pahwa Restaurant
+buxar,32 MINS,"Indian, Chinese",₹250 FOR TWO,P K Biryani Pot
+buxar,32 MINS,"Chinese, South Indian, North Indian",₹300 FOR TWO,Choubara
+buxar,36 MINS,North Indian,₹200 FOR TWO,Ravi Family Restaurant
+central-goa,30 MINS,"Snacks, Fast Food",₹150 FOR TWO,The Mumbai Canteen
+central-goa,30 MINS,"Indian, Chinese",₹500 FOR TWO,Grab Eat
+central-goa,32 MINS,"Goan, Tandoor",₹250 FOR TWO,CAFE VRUSHALI
+central-goa,26 MINS,Fast Food,₹200 FOR TWO,"Magik Rolls - Gastronut, Panjim"
+central-goa,36 MINS,Sindhi,₹300 FOR TWO,Sindhi Kitchen
+buxar,39 MINS,North Indian,₹200 FOR TWO,Apsara Restaurant
+buxar,-- MINS,"North Indian, South Indian, Punjabi, Chinese, Tandoor",₹200 FOR TWO,Food Villa 
+buxar,-- MINS,Sweets,₹200 FOR TWO,Ayush Sweets
+buxar,-- MINS,"Desserts, Bakery",₹300 FOR TWO,Makhan Bhog Bakery
+buxar,-- MINS,"Indian, Chinese, Snacks, South Indian",₹300 FOR TWO,Vaishnavi Clarks  Inn (The Bridge Restaurant)
+buxar,-- MINS,Sweets,₹250 FOR TWO,Badrinarayan Papriwale
+buxar,-- MINS,"Sweets, Snacks",₹200 FOR TWO,Sagar Sweets & Chat
+burhanpur,30 MINS,"Beverages, Desserts, Ice Cream, Snacks, Sweets",₹200 FOR TWO,Shalimar Dairy And Sweets
+burhanpur,31 MINS,"Beverages, Fast Food, Cafe, Chaat, Chinese, Desserts, Ice Cream, Pizzas, South I...",₹100 FOR TWO,Padam Shyam Food Cafe
+burhanpur,26 MINS,"North Indian, Chinese, Snacks, Beverages",₹200 FOR TWO,Shri Kishor Garden Restaurant
+burhanpur,27 MINS,North Indian,₹150 FOR TWO,Laxmi Mohit Bhojnalay
+burhanpur,28 MINS,"North Indian, Chinese",₹200 FOR TWO,Seth Sethani
+burhanpur,28 MINS,"North Indian, Chinese, Mughlai",₹200 FOR TWO,Rehmania Family Restaurant
+burhanpur,30 MINS,"Fast Food, Cafe, Italian, Pizzas",₹180 FOR TWO,New PepDep Non-Veg Pizza
+burhanpur,31 MINS,"Bakery, Desserts",₹200 FOR TWO,Preet Cakes And Bakes
+burhanpur,33 MINS,"Biryani, Chinese, Combo, Hyderabadi, Indian, Mughlai",₹180 FOR TWO,Rehan Chicken & Biryani
+burhanpur,28 MINS,"Desserts, Beverages, North Indian",₹200 FOR TWO,Kamal Ice Factory
+burhanpur,39 MINS,Desserts,₹250 FOR TWO,Vinod Dairy
+burhanpur,-- MINS,"Chinese, Snacks",₹150 FOR TWO,Chinese Zone (Jaistambh)
+burhanpur,-- MINS,"Indian, Chinese",₹250 FOR TWO,Hotel Panchvatika Garden Restaurant
+chalakkudy,25 MINS,"South Indian, Desserts, Beverages",₹200 FOR TWO,La Mystica
+chalakkudy,25 MINS,"South Indian, Desserts, Beverages",₹200 FOR TWO,Italian Pizza Hut Family Resturant
+chalakkudy,-- MINS,"South Indian, Desserts, Beverages",₹200 FOR TWO,Amul Icecream Parlour
+chalakkudy,-- MINS,"South Indian, Desserts, Beverages",₹200 FOR TWO,Apsara Resturant
+chalakkudy,-- MINS,"South Indian, Desserts, Beverages",₹200 FOR TWO,Mac N Cheese
+chalakkudy,-- MINS,"South Indian, Desserts, Beverages",₹200 FOR TWO,Sansa Grilled and Roasted
+chalakkudy,-- MINS,"South Indian, Desserts, Beverages",₹200 FOR TWO,Cafe Malhar
+chalakkudy,-- MINS,"South Indian, Desserts, Beverages",₹200 FOR TWO,Kitchen Fresh
+chalakkudy,-- MINS,"South Indian, Desserts, Beverages",₹200 FOR TWO,Mister Bakers
+chalakkudy,-- MINS,"Indian, Biryani",₹280 FOR TWO,RUCHI HOMEMADE
+chalakkudy,-- MINS,"South Indian, Desserts, Beverages",₹200 FOR TWO,K L Food Palace
+chalakkudy,-- MINS,"South Indian, Desserts, Beverages",₹200 FOR TWO,Cafe Enroute
+chandigarh,23 MINS,"Bakery, Beverages, Cafe, Chaat, Desserts, Fast Food, Healthy Food, Home Food, It...",₹250 FOR TWO,Chaayos Meri Wali Chai
+chandigarh,30 MINS,"Fast Food, Pizzas, Desserts, Beverages, Combo, American",₹250 FOR TWO,Dominic Pizza( Sector 19)
+chandigarh,31 MINS,Bakery,₹250 FOR TWO,National Bakers
+chandigarh,28 MINS,"Salads, Healthy Food, Fast Food, Desserts, Continental, Beverages, American",₹200 FOR TWO,Burgrill - Grilling Burgers for India
+chandigarh,26 MINS,"South Indian, North Indian, Chinese",₹400 FOR TWO,Sagar Ratna
+chandigarh,28 MINS,"North Indian, Chaat, Continental, Chinese, Sweets, Bakery, Thalis, Beverages",₹300 FOR TWO,Sindhi Sweets
+chandigarh,28 MINS,North Indian,₹200 FOR TWO,Raj Ambersaria Kulcha and Dhaba
+chandigarh,34 MINS,"North Indian, Combo, Chinese, Thalis, Beverages",₹200 FOR TWO,Delhi Special Pranthe Wali Gali
+chandigarh,27 MINS,"Fast Food, Beverages, Combo",₹150 FOR TWO,Roll Nation
+chandigarh,32 MINS,Fast Food,₹400 FOR TWO,McDonald's
+chandigarh,34 MINS,"Street Food, North Indian, Combo",₹250 FOR TWO,Amritsari Kulcha Hub
+chandigarh,25 MINS,"North Indian, Chinese",₹300 FOR TWO,China Bazaar
+chandigarh,25 MINS,"Healthy Food, North Indian, Salads, Continental",₹300 FOR TWO,O Chicken India - Oil Free Healthy Chicken
+chandigarh,23 MINS,"North Indian, Salads",₹100 FOR TWO,Agra Parantha Bhandaar
+chandigarh,28 MINS,North Indian,₹300 FOR TWO,Lahori Dhaba
+chandigarh,34 MINS,"North Indian, Healthy Food, Biryani, Beverages",₹800 FOR TWO,Fabcafe By Fabindia
+charkhi-dadri,-- MINS,Pizzas,₹200 FOR TWO,Toll pizza
+charkhi-dadri,-- MINS,"Pizzas, Fast Food, Snacks",₹200 FOR TWO,Pizza & Burger Bell
+charkhi-dadri,-- MINS,"North Indian, Sweets",₹200 FOR TWO,Kadian Sweets
+charkhi-dadri,-- MINS,North Indian,₹200 FOR TWO,URBAN DESI
+charkhi-dadri,-- MINS,"North Indian, Snacks, Ice Cream, Beverages",₹250 FOR TWO,TUSHAR RESTAURANT
+bulandshahr,27 MINS,"North Indian, Indian, Tandoor, Salads",₹100 FOR TWO,Choudhary Shudh Bhojnalya
+charkhi-dadri,-- MINS,"Pizzas, Fast Food, Snacks",₹200 FOR TWO,Pizza Hub
+charkhi-dadri,-- MINS,"Pizzas, Ice Cream",₹200 FOR TWO,Jai Vadilal Ice Cream Shop & FastFood Point
+bulandshahr,25 MINS,"North Indian, Tandoor, Salads",₹150 FOR TWO,Bansal Family Restaurant
+bulandshahr,25 MINS,"North Indian, Snacks",₹150 FOR TWO,Gulshan Hotel
+bulandshahr,26 MINS,Italian,₹200 FOR TWO,The Pizza Box
+bulandshahr,33 MINS,"Pizzas, American, Snacks",₹150 FOR TWO,Mud Oven Pizza Cafe
+bulandshahr,38 MINS,"North Indian, Chinese, Tandoor, Beverages",₹200 FOR TWO,HEY FOODIES !
+bulandshahr,40 MINS,Indian,₹150 FOR TWO,Al Rashid Hotel
+bulandshahr,34 MINS,"Pizzas, Italian, Fast Food, Pastas",₹150 FOR TWO,Da Pizza Makers
+bulandshahr,37 MINS,"Chinese, Italian, American",₹150 FOR TWO,Asia Pizza Hut
+bulandshahr,25 MINS,"Snacks, Fast Food, Beverages, Mughlai, Use Code BF75 to Avail",₹150 FOR TWO,Tandy's Chicken
+bulandshahr,25 MINS,"Thalis, North Indian, Punjabi, Tandoor",₹150 FOR TWO,Food Combo's
+bulandshahr,41 MINS,"Pizzas, Italian-American, Pastas, Snacks, Beverages, Fast Food, Ice Cream",₹150 FOR TWO,U.S Pizza
+bulandshahr,44 MINS,"North Indian, Chinese, Tandoor, Punjabi, Pizzas, Pastas, Thalis, Desserts, Sweet...",₹200 FOR TWO,Blue Moon Hotel
+bulandshahr,44 MINS,"Tandoor, Chinese, Beverages",₹250 FOR TWO,Chaupati Restaurant
+bulandshahr,37 MINS,"North Indian, Chinese, Tandoor, South Indian, Punjabi, Sweets, Mughlai, Thalis",₹200 FOR TWO,Alka Motel
+bulandshahr,69 MINS,"Indian, Kebabs, Snacks",₹200 FOR TWO,Tandoori Cafe
+chalisgaon,25 MINS,North Indian,₹100 FOR TWO,Anapurna restaurant
+chalisgaon,25 MINS,Chinese,₹150 FOR TWO,Eagle Chinese
+chalisgaon,32 MINS,"Fast Food, North Indian, Chinese, Biryani, Snacks",₹99 FOR TWO,Mahavir Pav Bhaji & Chinese 
+chalisgaon,27 MINS,Chinese,₹149 FOR TWO,Babu Ji Rice Bowl 
+chalisgaon,28 MINS,North Indian,₹200 FOR TWO,Hotel Aditya
+chalisgaon,25 MINS,"North Indian, Chinese",₹150 FOR TWO,Hotel Chulamrut
+chalisgaon,27 MINS,Chinese,₹300 FOR TWO,Radhey Chinese
+chalisgaon,27 MINS,"Indian, Italian, North Indian, South Indian",₹299 FOR TWO,HI 5 Food Park
+chalisgaon,35 MINS,North Indian,₹200 FOR TWO,hotel bridge corner
+chalisgaon,38 MINS,"Biryani, Maharashtrian, North Indian",₹300 FOR TWO,Reliable Khandesi Katta
+chalisgaon,40 MINS,"South Indian, North Indian, Chinese, Biryani",₹149 FOR TWO,Reliable Pahunchar
+chalisgaon,41 MINS,Bakery,₹300 FOR TWO,Bakers Point
+chalisgaon,-- MINS,Snacks,₹129 FOR TWO,Jodhpur Snacks & Sweet's
+chalisgaon,-- MINS,North Indian,₹100 FOR TWO,datta prasad nasta center
+chhatarpur,35 MINS,"North Indian, Snacks, Beverages, Sweets",₹200 FOR TWO,Hotel Jatashankar
+chhatarpur,39 MINS,"Indian, Chinese",₹200 FOR TWO,PUBG FOOD POINT
+chhatarpur,42 MINS,"Fast Food, North Indian, Chinese, Desserts, Beverages",₹250 FOR TWO,La Bella Italia Restaurant
+chhatarpur,43 MINS,"North Indian, South Indian",₹200 FOR TWO,La Bella Italia Restaurant
+chhatarpur,-- MINS,Pizzas,₹150 FOR TWO,Standard kitchens
+chandrapur,26 MINS,"Desserts, North Indian, Beverages, Fast Food",₹400 FOR TWO,Rasraj
+chhatarpur,-- MINS,"South Indian, Chinese, Beverages",₹200 FOR TWO,M/S STAR FAMILY RESTAURANT
+chhatarpur,-- MINS,"Italian, Fast Food, North Indian, Beverages, Desserts",₹200 FOR TWO,Bistro Latte cafe
+chhatarpur,-- MINS,"Bakery, Desserts",₹100 FOR TWO,Agrawal Provision and Bakery Shop
+chhatarpur,-- MINS,"North Indian, Snacks, Sweets",₹200 FOR TWO,Neelkamal Restaurant
+chhatarpur,-- MINS,"Bakery, Pizzas",₹150 FOR TWO,Agrasen Provision and bakery
+chhatarpur,-- MINS,North Indian,₹250 FOR TWO,Atithi Restaurant - hotel regency chhatarpur
+chandrapur,33 MINS,Chinese,₹200 FOR TWO,Lazeez Chinese point
+chandrapur,25 MINS,Desserts,₹350 FOR TWO,Rio Cakes
+chandrapur,25 MINS,Biryani,₹300 FOR TWO,Sukoon Biryani
+chandrapur,25 MINS,Chinese,₹150 FOR TWO,Balu Chinese
+chandrapur,25 MINS,Chinese,₹100 FOR TWO,chaina Hut
+chandrapur,25 MINS,"Desserts, Fast Food, Asian, Beverages, Barbecue, Cafe",₹100 FOR TWO,Cluckees restaurant
+chandrapur,28 MINS,"North Indian, Mughlai, Chinese, Beverages",₹500 FOR TWO,Hotel Siddharth Premire
+chhatarpur,-- MINS,"North Indian, Chinese, South Indian, Biryani",₹150 FOR TWO,Restaurant Kanha
+chandrapur,25 MINS,"Sweets, North Indian, Fast Food",₹300 FOR TWO,RASRAJ SWEETS & CAKES
+chandrapur,25 MINS,"North Indian, Chinese, Fast Food, Beverages",₹500 FOR TWO,Hotel Siddharth
+chandrapur,25 MINS,Juices,₹100 FOR TWO,Juice Factory
+chandrapur,25 MINS,Chinese,₹100 FOR TWO,Sajan chinese
+chandrapur,25 MINS,Desserts,₹200 FOR TWO,Bake My Day
+chandrapur,25 MINS,"Snacks, Sweets",₹100 FOR TWO,Trimurti Restaurant
+chandrapur,25 MINS,Biryani,₹200 FOR TWO,HOTEL MH 34 Biryani Center
+chandrapur,36 MINS,"Biryani, Chinese, Kebabs, Pizzas",₹149 FOR TWO,Barbeque Restaurant
+changanasherry,25 MINS,"South Indian, Desserts, Beverages",₹200 FOR TWO,La Mystica
+changanasherry,25 MINS,"South Indian, Desserts, Beverages",₹200 FOR TWO,Italian Pizza Hut Family Resturant
+changanasherry,-- MINS,"South Indian, Desserts, Beverages",₹200 FOR TWO,Amul Icecream Parlour
+changanasherry,-- MINS,"South Indian, Desserts, Beverages",₹200 FOR TWO,Apsara Resturant
+changanasherry,-- MINS,"South Indian, Desserts, Beverages",₹200 FOR TWO,Mac N Cheese
+changanasherry,-- MINS,"South Indian, Desserts, Beverages",₹200 FOR TWO,Sansa Grilled and Roasted
+changanasherry,-- MINS,"South Indian, Desserts, Beverages",₹200 FOR TWO,Cafe Malhar
+changanasherry,-- MINS,"South Indian, Desserts, Beverages",₹200 FOR TWO,Kitchen Fresh
+changanasherry,-- MINS,"South Indian, Desserts, Beverages",₹200 FOR TWO,Mister Bakers
+changanasherry,-- MINS,"Indian, Biryani",₹280 FOR TWO,RUCHI HOMEMADE
+changanasherry,-- MINS,"South Indian, Desserts, Beverages",₹200 FOR TWO,K L Food Palace
+changanasherry,-- MINS,"South Indian, Desserts, Beverages",₹200 FOR TWO,Cafe Enroute
+chilakaluripet,-- MINS,Biryani,₹250 FOR TWO,Basha's relax pulka and biryani point
+chilakaluripet,-- MINS,Fast Food,₹200 FOR TWO,Sri manikanta fast foods and ice creams
+chilakaluripet,-- MINS,Bakery,₹200 FOR TWO,Vamsi bakery and ice cream parlour
+chilakaluripet,-- MINS,Biryani,₹250 FOR TWO,Khadeer biryani house
+chilakaluripet,-- MINS,"Bakery, Desserts",₹150 FOR TWO,Ratna swagruha foods
+chilakaluripet,-- MINS,"South Indian, Biryani",₹250 FOR TWO,Amrutha family Dhaba
+chhapra,26 MINS,"North Indian, Indian",₹350 FOR TWO,Rajnandani Cake Ghar
+chilakaluripet,-- MINS,South Indian,₹250 FOR TWO,Godavari family dhaba
+chilakaluripet,-- MINS,South Indian,₹200 FOR TWO,Samrat Hotel
+chilakaluripet,-- MINS,"Fast Food, Biryani",₹200 FOR TWO,Sree AnanthA Family Restaurant
+chilakaluripet,-- MINS,Biryani,₹300 FOR TWO,Suraksha's Biryani House
+chilakaluripet,-- MINS,"Indian, Biryani",₹150 FOR TWO,K.G.F Dhaba
+chhapra,25 MINS,"North Indian, Indian, South Indian, Chinese, Fast Food",₹250 FOR TWO,Mirchi Restaurant
+chhapra,25 MINS,Indian,₹250 FOR TWO,Kolkata Biryani House
+chhapra,30 MINS,"Continental, Pizzas, Pastas",₹200 FOR TWO,One Bite 
+chhapra,26 MINS,"North Indian, Indian, South Indian, Chinese",₹250 FOR TWO,Hotel Rajdarbar
+chhapra,42 MINS,Pizzas,₹300 FOR TWO,Laziz Pizza
+chhapra,34 MINS,"Desserts, Snacks, Pastas",₹300 FOR TWO,Gauri Cake & Ice Parlor
+chilakaluripet,-- MINS,South Indian,₹250 FOR TWO,Eagle biryani Family restaurent
+chilakaluripet,-- MINS,"South Indian, Biryani",₹250 FOR TWO,Navayuga Family Restaurant
+chilakaluripet,-- MINS,"South Indian, Biryani",₹250 FOR TWO,Ruchi's family restaurant
+chhapra,26 MINS,"North Indian, Indian",₹400 FOR TWO,Shringar Cake And Ice Parlor
+chhapra,27 MINS,"Indian, North Indian, South Indian, Chinese",₹150 FOR TWO,Dee Jee Restaurant
+chhapra,26 MINS,"North Indian, South Indian, Chinese",₹250 FOR TWO,Radhe Radhe Sweets
+chhapra,26 MINS,"North Indian, South Indian",₹250 FOR TWO,Aahar Restaurant
+chhapra,29 MINS,"Ice Cream, Chaat, Snacks",₹200 FOR TWO,Kumar Ice Parlour Sweets
+chhapra,28 MINS,North Indian,₹150 FOR TWO,New Hotel Mayank
+chhapra,23 MINS,"North Indian, Indian",₹400 FOR TWO,Singar Cake House
+chhapra,37 MINS,"Desserts, Bakery",₹250 FOR TWO,SWEETIE PIES
+chhapra,31 MINS,Indian,₹150 FOR TWO,Food Hub
+cherthala,22 MINS,South Indian,₹200 FOR TWO,Shenoy's hotel
+cherthala,32 MINS,"Bakery, Beverages",₹200 FOR TWO,Le Bon Cakes and Delicacies
+cherthala,33 MINS,"Asian, Continental, Beverages",₹200 FOR TWO,Cafe Green Grass
+cherthala,25 MINS,South Indian,₹200 FOR TWO,WOOD LANDS RESTAURENT
+cherthala,30 MINS,"South Indian, Kerala",₹250 FOR TWO,Al-Rad Kuzhimandi
+cherthala,23 MINS,"South Indian, Desserts, Beverages",₹200 FOR TWO,Hotel wayside inn
+cherthala,-- MINS,"South Indian, Desserts, Beverages",₹200 FOR TWO,Hotel Aryas
+cherthala,-- MINS,"Fast Food, Desserts, Beverages, Cafe",₹200 FOR TWO,Meriz Kutty Chef
+cherthala,-- MINS,"South Indian, Desserts, Beverages",₹200 FOR TWO,Orange bakers
+cherthala,-- MINS,Continental,₹200 FOR TWO,Kumbil bakes and cakes
+cherthala,-- MINS,"South Indian, Desserts, Beverages",₹200 FOR TWO,Silver chimmney food court
+cherthala,-- MINS,"South Indian, Desserts, Beverages",₹200 FOR TWO,Vinoos park
+cherthala,-- MINS,"South Indian, Desserts, Beverages",₹200 FOR TWO,Open Restaurant
+cherthala,-- MINS,South Indian,₹200 FOR TWO,KTH RESTAURANT
+chikkaballapur,27 MINS,"Indian, North Indian",₹200 FOR TWO,Hotel Sri Ambha Bhavani
+chikkaballapur,27 MINS,"North Indian, South Indian",₹250 FOR TWO,Shreyas Restaurant
+chikkaballapur,29 MINS,Pizzas,₹350 FOR TWO,OYALO Pizza
+chikkaballapur,29 MINS,Biryani,₹200 FOR TWO,GREEN CHILLI BIRYANI HOUSE
+chikkaballapur,32 MINS,"South Indian, North Indian, Chinese",₹200 FOR TWO,Green Chilli Family Restaurant
+chikkaballapur,34 MINS,South Indian,₹250 FOR TWO,RAMANNA MILITARY HOTEL
+chikkaballapur,35 MINS,"Biryani, Indian",₹200 FOR TWO,AMBUR DUM BIRYANI
+chikkaballapur,46 MINS,"Indian, North Indian, Chinese",₹250 FOR TWO,Hang On HighWay
+chikkaballapur,46 MINS,Indian,₹250 FOR TWO,Pizza House (Hang On Highway)
+chikkaballapur,46 MINS,"Beverages, Fast Food, Snacks",₹250 FOR TWO, FRIED KITCHEN BASKET (Hang On)
+chikkaballapur,-- MINS,"Biryani, Tandoor",₹200 FOR TWO,Rolls & More
+chikkaballapur,-- MINS,Indian,₹250 FOR TWO,SRI BALAJI GREEN LAND FAMILY RESTAURANT
+chikkaballapur,-- MINS,Chinese,₹100 FOR TWO,S.K Chats
+chikkaballapur,-- MINS,Pizzas,₹350 FOR TWO,Italian Woodfired Pizza Palace
+chennai,21 MINS,"Indian, Chinese, Grill, Tandoor",₹200 FOR TWO,R.K.Biriyani
+chennai,30 MINS,"North Indian, South Indian",₹450 FOR TWO,Sangeetha Veg Restaurant
+chennai,51 MINS,"Biryani, North Indian, Chinese",₹300 FOR TWO,SS Hyderabad Briyani
+chennai,27 MINS,"Cafe, Ice Cream",₹400 FOR TWO,Old Mercara
+chennai,31 MINS,"North Indian, Chinese, Indian, Ice Cream, South Indian, Grill, Tandoor",₹250 FOR TWO,Moonlight Takeaway
+chennai,41 MINS,"South Indian, Sweets, North Indian, Chinese, Snacks",₹200 FOR TWO,Nithya Amirtham
+chennai,24 MINS,"South Indian, North Indian",₹300 FOR TWO,Mathsya - (Adyar)
+chennai,34 MINS,"Biryani, Chettinad, Tandoor, Chinese",₹400 FOR TWO,Salem RR Biryani Unavagam
+chennai,33 MINS,"Chinese, Thai, Asian, Pan-Asian",₹300 FOR TWO,The Story of a Chinese Chef
+chennai,47 MINS,"North Indian, Chinese, South Indian",₹500 FOR TWO,Sangeetha
+chennai,52 MINS,"Biryani, Chettinad, Chinese",₹300 FOR TWO,Salem RR Restaurant
+chennai,33 MINS,Beverages,₹200 FOR TWO,BUBBLE TEA CAFE
+chennai,27 MINS,"Chettinad, South Indian, Biryani, Chinese",₹600 FOR TWO,Anjappar
+chennai,25 MINS,Chinese,₹300 FOR TWO,The Red Box 
+chennai,51 MINS,American,₹350 FOR TWO,Burger King
+chennai,24 MINS,"South Indian, North Indian, Sweets, Chinese",₹300 FOR TWO,A2B Veg
+chikmagalur,45 MINS,"Arabian, Chinese, North Indian, South Indian",₹200 FOR TWO,Taam Arabia
+chikmagalur,45 MINS,"North Indian, South Indian",₹150 FOR TWO,ARABIAN KNIGHTS
+chikmagalur,45 MINS,"Desserts, Beverages, Ice Cream",₹150 FOR TWO,indian ice cream industries
+chikmagalur,45 MINS,Pizzas,₹300 FOR TWO,OYALO Pizza
+chikmagalur,45 MINS,Cafe,₹250 FOR TWO,world of coffee
+chikmagalur,45 MINS,"Indian, Chinese, Tandoor, Fast Food, Biryani",₹400 FOR TWO,Aadrika
+chikmagalur,45 MINS,"South Indian, North Indian",₹200 FOR TWO,Naati Mane donne biriyani
+chikmagalur,45 MINS,"South Indian, North Indian",₹200 FOR TWO,Maharaja Restaurant
+chikmagalur,45 MINS,"South Indian, North Indian",₹250 FOR TWO,Signal Cafe
+chikmagalur,45 MINS,"South Indian, North Indian",₹250 FOR TWO,One Bite
+chikmagalur,45 MINS,"Continental, Juices, Beverages",₹300 FOR TWO,Lassi N cafe
+chikmagalur,45 MINS,"South Indian, North Indian, Chinese, Tandoor",₹250 FOR TWO,Town tables restaurant
+chikmagalur,45 MINS,"South Indian, North Indian",₹250 FOR TWO,Classic ice cream
+chikmagalur,49 MINS,"North Indian, Chinese, Biryani, Tandoor",₹200 FOR TWO,Chandan paradise
+chikmagalur,50 MINS,"Beverages, Snacks, Desserts",₹300 FOR TWO,Cafe Coffee Day
+chhindwara,53 MINS,Chinese,₹150 FOR TWO,R K Bombay VIP Chinese
+chhindwara,39 MINS,"North Indian, Desserts, Tandoor, Chinese",₹300 FOR TWO,Silver Dew ( Hotel Silver Shine )
+chhindwara,39 MINS,"Chinese, Fast Food, Pizzas, South Indian, Biryani",₹200 FOR TWO,Scoops Fast Food And Ice Cream
+chhindwara,39 MINS,"South Indian, Chinese, North Indian",₹100 FOR TWO,Dev International
+chhindwara,61 MINS,"Chinese, Fast Food",₹150 FOR TWO,Gupta Fast Food (Gupta Chines)
+chhindwara,37 MINS,"Sweets, Bakery",₹250 FOR TWO,Jalsa Sweets And Bakers
+chhindwara,30 MINS,Pizzas,₹350 FOR TWO,Domino's Pizza
+chhindwara,45 MINS,"Beverages, Desserts",₹250 FOR TWO,Bharat Mewad Ice Cream
+chhindwara,36 MINS,"Ice Cream, Juices",₹150 FOR TWO,Famous Lassi Juce Corner
+chhindwara,36 MINS,"Mughlai, North Indian",₹250 FOR TWO,Punjabi Darbar
+chhindwara,-- MINS,North Indian,₹150 FOR TWO,The Paratha House
+chhindwara,-- MINS,"Chinese, Fast Food, Desserts, Beverages, Tandoor",₹400 FOR TWO,Accord International
+chhindwara,-- MINS,"Chinese, Fast Food",₹150 FOR TWO,Guddu Chinese Centre
+chitradurga,25 MINS,"North Indian, South Indian",₹200 FOR TWO,Sulthan Family Restaurant
+chitradurga,25 MINS,South Indian,₹200 FOR TWO,Sri Annapoorneshwari Veg Hotel(G.B.T)
+chitradurga,25 MINS,"North Indian, South Indian",₹200 FOR TWO,Samad Kabab Centre
+chitradurga,25 MINS,"North Indian, South Indian",₹200 FOR TWO,Ravi Kamath Restaurant
+chitradurga,25 MINS,"North Indian, South Indian",₹200 FOR TWO,Lassi Shop
+chitradurga,25 MINS,Biryani,₹150 FOR TWO,Green Park Dum Biriyani Point
+chitradurga,26 MINS,"Indian, Chinese, Biryani",₹220 FOR TWO,AL BAIK THE MANDI HOUSE
+chitradurga,26 MINS,Indian,₹250 FOR TWO,Ruchi's
+chitradurga,26 MINS,Fast Food,₹150 FOR TWO,Hotel Anadatha Egg Food
+chitradurga,27 MINS,"Maharashtrian, North Indian, Fast Food, Street Food",₹100 FOR TWO,Goli vada Pav No-1
+chitradurga,28 MINS,"North Indian, South Indian",₹200 FOR TWO,Lassi Cafe
+chitradurga,29 MINS,"Pizzas, Italian",₹200 FOR TWO,JCR Pizza & Thatte Idly Corner
+chitradurga,29 MINS,"North Indian, South Indian",₹250 FOR TWO,Green Park Restaurant
+chitradurga,30 MINS,"North Indian, Chinese, South Indian",₹250 FOR TWO,Kote Kitchen
+chitradurga,30 MINS,"Indian, North Indian",₹200 FOR TWO,Sri Sai daba
+chitradurga,30 MINS,"North Indian, South Indian",₹200 FOR TWO,Five Star Chicken
+chittoor,-- MINS,"Asian, Chinese",₹200 FOR TWO,R Restaurant
+chittoor,-- MINS,"Biryani, South Indian, Tandoor, Chinese, Indian",₹300 FOR TWO,ANDHRA SPICE
+chittoor,-- MINS,"Asian, Chinese",₹250 FOR TWO,Pappu's Khana Khazana
+chittoor,-- MINS,Indian,₹199 FOR TWO,BAKERY HOUSE AND RESTUARANT
+chittoor,-- MINS,Biryani,₹250 FOR TWO,Gopi Hotel
+chittoor,-- MINS,Bakery,₹200 FOR TWO,Vakula Sweets
+chittoor,-- MINS,"Biryani, South Indian",₹200 FOR TWO,Hotel King
+chittoor,-- MINS,"Biryani, South Indian",₹200 FOR TWO,New King Hotel
+chittoor,-- MINS,South Indian,₹250 FOR TWO,Devi's kitchen
+chittoor,-- MINS,South Indian,₹100 FOR TWO,DLS Tiffins
+chittoor,-- MINS,Chinese,₹250 FOR TWO,Love Bites Family Restaurant
+chittoor,-- MINS,"European, Italian",₹200 FOR TWO,Sri Sai Juicy & Snacks
+chittoor,-- MINS,Bakery,₹200 FOR TWO,Rusi Bakery
+chittoor,-- MINS,"Asian, Chinese",₹200 FOR TWO,Durga Fast Foods
+chittoor,-- MINS,"North Indian, Chinese",₹250 FOR TWO,Tasty North
+dabra,26 MINS,"Beverages, Chinese, Italian",₹250 FOR TWO,ADHINATH FAST FOOD & ICE PARLOUR
+dabra,27 MINS,"North Indian, Chinese, Snacks",₹250 FOR TWO,The Nd Grande
+dabra,26 MINS,"North Indian, Chinese",₹200 FOR TWO,Hotel Shanti Palace
+dabra,-- MINS,Fast Food,₹150 FOR TWO,Jaish Food Cafe
+dabra,-- MINS,"Chinese, South Indian, North Indian",₹150 FOR TWO,Tirupati Balaji Fast Food and Dosa Corner
+dabra,-- MINS,"Chinese, Italian, Fast Food, Beverages",₹150 FOR TWO,Shivansh Ice Cream Parlour and Food Zone
+dabra,-- MINS,Desserts,₹400 FOR TWO,jodhpur misthan bhandar
+dabra,-- MINS,"Fast Food, Chinese",₹150 FOR TWO,ND Fast Food
+dabra,-- MINS,"North Indian, South Indian",₹200 FOR TWO,Shubham Provision ( Cake & Cake )
+dabra,-- MINS,"Italian, North Indian, Chinese, Fast Food",₹250 FOR TWO,PDK PURE VEG  PARCEL COUNTER
+cuddalore,28 MINS,"South Indian, North Indian",₹150 FOR TWO,Family Corner
+cuddalore,25 MINS,"South Indian, North Indian",₹150 FOR TWO,Beach Grill
+cuddalore,28 MINS,Arabian,₹170 FOR TWO,ZWARMA @ BAI VEETU KITCHEN
+cuddalore,25 MINS,"South Indian, North Indian",₹250 FOR TWO,Saral Chettinad Mess
+cuddalore,25 MINS,"South Indian, North Indian",₹300 FOR TWO,HOTEL ANANDHA BHAVAN (Manjakuppam Road)
+cuddalore,26 MINS,"South Indian, North Indian",₹150 FOR TWO,Thalapakattu Briyani Center
+cuddalore,25 MINS,"Biryani, Fast Food",₹200 FOR TWO,Bismillah Biriyani Paradise
+cuddalore,30 MINS,Indian,₹200 FOR TWO,VIJAISURYA HOTELS
+cuddalore,25 MINS,"Biryani, Burmese, Desserts",₹100 FOR TWO,MALDIVES COCO-HOUSE
+cuddalore,25 MINS,"Chinese, South Indian",₹200 FOR TWO,Indira Canteen
+cuddalore,25 MINS,South Indian,₹200 FOR TWO,SRI LAKSHMI BHAVAN (INDIAN COFFEE BAR)
+cuddalore,25 MINS,"South Indian, North Indian",₹600 FOR TWO,Hotel Subha Grand
+cuddalore,27 MINS,"Biryani, Fast Food, South Indian",₹200 FOR TWO,HOTEL GRK ANJAPPAR
+cuddalore,40 MINS,"Fast Food, Beverages",₹150 FOR TWO,Fresh Bitez
+cuddalore,31 MINS,South Indian,₹150 FOR TWO,HOTEL MASS
+cuddalore,37 MINS,"Pizzas, Italian, Fast Food, Snacks",₹150 FOR TWO,SAI PIZZA CORNER
+chittorgarh,30 MINS,Pizzas,₹400 FOR TWO,Domino's Pizza
+chittorgarh,32 MINS,North Indian,₹150 FOR TWO,Pritam Pratha Palace
+chittorgarh,34 MINS,North Indian,₹150 FOR TWO,Rituraj Vatika Restaurants
+chittorgarh,39 MINS,"Jain, North Indian, Rajasthani",₹200 FOR TWO,Jain Food Court
+chittorgarh,39 MINS,"Afghani, North Indian, Punjabi",₹200 FOR TWO,Aagha Nonveg & Veg Restaurant
+cuttack,26 MINS,"Desserts, Ice Cream",₹300 FOR TWO,Kwality Walls
+chittorgarh,44 MINS,"North Indian, Fast Food",₹200 FOR TWO,Nakoda Restaurant
+chittorgarh,48 MINS,Cafe,₹200 FOR TWO,Cafe Nirvana
+chittorgarh,55 MINS,"North Indian, Desserts, Fast Food",₹200 FOR TWO,Guru Nanak Bakery
+chittorgarh,-- MINS,"North Indian, Fast Food",₹70 FOR TWO,Gujrat Nashta Centre
+cuttack,32 MINS,"Chinese, North Indian, Continental, Fast Food",₹200 FOR TWO,Hotel Mahabir Galaxy
+cuttack,37 MINS,"Biryani, Chinese, Fast Food",₹150 FOR TWO,Bawarchi Fast Food
+cuttack,35 MINS,"Biryani, Kebabs, Fast Food, Desserts, Indian",₹200 FOR TWO,Biriyani Box
+cuttack,27 MINS,"Chinese, North Indian, Fast Food, Biryani",₹200 FOR TWO,Hotel Asha
+chittorgarh,-- MINS,"Indian, Snacks",₹200 FOR TWO,Pandit Ji Ke Alubade
+chittorgarh,-- MINS,"North Indian, Desserts, Fast Food",₹100 FOR TWO,Doulat Restaurant and Juice Center
+chittorgarh,-- MINS,North Indian,₹50 FOR TWO,Om Nashta Centre
+chittorgarh,-- MINS,"Cafe, Fast Food",₹200 FOR TWO,Mr. Maggi
+churu,31 MINS,"North Indian, Fast Food",₹200 FOR TWO,Hotel royal & bar
+cuttack,26 MINS,"South Indian, North Indian, Desserts, Fast Food",₹150 FOR TWO,Shree Vineeths
+cuttack,32 MINS,"Chinese, North Indian, Fast Food",₹300 FOR TWO,Mahabir Delight
+churu,27 MINS,North Indian,₹200 FOR TWO,Hotel annapurna and restaurent
+churu,35 MINS,"Desserts, Fast Food",₹200 FOR TWO,R K Cake house
+churu,39 MINS,"North Indian, Fast Food, Beverages",₹200 FOR TWO,Hotel shakti palace
+coimbatore,31 MINS,Indian,₹350 FOR TWO,HOTEL KANNAPPA
+cuttack,35 MINS,"Biryani, Chinese, Fast Food",₹250 FOR TWO,Mughlai Restaurant
+cuttack,32 MINS,"American, Fast Food, Snacks",₹450 FOR TWO,KFC
+cuttack,38 MINS,"Biryani, Chinese, Fast Food",₹250 FOR TWO,BAWARCHI AC FAMILY RESTAURANT
+cuttack,34 MINS,"Chinese, Fast Food, Mughlai",₹300 FOR TWO,Drool
+cuttack,35 MINS,"Biryani, Chinese, Fast Food",₹250 FOR TWO,New Mughlai Restaurant
+cuttack,35 MINS,"Chinese, Indian",₹150 FOR TWO,Rasoi
+churu,35 MINS,"Fast Food, Beverages",₹200 FOR TWO,RJ-10 The food love of churu
+churu,27 MINS,Fast Food,₹200 FOR TWO,Papa veg Pizza
+churu,36 MINS,Bakery,₹200 FOR TWO,New panjwani Bakers
+churu,-- MINS,"North Indian, Fast Food, Beverages",₹200 FOR TWO,Rathore lodge & restaurant
+churu,-- MINS,"Fast Food, Beverages",₹100 FOR TWO,Delicious point (chitra)
+coimbatore,20 MINS,South Indian,₹100 FOR TWO,Geetha Canteen
+coimbatore,27 MINS,"North Indian, South Indian",₹200 FOR TWO,SS Hotel
+coimbatore,33 MINS,"Continental, Italian, Chinese, Biryani, Mexican",₹280 FOR TWO,B2B Fried chicken
+coimbatore,21 MINS,"Hyderabadi, Biryani",₹200 FOR TWO,Hyderabad Biriyani Hotel
+coimbatore,25 MINS,"North Indian, Kerala",₹250 FOR TWO,Malabar Restaurant
+coimbatore,22 MINS,"Ice Cream, Desserts",₹300 FOR TWO,Kwality Walls
+cuttack,37 MINS,"Biryani, Chinese, Fast Food",₹200 FOR TWO,Tastry
+cuttack,32 MINS,North Indian,₹200 FOR TWO,Hotel Bhagabati
+cuttack,40 MINS,"Biryani, Chinese, Fast Food",₹250 FOR TWO,HOTEL JAI RADISON AND CONVENTION CENTER
+churu,-- MINS,Fast Food,₹200 FOR TWO,Bollywood burgar wrap
+churu,-- MINS,"Bakery, Fast Food",₹150 FOR TWO,Beyond Cafe
+coimbatore,25 MINS,"North Indian, South Indian",₹300 FOR TWO,Sri Raja Biriyani Hotel
+coimbatore,28 MINS,"South Indian, Chinese",₹200 FOR TWO,Burma Bhai
+coimbatore,33 MINS,"North Indian, Thalis, Chaat, Desserts, Gujarati, South Indian",₹200 FOR TWO,Kaanchan Kitchen's
+coimbatore,28 MINS,"Biryani, Combo, Chinese, Tandoor",₹200 FOR TWO,Chennai's Biriyani House
+coimbatore,29 MINS,"South Indian, Indian, Chinese",₹400 FOR TWO,Dindigul Thalappakatti
+coimbatore,32 MINS,"South Indian, Chettinad, Chinese",₹400 FOR TWO,Haribhavanam
+coimbatore,23 MINS,"Biryani, Arabian, South Indian, Chinese",₹400 FOR TWO,Cock Ra Co
+coimbatore,29 MINS,"Indian, South Indian, North Indian, Chinese, Desserts",₹200 FOR TWO,Sree Annapoorna
+coimbatore,39 MINS,"Indian, Seafood, Chettinad",₹300 FOR TWO,SMS Hotels
+dabhoi,30 MINS,"Fast Food, Snacks",₹150 FOR TWO,Shiv Kailash Pavbhaji Center
+dahod,31 MINS,"Desserts, Beverages, Ice Cream",₹150 FOR TWO,Jay Bholenath Ice Cream
+dabhoi,30 MINS,"Pizzas, Fast Food, Beverages",₹250 FOR TWO,The Craft Cafe
+dabhoi,-- MINS,"North Indian, Chinese",₹300 FOR TWO,Sarita hotel
+dabhoi,-- MINS,"Chinese, South Indian, North Indian, Fast Food, Punjabi",₹300 FOR TWO,Hotel Priya
+dabhoi,-- MINS,"Chinese, Fast Food",₹150 FOR TWO,PUFFIZZA
+dahod,26 MINS,Indian,₹200 FOR TWO,Kanha Restaurant
+dahod,29 MINS,"Chinese, Fast Food, Italian",₹150 FOR TWO,RR Food Cafe
+dahod,27 MINS,"Fast Food, Snacks, Pizzas, Grill, Biryani, Beverages",₹200 FOR TWO,Chatkazz
+dahod,30 MINS,"Beverages, Juices",₹150 FOR TWO,Prakash Juice
+dabhoi,-- MINS,"Pizzas, Fast Food, Beverages",₹200 FOR TWO,Mount Pizza Crust
+dahod,26 MINS,"North Indian, Punjabi, Biryani",₹200 FOR TWO,Guru Krupa Bhojnalaya
+dahod,35 MINS,Fast Food,₹200 FOR TWO,Pizza Da Dhaba Cafe
+dahod,-- MINS,"North Indian, Punjabi, Biryani",₹200 FOR TWO,Prakash Bhojnalaya
+dahod,-- MINS,"Desserts, Fast Food",₹300 FOR TWO,Mr Cake Shop and Bakery
+damoh,27 MINS,"Beverages, Fast Food",₹200 FOR TWO,Burgerland
+dahod,-- MINS,"Chinese, South Indian, North Indian, Fast Food, Pizzas, Beverages, Chaat",₹300 FOR TWO,R Honest Restaurant
+dahod,-- MINS,"Chinese, Fast Food, Bakery",₹150 FOR TWO,Shandar Live Bakery
+damoh,29 MINS,"Chinese, Fast Food, North Indian, South Indian",₹200 FOR TWO,Hotel Manglam
+damoh,30 MINS,Fast Food,₹200 FOR TWO,Burger Bros
+damoh,30 MINS,North Indian,₹200 FOR TWO,khana Pachana 
+damoh,31 MINS,"Bakery, Desserts",₹300 FOR TWO,Jain Home Bakery
+damoh,48 MINS,Desserts,₹350 FOR TWO,Shakti Bakery
+damoh,-- MINS,Bakery,₹300 FOR TWO,Cake Crackers
+damoh,-- MINS,Bakery,₹300 FOR TWO,ONE CAKE
+damoh,-- MINS,"Chinese, Fast Food, South Indian, North Indian, Beverages, Desserts, Pizzas",₹200 FOR TWO,Shri Anand Family Veg Restaurant
+damoh,-- MINS,North Indian,₹200 FOR TWO,Akbar Hotel (non-veg) Family Restaurant
+damoh,-- MINS,"Pizzas, Beverages",₹300 FOR TWO,Prince Pizzeria
+damoh,-- MINS,North Indian,₹250 FOR TWO,Sher-e-punjab (non-veg Restaurant)
+damoh,-- MINS,"Fast Food, Chinese, Desserts, Beverages, North Indian, Biryani",₹250 FOR TWO,Daawat Restaurant
